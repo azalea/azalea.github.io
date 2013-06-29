@@ -9,27 +9,12 @@ published: true
 meta:
   views: '220'
 ---
-<strong>Chess · 日月光华 精华区文章阅读</strong>
-<table border="0" cellspacing="0" cellpadding="0" align="center">
-<tbody>
-<tr>
-<td width="6"><img src="http://bbs.fudan.edu.cn/images/lt.gif" border="0" alt="" /></td>
-<td width="100%"></td>
-<td width="6"><img src="http://bbs.fudan.edu.cn/images/rt.gif" border="0" alt="" /></td>
-</tr>
-<tr>
-<td width="6"></td>
-<td width="100%" bgcolor="#ffffff">
-<table border="0" width="100%">
-<tbody>
-<tr>
-<td>
-<pre class="ansi">发信人: azalea (^笑对人生^), 信区: Chess
+Chess · 日月光华 精华区文章阅读
+发信人: azalea (^笑对人生^), 信区: Chess
 标  题: [合集]写写刚才的协会活动
 发信站: 日月光华 (2005年03月29日03:30:15 星期二), 站内信件
 
-<span class="c32">☆──────────────────────────────────────☆</span>
-    <span class="c32"> azalea (^笑对人生^) </span>于 <span class="c36">2005年03月24日23:30:45 星期四</span> 提到：
+azalea (^笑对人生^)于2005年03月24日23:30:45 星期四提到：
 
 刚才协会活动玩得很开心，就流水一下啦。
 晚上bg完从枫林远道而来的fiocz，我们就一起走到南区体教部教室，还迟到了5分钟，
@@ -49,8 +34,7 @@ aoyao大声道：你们拿我的书干什么？！
 
 晚上回来，夜凉如水，手都冻僵了，写得好辛苦..
 
-<span class="c32">☆──────────────────────────────────────☆</span>
-    <span class="c32"> fiocz (m7GpppG cap poly A tail) </span>于 <span class="c36">2005年03月24日23:31:53 星期四</span> 提到：
+fiocz (m7GpppG cap poly A tail)于2005年03月24日23:31:53 星期四提到：
 
 re~
 : 刚才协会活动玩得很开心，就流水一下啦。
@@ -65,8 +49,8 @@ re~
 : 很喜欢这种气氛，人来人往，熙熙攘攘的，很随意。
 : .................（以下省略）
 
-<span class="c32">☆──────────────────────────────────────☆</span>
-    <span class="c32"> boliwa (0122·玻璃·引退了) </span>于 <span class="c36">2005年03月24日23:32:37 星期四</span> 提到：
+──────────────────────────────────────
+boliwa (0122·玻璃·引退了)于 <span class="c36">2005年03月24日23:32:37 星期四</span> 提到：
 
 挖和
 
