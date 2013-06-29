@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://azalea.github.io/sitemap.xml
