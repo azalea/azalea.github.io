@@ -18,6 +18,7 @@ done
 shift $((OPTIND - 1))
 
 if test -z $infile; then
+    echo "Remove multi-mappers and keep uniquely mapped reads in an alignment file. Now support .sam, .bed, and other tab-delimited files."
     echo "Usage: $0 [-c] -i infile [-o outfile]"
     echo "       -c Optional. Read name column. Default: 1"
     echo "       -i Manditory. Input file name."

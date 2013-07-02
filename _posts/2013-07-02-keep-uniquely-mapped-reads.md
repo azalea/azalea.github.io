@@ -44,4 +44,4 @@ awk '{delim = ""; for (i=1;i<=NF-1;i++) {printf delim "%s", $i; delim = OFS}; pr
 
 You are done!
 
-Here is a shell script [keepunique.sh](/attachments/keepunique.sh) that you can download and use. Have fun.
+Here is a shell script [keepunique.sh](https://gist.github.com/azalea/5914087) that you can download and use. Have fun.
