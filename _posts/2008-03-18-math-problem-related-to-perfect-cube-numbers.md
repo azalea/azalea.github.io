@@ -3,7 +3,7 @@ layout: post
 title: 请教：有没有比较好的搜索数学题的地方？
 tags:
 - whatever
-- 数学
+- math
 - 问题
 status: publish
 type: post
