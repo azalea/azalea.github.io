@@ -44,4 +44,6 @@ awk '{delim = ""; for (i=1;i<=NF-1;i++) {printf delim "%s", $i; delim = OFS}; pr
 
 You are done!
 
-Here is a shell script [keepunique.sh](https://gist.github.com/azalea/5914087) that you can download and use. Have fun.
+Here is a shell script [keepunique.sh](https://gist.github.com/azalea/5914087) that you can download and use. 
+
+By the way, it is officially discouraged to use uniqueness to filter reads. See [this](http://sourceforge.net/apps/mediawiki/samtools/index.php?title=SAM_FAQ#I_want_to_get_.60unique.27_alignments_from_SAM.2FBAM.) and [this](http://www.biostars.org/p/59281/). So use at your own risk.
