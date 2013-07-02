@@ -17,6 +17,14 @@ done
 
 shift $((OPTIND - 1))
 
+if test -z $infile; then
+    echo "Usage: $0 [-c] -i infile [-o outfile]"
+    echo "       -c Optional. Read name column. Default: 1"
+    echo "       -i Manditory. Input file name."
+    echo "       -o Optional. Output file name."
+    exit 1
+fi
+
 if test -z $column; then
     case ${infile##*.} in
 	sam)
