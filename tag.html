@@ -4,6 +4,11 @@ title: 关键词
 permalink: /tag/
 ---
 <div class="wrapper">
+<div class="tag-cloud">
+{% for tag in site.tags %}
+<a href="#{{ tag | first }}">{{ tag | first }}<span>{{ tag[1].size }}</span></a>
+{% endfor %}
+</div>
 {% for tag in site.tags %}
 <a name="{{ tag | first }}"><h2>{{ tag | first }}</h2></a>
     <ul  class="unstyled">

@@ -90,6 +90,10 @@ p small {
     font-weight: 200;
     line-height: 45px;
 }
+.tag-cloud span {
+    vertical-align: super;
+    font-size: 0.8em;
+}
 h1, h2, h3, h4, h5, h6 {
     font-weight: normal;
     color: #555;
@@ -222,6 +226,16 @@ blockquote.pull-right {
 }
 blockquote.pull-right p, blockquote.pull-right small {
     text-align: right;
+}
+table {
+    border-collapse:collapse;
+}
+table ,th ,td {
+  border: 1px solid #dddddd;
+}
+table td, table th
+{
+    padding:5px;
 }
 q:before, q:after, blockquote:before, blockquote:after {
     content: ""}
