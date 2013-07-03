@@ -16,9 +16,6 @@ title: azalea says
 	{% endif %}
 </div>
 {% endfor %}
-{% comment %}
-<!-- show 1 postTitles -->
-{% endcomment %}
 <div class="wrapper">
 <ul class="postsList">
 {% for post in site.posts limit: 5 offset:3 %}
@@ -26,4 +23,13 @@ title: azalea says
 {% endfor %}
 <li><a class="btn"  href="/archive/">存档</a> →</li>
 </ul>
+</div>
+<div class="wrapper">
+	<div class="tag-cloud">
+		{% for tag in site.tags %}
+		{% if tag[1].size > 1 %}
+		<a href="/tag/#{{ tag | first }}">{{ tag | first }}<span>{{ tag[1].size }}</span></a>
+		{% endif %}
+		{% endfor %}
+</div>
 </div>
