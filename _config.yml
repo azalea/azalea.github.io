@@ -1,8 +1,7 @@
 name: azaleasays
-pygments: true
 markdown: redcarpet
 redcarpet:
-    extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "strikethrough"] 
+    extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
 permalink: /:year/:month/:day/:title 
 title: azalea says
 timezone: America/New_York
