@@ -10,12 +10,10 @@
 html, body {
     background-color: #E6EBEA;
 }
-footer, header, nav {
+header, nav {
     display: block;
 }
-footer {
-    margin-top: -40px;
-}
+
 .nav>a {
      margin:  0px 20px 0px 0px;
 }
@@ -395,7 +393,7 @@ text-shadow: 0 1px 0 #fff;
 }
 .wrapper  {
     background-color:  #fff;
-    margin:  10px 0px 50px 0px;
+    margin:  10px 0px 30px 0px;
     padding:  10px 20px;
     moz-border-radius:  5px;
     webkit-moz-border-radius:  5px;
@@ -419,6 +417,10 @@ text-shadow: 0 1px 0 #fff;
     color: #bbb;
   float: right;
   font-size: 14px;
+}
+
+.footer {
+    text-align: center;
 }
 
 @media only screen and (max-width:768px) {
