@@ -106,9 +106,6 @@ h1 {
     line-height: 60px;
     font-size: 24px;
 }
-h1 small {
-    font-size: 16px;;
-}
 h2 {
     color:  #777;
     background-color: #F2F8F7;
@@ -421,6 +418,12 @@ text-shadow: 0 1px 0 #fff;
 
 .footer {
     text-align: center;
+}
+.post-date {
+    font-size: 0.9em;
+    display: block;
+    margin: -1rem 0 1rem;
+    color: #ccc;
 }
 
 @media only screen and (max-width:768px) {
