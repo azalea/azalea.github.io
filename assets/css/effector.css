@@ -245,18 +245,16 @@ small {
 cite {
     font-style: normal;
 }
-code, pre {
+code {
     font-family: Monaco, Menlo, "Courier New", monospace;
     font-size: 12px;
-}
-p code {
     margin: 0 2px;
     padding: 2px 5px;
     border: 1px solid #ddd;
     background-color: #f8f8f8;
     border-radius: 3px;
 }
-pre {
+pre code{
     display: block;
     padding: 8px;
     margin: 0 0 30px;
