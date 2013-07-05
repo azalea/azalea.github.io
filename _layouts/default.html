@@ -9,7 +9,7 @@
   <link rel="stylesheet" type="text/css" href="/assets/css/syntax.css">
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/atom.xml" />
 </head>
-<body onload="prettyPrint()">
+<body>
 
   <div class="container">
       <h1 class="sitename">azalea says</h1>
@@ -24,29 +24,28 @@
   <!-- inspired by http://effectortheme.tumblr.com/ -->
 </section>
 </div>
-<script src="/assets/js/jquery.min.js"></script>
-<script src="/assets/js/google-code-prettify/prettify.js"></script>
-{% if page.url != "/" %}
-<script>
-$(function(){
-  $(document).keydown(function(e) {
-    var url = false;
-        if (e.which == 37 || e.which == 74) {  // Left arrow key code
+{% if page.previous || page.next %}
+  <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.0.2.min.js"></script>
+  <script>
+    $(function(){
+      $(document).keydown(function(e) {
+        var url = false;
+          if (e.which == 37 || e.which == 74) {  // Left arrow key code
             {% if page.previous %}
-        url = '{{page.previous.url}}';
-        {% endif %}
-        }
-        else if (e.which == 39 || e.which == 75) {  // Right arrow key code
+            url = '{{page.previous.url}}';
+            {% endif %}
+          }
+          else if (e.which == 39 || e.which == 75) {  // Right arrow key code
             {% if page.next %}
-        url = '{{page.next.url}}';
-        {% endif %}
-        }
-        if (url) {
+            url = '{{page.next.url}}';
+            {% endif %}
+          }
+          if (url) {
             window.location = url;
-        }
-  });
-})
-</script>
-{% endif %}
+          }
+        });
+    })
+  </script>
+  {% endif %}
 </body>
 </html>
