@@ -6,3 +6,4 @@ permalink: /:year/:month/:day/:title
 title: azalea says
 timezone: America/New_York
 subscribe: http://azalea.github.io/feed.xml
+githubEditBaseURL: https://github.com/azalea/azalea.github.io/edit/master/

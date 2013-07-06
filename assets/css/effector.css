@@ -253,6 +253,7 @@ code {
     border: 1px solid #ddd;
     background-color: #f8f8f8;
     border-radius: 3px;
+    white-space: nowrap;
 }
 pre code{
     display: block;
