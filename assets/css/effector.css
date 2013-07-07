@@ -58,10 +58,6 @@ a:hover {
     color: #A33B14;
     text-decoration: none;
 }
-a.label:hover {
-    color: #fff;
-    background-color: #F95B1F;
-}
 p a {
     border-bottom: 1px dashed #CED1D1;
 }
@@ -346,26 +342,44 @@ text-shadow: 0 1px 0 #fff;
 }
 .label {
     padding: 4px 4px 3px 4px;
-    font-size: 12px;
-    font-weight: normal;
+    font-size: 0.8em;
     color: #fff;
     text-transform: uppercase;
     background-color: #999;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
+    -webkit-transition: 0.25s;
+    -moz-transition: 0.25s;
+    -o-transition: 0.25s;
+    transition: 0.25s;
+}
+a.label {
+    color: #fff;
+}
+a.label:hover {
+    background-color: #ababab;
+}
+a.label-info:hover {
+    background-color:#5dade2;
+}
+a.label-inverse:hover {
+    background-color: #415b76;
 }
 .label-important {
-    background-color: #b94a48;
+    background-color: #e74c3c;
 }
 .label-warning {
-    background-color: #f89406;
+    background-color: #f1c40f;
 }
 .label-success {
-    background-color: #468847;
+    background-color: #2ecc71;
 }
 .label-info {
-    background-color: #3a87ad;
+    background-color: #3498db;
+}
+.label-inverse {
+    background-color: #34495e;
 }
 .pull-right {
     float: right;
