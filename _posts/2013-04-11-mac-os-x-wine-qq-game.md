@@ -1,5 +1,4 @@
----
-layout: post
+yout: post
 title: Mac OS X 下 Wine QQ游戏
 tags:
 - fun
@@ -18,7 +17,7 @@ meta:
 
 2. 装双系统。
 
-3. 装虚拟机（如 Virtual Box），虚拟个 Windows。
+3. 装虚拟机（如 Virtual Box），虚拟个 Windows。
 
 4. 安装 Wine，再用 Wine 安装运行 QQ游戏。
 
@@ -38,7 +37,7 @@ meta:
 
 1.2 安装设置 MacPorts
 
-<a href="http://www.macports.org/">MacPorts</a> 是一个包管理器（类似于 apt-get 或者 yum），可以自动解决安装包的依赖问题。在 Installing MacPorts 页面，找到对应的 .pkg 文件（如 10.8 Mountain Lion 是<a href="https://distfiles.macports.org/MacPorts/MacPorts-2.1.3-10.8-MountainLion.pkg">这个</a>），下载后双击安装。
+<a href="http://www.macports.org/">MacPorts</a> 是一个包管理器（类似于 apt-get 或者 yum），可以自动解决安装包的依赖问题。在 Installing MacPorts 页面，找到对应的 .pkg 文件（如 10.8 Mountain Lion 是<a href="https://distfiles.macports.org/MacPorts/MacPorts-2.1.3-10.8-MountainLion.pkg">这个</a>），下载后双击安装。
 
 打开终端，输入以下命令：
 <blockquote>echo export PATH=/opt/local/bin:/opt/local/sbin:\$PATH$'\n'export MANPATH=/opt/local/man:\$MANPATH | sudo tee -a /etc/profile
@@ -154,15 +153,9 @@ File Format：选择 Application
 
 下面你就可以像用其他Mac程序一样使用QQ游戏了。
 
-<a href="http://azaleasays.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-11-at-5.01.20-AM.png"><img class="alignnone size-full wp-image-2064" title="spotlight search qqgame" src="http://azaleasays.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-11-at-5.01.20-AM.png" alt="" width="831" height="238" /></a><a href="http://azaleasays.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-11-at-5.09.52-AM.png"><img class="alignnone size-large wp-image-2065" title="qqgame" src="http://azaleasays.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-11-at-5.09.52-AM-1024x746.png" alt="" width="584" height="425" /></a>
 
------------------------------------------------------------------------------
-
-致谢及参考文献：
-
-感谢 Google 搜索，给了我99%的问题的解决方法和灵感去解决剩下1%的问题。
-
-感谢 <a href="https://twitter.com/ztpala">@ztpala</a> 同学的翻译和技术指导。
+![](http://azaleasays.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-11-at-5.01.20-AM.png)
+![](http://azaleasays.com/wp-content/uploads/2013/04/Screen-Shot-2013-04-11-at-5.09.52-AM-1024x746.png)<a href="https://twitter.com/ztpala">@ztpala</a> 同学的翻译和技术指导。
 
 感谢三国杀友 代号86 在百忙之中帮忙找到 msvcp60.dll 文件，以及由始至终给我动力使我得以完成这艰巨任务（我其实是想说 always keeping me motivated）。
 
@@ -192,6 +185,6 @@ File Format：选择 Application
 
 <a href="http://www.winehq.org/pipermail/wine-users/2007-October/027858.html">http://www.winehq.org/pipermail/wine-users/2007-October/027858.html</a>
 
-&nbsp;
+ 
 
-&nbsp;
+ 
