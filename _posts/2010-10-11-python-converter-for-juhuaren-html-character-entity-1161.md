@@ -9,9 +9,7 @@ type: post
 published: true
 meta:
   _searchme: '1'
-  aktt_notify_twitter: 'no'
   _edit_last: '1'
-    plot";s:7:"matches";s:1:"1";s:9:"permalink";s:65:"http://azaleasays.com/2010/04/28/matplotlib-example-scatter-plot/";}}
   _relation_threshold: '1'
   original_post_id: '1715'
   _wp_old_slug: '1715'
