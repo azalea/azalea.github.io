@@ -19,7 +19,6 @@ meta:
 
 于是好奇的去了<a href="http://lro.jhuapl.edu/NameToMoon/index.php" target="_blank">http://lro.jhuapl.edu/NameToMoon/index.php</a>
 
-填了名字后，得到了证书一张，截图如下:
+填了名字后，得到了证书一张，截图如下 (找不到了 = =)
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2008/05/certificate_to_the_moon.jpg)
