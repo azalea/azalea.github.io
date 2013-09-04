@@ -19,13 +19,24 @@ meta:
 <a href="http://www.cyberciti.biz/faq/howto-linux-renew-dhcp-client-ip-address/" target="_blank">copy and paste via</a>
 
 The -r flag explicitly releases the current lease, and once the lease has been released, the client exits. For example, open terminal and type the command:
-<code>$ sudo dhclient -r</code>
+
+```bash
+sudo dhclient -r
+```
 Now obtain fresh IP:
-<code>$ sudo dhclient </code>
+```bash
+sudo dhclient
+```
 
 There is no need to restart network service. Above command should work with any Linux distro such as RHEL, Fedora, CentOS, Ubuntu and others. On a related note you can also try out the following commands:
-<code># ifdown eth0
-# ifup eth0
-# /etc/init.d/network restart </code>
-OR
-<code># /etc/init.d/networking restart </code>
+
+```bash
+ifdown eth0
+ifup eth0
+/etc/init.d/network restart
+```
+
+or
+```bash
+/etc/init.d/networking restart
+```

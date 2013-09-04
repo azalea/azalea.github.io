@@ -31,7 +31,9 @@ meta:
 输出的是 chromosome_id Nstart Nend （下标从1开始，包括起点和终点）
 
 以下是代码：
-<pre>from Bio import SeqIO
+
+```python
+from Bio import SeqIO
 
 fastafile = 'tair8.at.chromosomes.fas.masked'
 
@@ -47,9 +49,13 @@ for chrid,sequence in chrD.items():
         elif not firstN:
             end = i
             firstN = True
-            print chrid,start,end</pre>
+            print chrid,start,end
+```
+
 可以很容易的修改上述代码，用来寻找小写字母区域：
-<pre>from Bio import SeqIO
+
+```python
+from Bio import SeqIO
 
 fastafile = 't.fa'
 
@@ -65,5 +71,7 @@ for chrid,sequence in chrD.items():
         elif not firstLower:
             end = i
             firstLower = True
-            print chrid,start,end</pre>
+            print chrid,start,end
+```
+
 <a href="http://dl.getdropbox.com/u/308058/blog/200908/t.fa" target="_blank">输入文件</a>

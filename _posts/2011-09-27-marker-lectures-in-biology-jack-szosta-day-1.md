@@ -34,6 +34,19 @@ Jack 的实验室试图通过构建一个<a href="http://genetics.mgh.harvard.ed
 
 
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/09/screen-shot-2011-09-26-at-11-56-58-pm.png)
+
+这个原始细胞同时需要从环境种获得各种能量：
+
+机械能 -> 分裂
+
+化学能 -> 激活遗传物质的复制
+
+渗透压 -> 促进生长
+
+Jack 的实验室首先需要找到一种适合模拟原始细胞的细胞膜的材料，他们想到了脂肪酸。脂肪酸在水中，受到轻微扰动，就会形成双分子层，类似于现在细胞膜所使用的磷脂双分子层。脂肪酸形成的囊泡是动态的，单个脂肪酸随时插入、离开或反转，这样极性的分子可以随机的自发通过脂肪酸双分子层。这一点区别于磷脂双分子层比较稳定的结构，从而极性分子的进入需要通过特殊的蛋白质通道。
+
+下面的视频展示了双分子层的动态结构：
+
 <a href="http://genetics.mgh.harvard.edu/szostakweb/movies_preview/FAdynamics.swf">http://genetics.mgh.harvard.edu/szostakweb/movies_preview/FAdynamics.swf</a>
 以及极性的核苷酸分子是如何进入双分子层形成的囊泡内的：
 
@@ -47,7 +60,9 @@ Jack 的实验室进一步研究更重要的性质3，即细胞是如何生长�
 
 
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/09/screen-shot-2011-09-27-at-12-33-37-am.png)
-<a href="http://genetics.mgh.harvard.edu/szostakweb/publications/Szostak_pdfs/Schrum_et_al_CSH_2010.pdf">来源</a>）
+<a href="http://genetics.mgh.harvard.edu/szostakweb/publications/Szostak_pdfs/Schrum_et_al_CSH_2010.pdf">
+
+(<a href="http://genetics.mgh.harvard.edu/szostakweb/publications/Szostak_pdfs/Schrum_et_al_CSH_2010.pdf">来源</a>）
 
 脂肪酸囊泡能伸长和断裂，这十分类似于细胞的生长和分裂，于是原始细胞的性质3有了近似的实现。他们于是开始研究性质2，可遗传物质。
 
@@ -64,7 +79,8 @@ Jack 认为，原始的遗传物质很可能与现在的遗传物质不同，是
 
 
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/09/screen-shot-2011-09-27-at-12-58-01-am.png)
-<a href="http://astrobiology.nasa.gov/directory/profile/546/david/deamer/">David Deamer</a> 提出的）：
+
+最后，Jack 讲到生命出现的最佳环境（最早是<a href="http://astrobiology.nasa.gov/directory/profile/546/david/deamer/">David Deamer</a> 提出的）：
 
 - 淡水 -&gt; 形成稳定的囊泡（盐会破坏其稳定性）
 

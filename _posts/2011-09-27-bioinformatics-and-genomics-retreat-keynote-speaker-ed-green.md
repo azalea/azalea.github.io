@@ -50,4 +50,7 @@ Science 7 May 2010:Vol. 328 no. 5979 pp. 710-722
 
 
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/09/haplotype.png)
-<a href="http://en.wikipedia.org/wiki/Denisova_hominin">Denisova hominin</a>）的研究进展，丹尼索瓦人和尼安德特人的亲缘关系比人和尼安德特人的还要近。然后时间不够了，Ed 一边迅速的翻过剩下的十几张幻灯片，一边遗憾的叹息道：这些都是很有趣的故事呀，可惜我没时间了。
+
+同时，与非洲人相比，尼安德特人和欧亚人有更多相同的SNP，这些都表明，尼安德特人很可能和欧亚人有过基因交流。
+
+最后，Ed 讲了最近关于丹尼索瓦人（<a href="http://en.wikipedia.org/wiki/Denisova_hominin">Denisova hominin</a>）的研究进展，丹尼索瓦人和尼安德特人的亲缘关系比人和尼安德特人的还要近。然后时间不够了，Ed 一边迅速的翻过剩下的十几张幻灯片，一边遗憾的叹息道：这些都是很有趣的故事呀，可惜我没时间了。

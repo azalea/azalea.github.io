@@ -20,7 +20,7 @@ meta:
 首先，Steven 展示了下面这张著名的图：
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/10/cost_per_megabase.jpg&amp;h=768)
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/10/cost_per_megabase.jpg)
 <a href="http://www.genome.gov/sequencingcosts/">来源</a>）
 
 这告诉我们，测序费用呈指数级逐年降低，从2001年每百万碱基（Mb）10000美元到几个月前的0.1美元，测序基本上和免费差不多了。其中两次最大降幅是04年问世的<a href="http://en.wikipedia.org/wiki/454_Life_Sciences">454测序技术</a>和07年的 <a href="http://en.wikipedia.org/wiki/Illumina_(company)">Illumina</a>。而更重要的一点是，测序成本的下降，使同样的花费获得的数据量指数级增长，这个增幅超过了摩尔定律预测的计算机计算能力的增幅，因此，计算资源的限制取代测序成本，成了基因组研究的瓶颈。
@@ -47,9 +47,10 @@ meta:
 
 
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/10/cacao_nature_genetics.gif)
-<a href="http://www.nature.com/ng/journal/v43/n2/index.html">今年2月</a>的 Nature Genetics 同时发表了草莓和巧克力的基因组，Steven说，因为他们想在情人节为读者献上 Strawberry chocolate。身为上百作者之一的我怎么都木有发现 - -
 
-<a href="http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000475">火鸡基因组</a>是在感恩节前发表的（去年9月）。
+2. <a href="http://www.nature.com/ng/journal/v43/n2/index.html">今年2月</a>的 Nature Genetics 同时发表了草莓和巧克力的基因组，Steven说，因为他们想在情人节为读者献上 Strawberry chocolate。身为上百作者之一的我怎么都木有发现 - -
+
+   <a href="http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000475">火鸡基因组</a>是在感恩节前发表的（去年9月）。
 
 3. Steven还推广了一下 <a href="http://main.g2.bx.psu.edu/">Galaxy</a> (<a href="http://usegalaxy.org">usegalaxy.org</a>) 说，这个是专为生物学家设计的，可以直接用鼠标操作 Bowtie, Tophat 和 Cufflinks，虽然他不明白为什么生物学家不喜欢用 command line。
 

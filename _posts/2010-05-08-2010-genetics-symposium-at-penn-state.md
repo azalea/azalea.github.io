@@ -40,3 +40,13 @@ meta:
 
 
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/signs.png)
+
+恩，最后盛赞下组委会，讲座很好，食物都很好吃。
+
+早饭是muffin, bagel, 一种不知道名字的类似羊角的但是圆形的，还有水果
+
+午饭是sandwich, wrap, sub，veggie dip, 水果
+
+下午茶是水果，蔬菜，pizza，蛋糕，冰淇淋，但是竟然有寿司！这是我在学校吃过的最爽的免费饭了
+
+在Penn State的同学明年一定去蹭饭，不在Penn State的同学开车来飞机来申请来转校来也要蹭饭！

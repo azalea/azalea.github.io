@@ -13,3 +13,7 @@ meta:
 ---
 
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/worldmap1.gif)
+
+Only 3% of all countries.
+
+Keep walking...

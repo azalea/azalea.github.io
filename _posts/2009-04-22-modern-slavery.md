@@ -15,6 +15,7 @@ meta:
 ---
 
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/modernslavery.png)
-<a href="http://www.freetheslaves.net/" target="_blank">Free the Slaves</a>
+
+via <a href="http://www.freetheslaves.net/" target="_blank">Free the Slaves</a>
 
 Reminds me of coal miners in Shanxi...

@@ -13,9 +13,12 @@ meta:
 ---
 圣诞到啦, 偶们生物学家大丰收, 收到一做试管的公司送的糖糖
 
-
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/photo4.jpg)
 
+以及卖密封袋的公司送的gingerbread
+
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/img_0173.jpg)
+
+gingerbreadman, 我的最爱!
 
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/img_0174.jpg)

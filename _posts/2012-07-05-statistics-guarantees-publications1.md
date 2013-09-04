@@ -33,6 +33,8 @@ Nov 11, 2012 Update: XKCD关于多重比较的犀利图一枚：
 
 
 ![](http://imgs.xkcd.com/comics/significant.png)
+
+
 <strong>2. 条件概率倒置谬误</strong>（<a href="http://rationalwiki.org/wiki/Fallacy_of_the_transposed_conditional" target="_blank">Fallacy of the transposed conditional</a>）
 
 统计检验得出的 p-value，并没有告诉我们我们想要的答案。我们想知道的是：“给定这些数据，H<sub>0 </sub>为真的概率 p(H<sub>0</sub>|D)。但实际上 p-value 表示的是，给定 H<sub>0 </sub>为真，出现这些数据的概率 p(D|H<sub>0</sub>)。正如 <a href="http://ist-socrates.berkeley.edu/~maccoun/PP279_Cohen1.pdf" target="_blank">Jacob Cohen 在1994年指出的</a>，这二者是不同的。
@@ -62,6 +64,7 @@ Nov 11, 2012 Update: XKCD关于多重比较的犀利图一枚：
 
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2012/07/Screen-Shot-2012-07-05-at-1.58.41-AM.png)
 
+
 虽然这个后验概率比先验概率 p(H<sub>1</sub>) = 10<sup>-20 </sup>高了不少，但仍然不足以证明人可以预知未来。
 
 <strong>3. p-value 高估了证伪 H<sub>0 </sub>的证据</strong>
@@ -72,7 +75,9 @@ Nov 11, 2012 Update: XKCD关于多重比较的犀利图一枚：
 
 我们需要比较的是，
 
+
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2012/07/Screen-Shot-2012-07-05-at-2.29.47-AM.png)
+
 
 用文字表述就是，
 

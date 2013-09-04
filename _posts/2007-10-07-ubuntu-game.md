@@ -13,12 +13,13 @@ meta:
   _wp_old_slug: '%e6%8e%a8%e8%8d%90%e5%87%a0%e4%b8%aaubuntu%e4%b8%8b%e7%9a%84%e6%b8%b8%e6%88%8f'
 ---
  
- 
-
 <font face="Arial"><strong><font size="5">SuperTux
 </font></strong></font>
 
 ![](http://www.marcelgagne.com/images/cwl2005/supertux.jpg)
+
+类似于超级玛丽，不过主角换成了一只企鹅。安装方法： sudo apt-get install supertux
+
 <h1><font color="#000000" face="Arial" size="5">Fish Fillets</font></h1>
 
 ![](http://www.pavelrichter.net/xblog/img/fish-fillets-3.jpg)
@@ -43,4 +44,3 @@ cs ,doom,quake-----------------<strong>nexuiz</strong>
 </strong><a href="http://www.ubuntu.org.tw/modules/newbb/viewtopic.php?post_id=8277" target="_blank">这里</a>：比较老的许多游戏
 <a href="http://www.linuxidc.com/Linux/2007-08/7062.htm" target="_blank">这里</a>：蓝迪游戏（类似于QQ游戏或联众，多人联网对战游戏）
 
-![](http://www.getdeb.net/themes/getdeb/images/getdeb_logo.png)
