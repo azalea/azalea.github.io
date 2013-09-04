@@ -18,7 +18,7 @@ meta:
 <a href="#game">HKUST的Games Society</a>
 
 <a href="#game2">初探HKUST的Games Society</a>
-<p id="library">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: <strong>刚从HKUST的图书馆回来</strong>
 发信站: 日月光华 (2005年08月31日19:53:39 星期三), 站内信件
 
@@ -45,7 +45,7 @@ Chessplayer》，还有马楚凯维奇的《巧设国际象棋陷阱--国际象�
 sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 143.89.168.158]
-<p id="game">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: <strong>HKUST的Games Society</strong>
 发信站: 日月光华 (2005年09月01日19:13:10 星期四), 站内信件
 
@@ -64,7 +64,7 @@ is the one thing you can see.
 sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 143.89.168.158]
-<p id="game2">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: <strong>初探HKUST的Games Society</strong>
 发信站: 日月光华 (2005年09月10日18:07:59 星期六), 站内信件
 

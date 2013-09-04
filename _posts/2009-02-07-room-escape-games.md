@@ -20,19 +20,17 @@ meta:
 
 寻找信息和工具, 逃离一个温馨的有很多玩具的房间. <a href="http://gamesuy.blogspot.com/2008/06/switch-walkthrough.html" target="_blank">攻略</a>
 
-<img class="alignnone size-full wp-image-795" title="switch" src="http://azaleasays.com/wp-content/uploads/2010/07/switch.jpg" alt="switch" width="280" height="200" />
 
-同个作者的其他作品还有:
-
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/switch.jpg)
 <strong><a href="http://neutralxe.net/esc/sphere.html">Sphere</a> </strong> 难度:  ★★★☆☆
 
 <strong><a href="http://neutralxe.net/esc/rgb.html">RGB</a></strong> 难度: ★★★☆☆  上面2个的<a href="http://club.pchome.net/topic_1_15_1950984__.html" target="_blank">攻略</a>
 
 <strong><a href="http://neutralxe.net/esc/vision.html">VISION</a></strong> 难度: ★★★★☆
 
-<img class="alignnone size-full wp-image-797" title="vision" src="http://azaleasays.com/wp-content/uploads/2010/07/vision.jpg" alt="vision" width="280" height="200" />
 
-这个我非常喜欢, 很复杂很有想象力, 尤其是你逃离房间之后, 真是别有洞天.    <a href="http://blog.yam.com/kwai84/article/15885444" target="_blank">攻略</a> (<a href="http://www.youtube.com/watch?v=W4M1zhz7D9I" target="_blank">视频版本</a>)
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/vision.jpg)
+<a href="http://blog.yam.com/kwai84/article/15885444" target="_blank">攻略</a> (<a href="http://www.youtube.com/watch?v=W4M1zhz7D9I" target="_blank">视频版本</a>)
 
 <strong><a href="http://my.dongua.com/flashgame/blog!entry/243.entry" target="_blank">Stanley博士的家</a></strong><strong> </strong> 难度: ★★☆☆☆
 
@@ -45,16 +43,18 @@ meta:
 <strong><a href="http://my.dongua.com/flashgame/blog!entry/4696.entry" target="_blank">反锁逃脱 Locked Inside</a></strong> 难度: ★★★☆☆
 
 剧透半句, 使我想起了中学化学实验
-<p style="text-align:left;"><strong><a href="http://www.miniclip.com/games/gateway/en/" target="_blank">门途 Gateway</a> </strong> 难度:  ★★★★☆</p>
-<p style="text-align:left;"><img class="alignnone size-full wp-image-799" title="gateway" src="http://azaleasays.files.wordpress.com/2009/02/gateway.jpg" alt="gateway" width="250" height="189" /></p>
+<strong><a href="http://www.miniclip.com/games/gateway/en/" target="_blank">门途 Gateway</a> </strong> 难度:  ★★★★☆
+
+![](http://azaleasays.files.wordpress.com/2009/02/gateway.jpg)
+
 
 角色都是机器人, 感觉情节有点诡异, 不过随着剧情发展, 你最终会解开一切谜团.   <a href="http://www.google.com/search?q=gateway+walkthrough&amp;btnGNS=Search+youtube.com&amp;oi=navquery_searchbox&amp;sa=X&amp;as_sitesearch=youtube.com&amp;hl=en&amp;newwindow=1" target="_blank">攻略</a>
 
 <strong><a href="http://www.flashninjaclan.com/play_games/3226_Bars_of_Black_and_White.php" target="_blank">Bars of Black and White</a> </strong> 难度: ★★☆☆☆
 
-<img class="alignnone size-full wp-image-798" title="barsofblackandwhite" src="http://azaleasays.files.wordpress.com/2009/02/barsofblackandwhite.jpg" alt="barsofblackandwhite" width="253" height="211" />
 
-手绘的密室逃脱游戏, 非常可爱, 游戏有隐藏的任务, 所以你一定会玩第二遍!    <a href="http://www.youtube.com/watch?v=zjsKbszV8Zw" target="_blank">攻略</a>
+![](http://azaleasays.files.wordpress.com/2009/02/barsofblackandwhite.jpg)
+<a href="http://www.youtube.com/watch?v=zjsKbszV8Zw" target="_blank">攻略</a>
 
 <strong><a href="http://www.agame.com/games/submachine/submachine.html" target="_blank">Submarine系列</a></strong> 难度: ★★★☆☆
 
@@ -72,13 +72,9 @@ meta:
 
 <strong><a href="http://my.dongua.com/flashgame/blog!entry/656.entry" target="_blank">忍者之弓 Bowja The Ninja</a></strong> 难度:  ★★★☆☆
 
-<img class="alignnone size-full wp-image-800" title="ninja" src="http://azaleasays.files.wordpress.com/2009/02/ninja.jpg" alt="ninja" width="250" height="176" />
 
-我太喜欢忍者啦...哈哈, 而且这个游戏情节相当搞笑...
-
-一时先写这么多,太多了估计大家也玩不过来...
-
-另外推荐下2个Flash游戏博客: <a href="http://my.dongua.com/flashgame/" target="_blank"><strong></strong></a>
+![](http://azaleasays.files.wordpress.com/2009/02/ninja.jpg)
+<a href="http://my.dongua.com/flashgame/" target="_blank"><strong/></a>
 
 <a href="http://my.dongua.com/flashgame/" target="_blank"><strong>拼命玩三郎的博客</strong></a>
 

@@ -13,11 +13,9 @@ meta:
   views: '749'
   _searchme: '1'
 ---
-<a title="Crystal Structure of Circadian Clock Protein KaiA" href="http://azaleasays.com/wp-content/uploads/2010/07/1r8j_bio_r_250.jpg"><img src="http://azaleasays.com/wp-content/uploads/2010/07/1r8j_bio_r_250.jpg" alt="Crystal Structure of Circadian Clock Protein KaiA" /></a>
 
-上图是某海洋细菌Synechococcus elongatus的生物钟蛋白质KaiA的分子结构。 可惜这幅图是二维的，如果想从其他角度看这个蛋白质分子，就需要三维结构浏览器啦。
-
-首先有一堆网页版的浏览器，比如KiNG, JMol, 这些软件基于web浏览器，不用本地安装，但是都需要Java支持。在<a href="http://www.rcsb.org/pdb/explore.do?structureId=1r8j" target="_blank">http://www.rcsb.org/pdb/explore.do?structureId=1r8j</a>的右侧图片下面有"<span style="color:#ff0000;">Display Options</span>"，点击下面的各个brower就可以使用了。
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/1r8j_bio_r_250.jpg)
+<a href="http://www.rcsb.org/pdb/explore.do?structureId=1r8j" target="_blank">http://www.rcsb.org/pdb/explore.do?structureId=1r8j</a>的右侧图片下面有"<span style="color:#ff0000;">Display Options</span>"，点击下面的各个brower就可以使用了。
 
 以下介绍本地版的分子三维结构浏览器。
 
@@ -31,14 +29,10 @@ RasMol是最著名的分子三维结构浏览器，由<span style="color:#000000
 
 下面就用上述蛋白质演示一下。
 
-首先在<a href="http://www.rcsb.org/pdb/explore.do?structureId=1r8j" target="_blank">这个页面</a>点下载图标 <img src="http://azaleasays.com/wp-content/uploads/2010/07/download.jpg" alt="" />，下载该蛋白质的pdb文件。然后打开RasMol，Ubuntu下自动安装在Applications-&gt;Education目录下。或者直接在终端输入rasmol运行。然后打开下载的1R8J.pdb文件，开始胡搞。Display菜单可以选择显示模式，Colours菜单可以选择着色方式，Options菜单可以选择是否显示氢原子、是否显示镜像等。然后Export菜单允许用户把图像导出为平面图形文件。
+首先在<a href="http://www.rcsb.org/pdb/explore.do?structureId=1r8j" target="_blank">这个页面</a>点下载图标 
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/download.jpg)
 
-比如下图是根据温度着色的KaiA分子结构的卡通显示模式。
-
-<a href="http://azaleasays.files.wordpress.com/2008/06/1r8j.jpg"><img src="http://azaleasays.files.wordpress.com/2008/06/1r8j.jpg" alt="" width="331" height="331" /></a>
-
-此图和本文最前面的图显示的是同一个分子的结构，但因为把分子旋转了一下，所以视角不同了。
-
+![](http://azaleasays.files.wordpress.com/2008/06/1r8j.jpg)
 <strong>ICM Browser</strong>
 
 <a href="http://www.molsoft.com/icm_browser.html" target="_blank">http://www.molsoft.com/icm_browser.html</a>

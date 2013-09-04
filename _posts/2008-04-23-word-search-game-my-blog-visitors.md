@@ -14,13 +14,9 @@ meta:
   views: '610'
 ---
 恩，找出在我blog留过言的人的名字：
-<table>
-<tr>
-<td>
+<table><tr><td>
 <h3>
-<table border="1">
-<tr>
-<td align="center"><font color="Red" size="+4">H</font></td>
+</h3><table border="1"><tr><td align="center"><font color="Red" size="+4">H</font></td>
 <td align="center"><font color="Red" size="+4">Z</font></td>
 <td align="center"><font color="Red" size="+4">H</font></td>
 <td align="center"><font color="Red" size="+4">E</font></td>
@@ -31,9 +27,7 @@ meta:
 <td align="center"><font color="Red" size="+4">U</font></td>
 <td align="center"><font color="Red" size="+4">E</font></td>
 <td align="center"><font color="Red" size="+4">O</font></td>
-</tr>
-<tr>
-<td align="center"><font color="Red" size="+4">B</font></td>
+</tr><tr><td align="center"><font color="Red" size="+4">B</font></td>
 <td align="center"><font color="Red" size="+4">X</font></td>
 <td align="center"><font color="Red" size="+4">A</font></td>
 <td align="center"><font color="Red" size="+4">O</font></td>
@@ -44,9 +38,7 @@ meta:
 <td align="center"><font color="Red" size="+4">E</font></td>
 <td align="center"><font color="Red" size="+4">E</font></td>
 <td align="center"><font color="Red" size="+4">A</font></td>
-</tr>
-<tr>
-<td align="center"><font color="Red" size="+4">E</font></td>
+</tr><tr><td align="center"><font color="Red" size="+4">E</font></td>
 <td align="center"><font color="Red" size="+4">A</font></td>
 <td align="center"><font color="Red" size="+4">H</font></td>
 <td align="center"><font color="Red" size="+4">G</font></td>
@@ -57,9 +49,7 @@ meta:
 <td align="center"><font color="Red" size="+4">E</font></td>
 <td align="center"><font color="Red" size="+4">N</font></td>
 <td align="center"><font color="Red" size="+4">H</font></td>
-</tr>
-<tr>
-<td align="center"><font color="Red" size="+4">G</font></td>
+</tr><tr><td align="center"><font color="Red" size="+4">G</font></td>
 <td align="center"><font color="Red" size="+4">N</font></td>
 <td align="center"><font color="Red" size="+4">E</font></td>
 <td align="center"><font color="Red" size="+4">F</font></td>
@@ -70,9 +60,7 @@ meta:
 <td align="center"><font color="Red" size="+4">I</font></td>
 <td align="center"><font color="Red" size="+4">A</font></td>
 <td align="center"><font color="Red" size="+4">X</font></td>
-</tr>
-<tr>
-<td align="center"><font color="Red" size="+4">X</font></td>
+</tr><tr><td align="center"><font color="Red" size="+4">X</font></td>
 <td align="center"><font color="Red" size="+4">O</font></td>
 <td align="center"><font color="Red" size="+4">B</font></td>
 <td align="center"><font color="Red" size="+4">H</font></td>
@@ -83,9 +71,7 @@ meta:
 <td align="center"><font color="Red" size="+4">Z</font></td>
 <td align="center"><font color="Red" size="+4">C</font></td>
 <td align="center"><font color="Red" size="+4">N</font></td>
-</tr>
-<tr>
-<td align="center"><font color="Red" size="+4">J</font></td>
+</tr><tr><td align="center"><font color="Red" size="+4">J</font></td>
 <td align="center"><font color="Red" size="+4">I</font></td>
 <td align="center"><font color="Red" size="+4">A</font></td>
 <td align="center"><font color="Red" size="+4">N</font></td>
@@ -96,9 +82,7 @@ meta:
 <td align="center"><font color="Red" size="+4">U</font></td>
 <td align="center"><font color="Red" size="+4">Z</font></td>
 <td align="center"><font color="Red" size="+4">I</font></td>
-</tr>
-<tr>
-<td align="center"><font color="Red" size="+4">E</font></td>
+</tr><tr><td align="center"><font color="Red" size="+4">E</font></td>
 <td align="center"><font color="Red" size="+4">T</font></td>
 <td align="center"><font color="Red" size="+4">A</font></td>
 <td align="center"><font color="Red" size="+4">Z</font></td>
@@ -109,9 +93,7 @@ meta:
 <td align="center"><font color="Red" size="+4">I</font></td>
 <td align="center"><font color="Red" size="+4">S</font></td>
 <td align="center"><font color="Red" size="+4">H</font></td>
-</tr>
-<tr>
-<td align="center"><font color="Red" size="+4">B</font></td>
+</tr><tr><td align="center"><font color="Red" size="+4">B</font></td>
 <td align="center"><font color="Red" size="+4">C</font></td>
 <td align="center"><font color="Red" size="+4">R</font></td>
 <td align="center"><font color="Red" size="+4">U</font></td>
@@ -122,9 +104,7 @@ meta:
 <td align="center"><font color="Red" size="+4">N</font></td>
 <td align="center"><font color="Red" size="+4">E</font></td>
 <td align="center"><font color="Red" size="+4">P</font></td>
-</tr>
-<tr>
-<td align="center"><font color="Red" size="+4">T</font></td>
+</tr><tr><td align="center"><font color="Red" size="+4">T</font></td>
 <td align="center"><font color="Red" size="+4">E</font></td>
 <td align="center"><font color="Red" size="+4">L</font></td>
 <td align="center"><font color="Red" size="+4">A</font></td>
@@ -135,9 +115,7 @@ meta:
 <td align="center"><font color="Red" size="+4">Z</font></td>
 <td align="center"><font color="Red" size="+4">A</font></td>
 <td align="center"><font color="Red" size="+4">S</font></td>
-</tr>
-<tr>
-<td align="center"><font color="Red" size="+4">R</font></td>
+</tr><tr><td align="center"><font color="Red" size="+4">R</font></td>
 <td align="center"><font color="Red" size="+4">R</font></td>
 <td align="center"><font color="Red" size="+4">R</font></td>
 <td align="center"><font color="Red" size="+4">X</font></td>
@@ -148,9 +126,7 @@ meta:
 <td align="center"><font color="Red" size="+4">L</font></td>
 <td align="center"><font color="Red" size="+4">K</font></td>
 <td align="center"><font color="Red" size="+4">I</font></td>
-</tr>
-<tr>
-<td align="center"><font color="Red" size="+4">O</font></td>
+</tr><tr><td align="center"><font color="Red" size="+4">O</font></td>
 <td align="center"><font color="Red" size="+4">I</font></td>
 <td align="center"><font color="Red" size="+4">N</font></td>
 <td align="center"><font color="Red" size="+4">I</font></td>
@@ -161,9 +137,7 @@ meta:
 <td align="center"><font color="Red" size="+4">R</font></td>
 <td align="center"><font color="Red" size="+4">I</font></td>
 <td align="center"><font color="Red" size="+4">N</font></td>
-</tr>
-<tr>
-<td align="center"><font color="Red" size="+4">O</font></td>
+</tr><tr><td align="center"><font color="Red" size="+4">O</font></td>
 <td align="center"><font color="Red" size="+4">D</font></td>
 <td align="center"><font color="Red" size="+4">U</font></td>
 <td align="center"><font color="Red" size="+4">O</font></td>
@@ -174,13 +148,9 @@ meta:
 <td align="center"><font color="Red" size="+4">I</font></td>
 <td align="center"><font color="Red" size="+4">D</font></td>
 <td align="center"><font color="Red" size="+4">A</font></td>
-</tr>
-</table>
-<!-- End Puzzle --></h3>
-</td>
+</tr></table><!-- End Puzzle --></td>
 <td><font size="+1"> <!-- THIS IS THE WORD LIST -->  <!-- HIDDEN WORDS (Why are you looking here?)  --> </font>  <!-- END OF THE WORD LIST --></td>
-</tr>
-</table>
+</tr></table>
 无聊吧。。
 
 <a href="http://azaleasays.com/wp-content/uploads/2008/04/wordsearch.pdf" target="_blank">pdf版本</a>（可以打印出来玩哦，比如上课快睡着或是乘公交时），提示也在里面（其实是我不知道怎么去掉-,-)

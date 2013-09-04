@@ -16,13 +16,13 @@ meta:
 ---
 <a href="http://blog.csdn.net/mylxiaoyi/archive/2006/04/14/663755.aspx"> Shell编程(五)---find与grep命令简介及正则表达式</a>
 
-<p class="postText">		两个更为有用的命令和正则表达式
+		两个更为有用的命令和正则表达式
 在我们开始学习新的Shell编程知识之前,我们先来看一下两个更为有用的两个命令,这两个命令虽然并不是Shell的一部分,但是在进行Shell编程时却会经常用到.随后我们会来看一下正则表达式.
 find命令
 我们先来看的是find命令.这个命令对于我们用来查找文件时是相当有用的,但是对于Linux新手来说却有一些难于使用,在一定程序是由于他所带的选项,测试,动作类型参数,而且一个参数的执行结果会影响接下来的参数.
 在我们深入这些选项和参数之前,我们先来看一个非常简单的例子.假如在我们的机子上有一个文件wish.我们来进行这个操作时要以root身份来运行,这样就可以保证我们可以搜索整个机子:
 
-<p class="postText"><!--more-->
+<!--more-->
 # find / -name wish -print
 /usr/bin/wish
 #
@@ -274,4 +274,4 @@ do
 cjpeg $image &gt; ${image%%gif}jpg
 done
 这个脚本可以将当前目录下的每一个GIF文件转换成为JPEG文件.
-<p id="TBPingURL">Trackback: http://tb.blog.csdn.net/TrackBack.aspx?PostId=663755</p>
+Trackback: http://tb.blog.csdn.net/TrackBack.aspx?PostId=663755

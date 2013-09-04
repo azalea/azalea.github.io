@@ -11,8 +11,5 @@ meta:
   views: '473'
   _searchme: '1'
 ---
-<img src="http://azaleasays.com/wp-content/uploads/2010/07/worldmap1.gif" alt="Places I’ve been to around the world(small)" />
 
-Only 3% of all countries.
-
-Keep walking...
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/worldmap1.gif)

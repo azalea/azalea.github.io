@@ -32,11 +32,11 @@ Either:
 Or:
 <blockquote>sudo umount /media/external
 
-&nbsp;</blockquote>
+ </blockquote>
 References:
 
 https://help.ubuntu.com/community/Mount/USB
 
 http://askubuntu.com/questions/90976/usb-drive-not-mounting
 
-&nbsp;
+ 

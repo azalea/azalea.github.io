@@ -21,7 +21,7 @@ meta:
 
 pala和我的最爱还是那个将要被跳45遍的Line Dance，献上视频和歌词：
 
-[youtube=http://www.youtube.com/watch?v=JPmZtuLJznY&rel=1]Thon 2008 Line Dance Lyrics
+[youtube=http://www.youtube.com/watch?v=JPmZtuLJznY&amp;rel=1]Thon 2008 Line Dance Lyrics
 <!--more-->
 1,2,3,4,5,6,7,8
 Figure eight 2,3,4,5,6,7,8

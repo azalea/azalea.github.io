@@ -21,7 +21,7 @@ tags:
 
 需要指出的是，以上分析是有 bug 的。首先，文章作者把 on the other 等同于 on the other hand，但是 on the other 很可能在其他情境出现，比如 "She went into a room with two chairs. One was occupied, so she sat on the other"。因此很可能高估了 on the other hand 单独出现的比例。其次，这个语料库仅仅是一本杂志3年间的文章总和，不能代表广大讲英语的人民群众，也不能反映历史趋势。
 
-于是我们要祭出神器，[Google Ngram Viewer](http://books.google.com/ngrams)。这个神器统计了各个语言书籍里词组的出现频率。搜索 `on one hand,on the one hand,on the other hand`，我们就得到了下图（[原图](http://books.google.com/ngrams/graph?content=on+one+hand%2C+on+the+one+hand%2C+on+the+other+hand&year_start=1800&year_end=2000&corpus=15&smoothing=0&share=)):
+于是我们要祭出神器，[Google Ngram Viewer](http://books.google.com/ngrams)。这个神器统计了各个语言书籍里词组的出现频率。搜索 `on one hand,on the one hand,on the other hand`，我们就得到了下图（[原图](http://books.google.com/ngrams/graph?content=on+one+hand%2C+on+the+one+hand%2C+on+the+other+hand&amp;year_start=1800&amp;year_end=2000&amp;corpus=15&amp;smoothing=0&amp;share=)):
 
 ![ngram](https://dl.dropboxusercontent.com/u/308058/blogimages/2013/07/ngram_on_the_other_hand.png)
 

@@ -16,9 +16,8 @@ meta:
   views: '612'
   _searchme: '1'
 ---
-<a rel="attachment wp-att-889" href="http://azaleasays.com/wp-content/uploads/2010/07/1.jpg2009/03/20/lego-architect/attachment/1/"><img class="aligncenter size-medium wp-image-889" title="1" src="http://azaleasays.com/wp-content/uploads/2010/07/1.jpg?w=375" alt="1" width="375" height="500" /></a>
 
-上周购得14磅乐高砖头，今天做完2个presentation，终于有空改行做建筑工人了。
-由于<a href="https://friendfeed.com/pala">pala</a>把好砖都拿去<a href="http://ztpala.com/2009/03/20/lego-gmail/">盖Gmail</a>了，于是我用一堆破砖，瞎盖了一楼。
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/1.jpg)
+<a href="https://friendfeed.com/pala">pala</a>把好砖都拿去<a href="http://ztpala.com/2009/03/20/lego-gmail/">盖Gmail</a>了，于是我用一堆破砖，瞎盖了一楼。
 为了节省建筑材料，楼都是中空的，有的墙壁也是空的，终于明白啥是豆腐渣工程了。
 大家猜猜我盖的是啥？猜错正常，猜对没奖。。

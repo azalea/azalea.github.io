@@ -22,7 +22,9 @@ meta:
 以下写于2009.10.02
 ------------------------
 欢迎大家来围观我们学校新建的生物信息学问答社区:
-<div><a href="http://biostar.stackexchange.com/"><img src="http://biostar.stackexchange.com/theme/image/theme.logo.1d7249" alt="logo homepage" /></a></div>
+<div>
+![](http://biostar.stackexchange.com/theme/image/theme.logo.1d7249)
+</div>
 <div><a href="http://biostar.stackexchange.com/" target="_blank">BioStar</a> is “A place to ask questions about bioinformatics and life science related data analysis.”</div>
 <div>刚建了两天，所以上面的问题很少，希望大家多问问题啊，会有我们学校的牛人在上面回答的，包括我最爱的<a href="http://www.personal.psu.edu/iua1/" target="_blank">Istvan牛</a>！</div>
 <div>去过<a href="http://stackoverflow.com/" target="_blank">StackOverflow</a>的同学会不会觉得界面很眼熟啊？Biostar是建在<a href="http://stackexchange.com/" target="_blank">StackExchange</a>平台上的问答系统，StackExchange就是"The Stack Overflow Knowledge Exchange Platform"啦，所以长得很像啦。</div>

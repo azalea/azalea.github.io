@@ -31,8 +31,8 @@ Bem 的研究中，多次使用多重比较，但是没有对单次检验的显�
 
 Nov 11, 2012 Update: XKCD关于多重比较的犀利图一枚：
 
-<a href="http://www.xkcd.com/882/"><img class="alignnone size-full wp-image-1964" title="multiple_comparison" src="http://imgs.xkcd.com/comics/significant.png" alt="significant" /></a>
 
+![](http://imgs.xkcd.com/comics/significant.png)
 <strong>2. 条件概率倒置谬误</strong>（<a href="http://rationalwiki.org/wiki/Fallacy_of_the_transposed_conditional" target="_blank">Fallacy of the transposed conditional</a>）
 
 统计检验得出的 p-value，并没有告诉我们我们想要的答案。我们想知道的是：“给定这些数据，H<sub>0 </sub>为真的概率 p(H<sub>0</sub>|D)。但实际上 p-value 表示的是，给定 H<sub>0 </sub>为真，出现这些数据的概率 p(D|H<sub>0</sub>)。正如 <a href="http://ist-socrates.berkeley.edu/~maccoun/PP279_Cohen1.pdf" target="_blank">Jacob Cohen 在1994年指出的</a>，这二者是不同的。
@@ -59,9 +59,9 @@ Nov 11, 2012 Update: XKCD关于多重比较的犀利图一枚：
 
 在 Bem 的文章里，他有意或无意滴错误解读了 p-value。文中，H<sub>0 </sub>是人不能预知未来，H<sub>1 </sub>是人可以预知未来。但由于H<sub>1 </sub>为真的先验概率无比的低，首先没有任何物理学和生物学的证据，其次如果H<sub>1 </sub>为真，人就可以靠预知未来在赌场发大财了（详见<a href="http://commonsenseatheism.com/wp-content/uploads/2010/11/Wagenmakers-Why-Psychologists-Must-Change-the-Way-They-Analyze-Their-Data.pdf" target="_blank">Wagenmakers等的估算</a>）。因此假定 p(H<sub>1</sub>) = 10<sup>-20</sup>。那么 p(H<sub>0</sub>) = 1 - 10<sup>-20</sup>。假设一个设计正确的实验得到的数据更可能在 H<sub>1 </sub>为真时出现，比如说是 H<sub>0 </sub>为真时的19倍。那么我们真正想知道的 p(H<sub>1</sub>|D) 可以如下计算
 
-<a href="http://azaleasays.com/wp-content/uploads/2012/07/Screen-Shot-2012-07-05-at-1.58.41-AM.png"><img class="alignnone size-full wp-image-1964" title="conditional" src="http://azaleasays.com/wp-content/uploads/2012/07/Screen-Shot-2012-07-05-at-1.58.41-AM.png" alt="" width="359" height="137" /></a>
 
-虽然这个后验概率比先验概率 p(H<sub>1</sub>) = 10<sup>-20 </sup>高了不少，但仍然不足以证明人可以预知未来。
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2012/07/Screen-Shot-2012-07-05-at-1.58.41-AM.png)
+<sub>1</sub>) = 10<sup>-20 </sup>高了不少，但仍然不足以证明人可以预知未来。
 
 <strong>3. p-value 高估了证伪 H<sub>0 </sub>的证据</strong>
 
@@ -71,21 +71,14 @@ Nov 11, 2012 Update: XKCD关于多重比较的犀利图一枚：
 
 我们需要比较的是，
 
-<a href="http://azaleasays.com/wp-content/uploads/2012/07/Screen-Shot-2012-07-05-at-2.29.47-AM.png"><img class="alignnone size-full wp-image-1965" title="Bayesian hypothesis test" src="http://azaleasays.com/wp-content/uploads/2012/07/Screen-Shot-2012-07-05-at-2.29.47-AM.png" alt="" width="295" height="66" /></a>
 
-用文字表述就是，
-
-后验模型可能性 = 先验模型可能性 x 贝叶斯因子
-
-(Posterior model odds = prior model odds x Bayes factor)
-
-贝叶斯因子可以解释为数据带来的权重变化。
-
-简单的说，如果 Bem 要证明预知未来的假说为真，贝叶斯因子需要在10<sup>-24 </sup>数量级，而他的实验中，基本都在1上下，最小不过0.17。因此完全不能证伪 H<sub>0 </sub>或证实 H<sub>1</sub>。
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2012/07/Screen-Shot-2012-07-05-at-2.29.47-AM.png)
+<sup>-24 </sup>数量级，而他的实验中，基本都在1上下，最小不过0.17。因此完全不能证伪 H<sub>0 </sub>或证实 H<sub>1</sub>。
 
 Nov 11, 2012 Update: XKCD的犀利图又一枚：
 
-<a href="http://www.xkcd.com/1132/"><img class="alignnone size-full wp-image-1964" title="frequentists_vs_bayesians" src="http://imgs.xkcd.com/comics/frequentists_vs_bayesians.png" alt="frequentists_vs_bayesians" /></a>
+
+![](http://imgs.xkcd.com/comics/frequentists_vs_bayesians.png)
 <strong>最后的话</strong>
 
 其实我想说的是，如果想发文章，只要很好的发扬上述3个谬误就可以啦。事实上目前心理学、医学界一些文章都是这样做的，包括生物学文章里的统计部分（还好生物还有很多细胞果蝇线虫老鼠跑胶测序染色切片等等统计不可替代的部分）。

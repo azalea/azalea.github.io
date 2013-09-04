@@ -69,4 +69,5 @@ os.s (此时按tab)
 
 就会出现
 
-<a rel="attachment wp-att-1172" href="http://azaleasays.com/wp-content/uploads/2010/07/idle_auto_complete_example.png2009/10/14/idle-auto-complet/idle_auto_complete_example/"><img class="aligncenter size-full wp-image-1172" title="idle_auto_complete_example" src="http://azaleasays.com/wp-content/uploads/2010/07/idle_auto_complete_example.png" alt="idle_auto_complete_example" width="354" height="231" /></a>
+
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/idle_auto_complete_example.png)

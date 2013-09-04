@@ -18,7 +18,9 @@ meta:
   tagazine-media: a:7:{s:7:"primary";s:0:"";s:6:"images";a:1:{s:72:"http://www.researchblogging.org/public/citation_icons/rb2_large_gray.png";a:6:{s:8:"file_url";s:72:"http://www.researchblogging.org/public/citation_icons/rb2_large_gray.png";s:5:"width";s:2:"70";s:6:"height";s:2:"85";s:4:"type";s:5:"image";s:4:"area";s:4:"5950";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"1";s:6:"author";s:7:"4875032";s:7:"blog_id";s:8:"14888982";s:9:"mod_stamp";s:19:"2010-04-20
     20:02:52";}
 ---
-<span style="float:left;padding:5px;"><a href="http://www.researchblogging.org"><img style="border:0;" src="http://www.researchblogging.org/public/citation_icons/rb2_large_gray.png" alt="ResearchBlogging.org" /></a></span>
+<span style="float:left;padding:5px;">
+![](http://www.researchblogging.org/public/citation_icons/rb2_large_gray.png)
+</span>
 
 <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.jtitle=Plant+Cell&amp;rft_id=info%3A%2F10.1105%2Ftpc.110.073882&amp;rfr_id=info%3Asid%2Fresearchblogging.org&amp;rft.atitle=Arabidopsis+lyrata+Small+RNAs%3A+Transient+MIRNA+and+Small+Interfering+RNA+Loci+within+the+Arabidopsis+Genu&amp;rft.issn=&amp;rft.date=2010&amp;rft.volume=&amp;rft.issue=&amp;rft.spage=&amp;rft.epage=&amp;rft.artnum=http%3A%2F%2Fwww.plantcell.org%2Fcgi%2Fcontent%2Fshort%2Ftpc.110.073882%3Fkeytype%3Dref%26ijkey%3DChuzaZwudrANgEF&amp;rft.au=Zhaorong+Mab%2C+Ceyda+Coruh+and+Michael+J.+Axtell&amp;rfe_dat=bpr3.included=1;bpr3.tags=Biology%2CBioinformatics">Zhaorong Ma, Ceyda Coruh and Michael J. Axtell (2010). <em>Arabidopsis lyrata</em> Small RNAs: Transient <em>MIRNA</em> and Small Interfering RNA Loci within the <em>Arabidopsis</em> Genus <span style="font-style:italic;">Plant Cell</span> : <a rev="review" href="http://www.plantcell.org/cgi/content/short/tpc.110.073882?keytype=ref&amp;ijkey=ChuzaZwudrANgEF">10.1105/tpc.110.073882</a></span>
 

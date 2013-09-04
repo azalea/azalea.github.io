@@ -48,8 +48,6 @@ Science 7 May 2010:Vol. 328 no. 5979 pp. 710-722
 
 通常人类的单倍体图谱是下图左边的结构，非洲人群（A）差异最大。但是有少数的位点，最大的差异并不存在于非洲人之间，而是存在于欧亚人（nA）之间，下图右边：
 
-<a href="http://azaleasays.com/wp-content/uploads/2011/09/haplotype.png"><img class="alignright size-full wp-image-1864" title="haplotype" src="http://azaleasays.com/wp-content/uploads/2011/09/haplotype.png" alt="" width="763" height="253" /></a>
 
-同时，与非洲人相比，尼安德特人和欧亚人有更多相同的SNP，这些都表明，尼安德特人很可能和欧亚人有过基因交流。
-
-最后，Ed 讲了最近关于丹尼索瓦人（<a href="http://en.wikipedia.org/wiki/Denisova_hominin">Denisova hominin</a>）的研究进展，丹尼索瓦人和尼安德特人的亲缘关系比人和尼安德特人的还要近。然后时间不够了，Ed 一边迅速的翻过剩下的十几张幻灯片，一边遗憾的叹息道：这些都是很有趣的故事呀，可惜我没时间了。
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/09/haplotype.png)
+<a href="http://en.wikipedia.org/wiki/Denisova_hominin">Denisova hominin</a>）的研究进展，丹尼索瓦人和尼安德特人的亲缘关系比人和尼安德特人的还要近。然后时间不够了，Ed 一边迅速的翻过剩下的十几张幻灯片，一边遗憾的叹息道：这些都是很有趣的故事呀，可惜我没时间了。

@@ -14,8 +14,8 @@ meta:
   ratings_average: '1'
   views: '836'
 ---
-<a href="http://www.getdropbox.com/" target="_blank"><img class="alignright size-full wp-image-1014" title="dropbox_logo_home" src="http://azaleasays.com/wp-content/uploads/2010/07/dropbox_logo_home.png" alt="dropbox_logo_home" width="290" height="76" /></a>
 
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/dropbox_logo_home.png)
 <a href="http://www.getdropbox.com/" target="_blank">Dropbox</a>提供免费的2G在线存储空间，而且支持文件同步和分享。网上<a href="http://www.google.com/search?q=dropbox+介绍" target="_blank">介绍Dropbox的文章</a>很多啦，所以我就不多说了。不过以下的优点还是要大赞的：
 
 <strong>1. 支持多台电脑的同步</strong>，并支持Windows, Mac, Linux等几乎所有操作系统。于是再也不用整天拿着U盘在台式机和本本之间来回拷东西了。

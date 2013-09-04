@@ -36,8 +36,8 @@ meta:
 
 (-) 你其实不知道你做的是啥
 
-<a href="http://azaleasays.com/wp-content/uploads/2010/07/9typesofpis.jpg"><img class="size-full wp-image-651 alignright" title="9typesofpis" src="http://azaleasays.com/wp-content/uploads/2010/07/9typesofpis.jpg" alt="9 types of PIs" width="419" height="533" align="right" /></a>
 
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/9typesofpis.jpg)
 <strong>12 Slave Driver </strong>奴隶主
 
 嘿, 在偶们实验室里, 每周工作60个小时是没啥用滴
@@ -95,15 +95,18 @@ meta:
 (+) 搭她的车很爽!
 
 (-) 你没啥发展空间了
-<div class="mceTemp"><dl class="wp-caption alignnone"> <dt class="wp-caption-dt"></dt> </dl></div>
+<div class="mceTemp"><dl class="wp-caption alignnone"><dt class="wp-caption-dt"/> </dl></div>
 <strong> 12种研究生</strong>
 
 偶大概是23+32
-<div class="mceTemp"><dl class="wp-caption alignnone"> <dt class="wp-caption-dt"><a href="http://azaleasays.com/wp-content/uploads/2010/07/9typesofgradstudents.jpg"><img class="size-full wp-image-652" title="9typesofgradstudents" src="http://azaleasays.com/wp-content/uploads/2010/07/9typesofgradstudents.jpg" alt="9 types of grad students" width="500" height="744" /></a></dt> </dl></div>
+<div class="mceTemp"><dl class="wp-caption alignnone"><dt class="wp-caption-dt">
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/9typesofgradstudents.jpg)
+</dt> </dl></div>
 <strong> 9种博士后</strong>
 
 大家看起来都好老啊...
 
 21那个biohazard兄, laf...
 
-<a href="http://azaleasays.com/wp-content/uploads/2010/07/9typesofpostdocs.jpg"><img class="alignnone size-full wp-image-653" title="9 types of postdocs" src="http://azaleasays.com/wp-content/uploads/2010/07/9typesofpostdocs.jpg" alt="" width="500" height="508" /></a>
+
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/9typesofpostdocs.jpg)

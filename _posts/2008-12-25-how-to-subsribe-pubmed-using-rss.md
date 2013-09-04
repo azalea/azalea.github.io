@@ -12,4 +12,5 @@ meta:
   views: '549'
   _searchme: '1'
 ---
-<a href="http://azaleasays.com/wp-content/uploads/2010/07/pubmed.jpg"><img class="alignnone size-full wp-image-727" title="pubmed" src="http://azaleasays.com/wp-content/uploads/2010/07/pubmed.jpg" alt="" width="500" height="933" /></a>
+
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/pubmed.jpg)

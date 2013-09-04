@@ -56,7 +56,7 @@ values.get(var, do_default_stuff)()</font></pre>
 <pre><strong>C.<a href="http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/410692" target="_blank">Brian Beck</a>提供了一个类 switch 来实现其他语言中switch的功能</strong></pre>
 <pre><font color="#3366ff"><font color="#ff00ff"><span class="syntaxcomment"># This class provides the functionality we want. You only need to look at</span>
 <span class="syntaxcomment"># this if you want to know how this works. It only needs to be defined</span>
-<span class="syntaxcomment"># once, no need to muck around with its internals.</span><span class="syntaxkeyword"></span></font><span class="syntaxkeyword"></span></font></pre>
+<span class="syntaxcomment"># once, no need to muck around with its internals.</span><span class="syntaxkeyword"/></font><span class="syntaxkeyword"/></font></pre>
 <pre><font color="#3366ff"><span class="syntaxkeyword">class</span> <span class="syntaxname">switch</span>(object):
     <span class="syntaxkeyword">def</span> __init__(self, value):
         self.value = value

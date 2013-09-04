@@ -27,8 +27,9 @@ meta:
 
 最后感谢组织者 Jihye, Chai and Nathaniel，感谢所有演讲者，然后大赞一下食物：
 
-<a href="http://azaleasays.com/wp-content/uploads/2011/09/img_2246.jpg"><img class="alignnone size-medium wp-image-1867" title="muffins" src="http://azaleasays.com/wp-content/uploads/2011/09/img_2246.jpg?w=682&h=1024" alt="" width="640" height="960" /></a>
 
-<a href="http://azaleasays.com/wp-content/uploads/2011/09/img_2248.jpg"><img src="http://azaleasays.com/wp-content/uploads/2011/09/img_2248.jpg?w=1024&h=682" alt="" title="fruit" width="640" height="426" class="alignnone size-large wp-image-1869" /></a>
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/09/img_2246.jpg&amp;h=1024)
 
-<a href="http://azaleasays.com/wp-content/uploads/2011/09/img_2325.jpg"><img src="http://azaleasays.com/wp-content/uploads/2011/09/img_2325.jpg?w=1024&h=682" alt="" title="sushi" width="640" height="426" class="alignnone size-large wp-image-1871" /></a>
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/09/img_2248.jpg&amp;h=682)
+
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/09/img_2325.jpg&amp;h=682)

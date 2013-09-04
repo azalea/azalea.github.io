@@ -16,4 +16,5 @@ meta:
 其实从周日就开始写了，犯了N次极其BC的错误后，总算勉强完成了老板给的任务，受到老板的表扬，小开心一下。
 贴一下成果，用python画的图，要多多感谢<a href="http://matplotlib.sourceforge.net/" target="_blank">matplotlib</a> module！
 script就不贴了，写得实在没逻辑。。
-<p><img src="http://azaleasays.com/wp-content/uploads/2010/07/yeast_heat_shock_plot.png" alt="yeastplot" height="378" width="505" /></p>
+
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/yeast_heat_shock_plot.png)

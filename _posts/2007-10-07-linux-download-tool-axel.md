@@ -19,4 +19,5 @@ meta:
 Axel 通过打开多个 HTTP/FTP 连接来将一个文件进行分段下载，从而达到加速下载的目的。对于下载<strong>大文件</strong>，该工具将特别有用。
 <blockquote>安装：sudo apt-get install axel</blockquote>
 使用方法：终端下输入：<strong>axel url（下载文件地址）</strong>
-<a href="http://photo7.yupoo.com/20070612/003218_283563135_anfpwxoi.jpg"><img src="http://photo7.yupoo.com/20070612/003218_283563135.jpg" /></a>
+
+![](http://photo7.yupoo.com/20070612/003218_283563135.jpg)

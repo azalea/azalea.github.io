@@ -21,6 +21,5 @@ meta:
 
 填了名字后，得到了证书一张，截图如下:
 
-<a href="http://azaleasays.com/wp-content/uploads/2008/05/certificate_to_the_moon.jpg"><img src="http://azaleasays.com/wp-content/uploads/2008/05/certificate_to_the_moon.jpg" height="413" width="550" /></a>
 
-然后发现被solidit骗了。。
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2008/05/certificate_to_the_moon.jpg)

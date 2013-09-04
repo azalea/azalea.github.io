@@ -11,8 +11,8 @@ meta:
   views: '798'
   _searchme: '1'
 ---
-<a href="http://www.addictinggames.com/magicpen.html" target="_blank"><img src="http://azaleasays.com/wp-content/uploads/2010/07/magicpen.jpg" height="352" width="550" /></a>
 
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/magicpen.jpg)
 <a href="http://www.addictinggames.com/magicpen.html" target="_blank">http://www.addictinggames.com/magicpen.html</a>
 
 画出形状、钉子、铰链，使小红球与小红旗团聚~

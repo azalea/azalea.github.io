@@ -23,9 +23,9 @@ meta:
   original_post_id: '1762'
   _wp_old_slug: '1762'
 ---
-<a href="http://azaleasays.com/wp-content/uploads/2010/12/positions.png"><img class="size-full wp-image-1764 alignnone" title="positions" src="http://azaleasays.com/wp-content/uploads/2010/12/positions.png" alt="" width="600" height="400" /></a>
 
-这个是自己<a href="http://matplotlib.sourceforge.net/examples/api/artist_demo.html" target="_blank">现学现卖</a>，画来玩玩的，用来做slides里的示意图。感觉如果扩展一下加入zoom-in，zoom-out和slider的话，可以做成基因组浏览器（Genome Browser，比如<a href="http://www.broadinstitute.org/igv/" target="_blank">IGV</a>）。
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/12/positions.png)
+<a href="http://matplotlib.sourceforge.net/examples/api/artist_demo.html" target="_blank">现学现卖</a>，画来玩玩的，用来做slides里的示意图。感觉如果扩展一下加入zoom-in，zoom-out和slider的话，可以做成基因组浏览器（Genome Browser，比如<a href="http://www.broadinstitute.org/igv/" target="_blank">IGV</a>）。
 
 这个画的是2个<em>MIRNA165</em>基因（橙色箭头）和7个<em>MIRNA166</em>基因（红色箭头，有2个位置很近看起来重合）在<em>Arabidopsis thaliana</em>（我们最爱滴模式植物）5条染色体上的位置。
 

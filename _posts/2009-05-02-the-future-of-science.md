@@ -36,15 +36,13 @@ meta:
 <h3 id="part1">第一部分：迈向更开放的科学文化 科学如何受益于互联网？</h3>
 互联网怎样改变科学研究的方式？可以从两个角度回答。第一，在线工具可以扩展世界共享的科学知识的范围：
 
-<a rel="attachment wp-att-939" href="http://azaleasays.com/wp-content/uploads/2010/07/friend_feed_neylon.png2009/05/02/the-future-of-science/futurescience1/"><img class="aligncenter size-medium wp-image-939" title="futurescience1" src="http://azaleasays.com/wp-content/uploads/2010/07/futurescience1.png?w=500" alt="futurescience1" width="500" height="246" /></a>
 
-两个成功的例子是：物理学杂志预印本在线分享网站 <a href="http://www.arxiv.org/">physics preprint arXiv</a>和生物学在线数据库<a href="http://www.ncbi.nlm.nih.gov/Genbank/">GenBank</a>。更多的在线工具定位比较窄，虽然它们可能有更广阔的应用，比如：实验视频分享网站 <a href="http://www.jove.org/">Journal of Visualized Experiments</a> 和科学家工作笔记分享网站 <a href="http://drexel-coas-elearning.blogspot.com/2006/09/open-notebook-science.html">open notebook science</a>。在不久的将来，更多这类在线工具将会出现，用来分享各种类型的知识:
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/futurescience1.png)
+<a href="http://www.arxiv.org/">physics preprint arXiv</a>和生物学在线数据库<a href="http://www.ncbi.nlm.nih.gov/Genbank/">GenBank</a>。更多的在线工具定位比较窄，虽然它们可能有更广阔的应用，比如：实验视频分享网站 <a href="http://www.jove.org/">Journal of Visualized Experiments</a> 和科学家工作笔记分享网站 <a href="http://drexel-coas-elearning.blogspot.com/2006/09/open-notebook-science.html">open notebook science</a>。在不久的将来，更多这类在线工具将会出现，用来分享各种类型的知识:
 
-<a rel="attachment wp-att-940" href="http://azaleasays.com/wp-content/uploads/2010/07/friend_feed_neylon.png2009/05/02/the-future-of-science/futurescience2/"><img class="aligncenter size-full wp-image-940" title="futurescience2" src="http://azaleasays.files.wordpress.com/2009/05/futurescience2.png" alt="futurescience2" width="462" height="443" /></a>
 
-思考互联网如何改变科学的另一个角度是，通过社会媒体如wiki，论坛等改变创新合作的方式和程度。
-
-在科学界以外，互联网改变文化的例子有很多[1]。比如，1991年，无名的芬兰学生Linus Torvalds在论坛上发表了<a href="http://groups.google.com/group/comp.os.minix/browse_thread/thread/76536d1fb451ac60/b813d52cbc5a044b?_done=%2Fgroup%2Fcomp.os.minix%2Fbrowse_thread%2Fthread%2F76536d1fb451ac60%2Fb813d52cbc5a044b" target="_blank">一篇短文</a>，为扩展他业余时间开发的“玩具”操作系统寻求帮助; 在志愿者的回应下，Linux诞生了。2001年，无名的Larry Sanger发表了<a href="http://web.archive.org/web/20010506042824/www.nupedia.com/pipermail/nupedia-l/2001-January/000684.html" target="_blank">一篇短文</a>，为建立在线百科全书寻求帮助; 在志愿者的帮助下，维基百科诞生了。1999年，著名国际象棋大师Garry Kasparov与“世界队”进行了象棋大战，最终获胜，他对手的每一步棋都是上千人投票选出来的。这局棋被他称为“<a href="http://michaelnielsen.org/blog/?p=267" target="_blank">国际象棋史上最伟大的对局</a>”。
+![](http://azaleasays.files.wordpress.com/2009/05/futurescience2.png)
+<a href="http://groups.google.com/group/comp.os.minix/browse_thread/thread/76536d1fb451ac60/b813d52cbc5a044b?_done=%2Fgroup%2Fcomp.os.minix%2Fbrowse_thread%2Fthread%2F76536d1fb451ac60%2Fb813d52cbc5a044b" target="_blank">一篇短文</a>，为扩展他业余时间开发的“玩具”操作系统寻求帮助; 在志愿者的回应下，Linux诞生了。2001年，无名的Larry Sanger发表了<a href="http://web.archive.org/web/20010506042824/www.nupedia.com/pipermail/nupedia-l/2001-January/000684.html" target="_blank">一篇短文</a>，为建立在线百科全书寻求帮助; 在志愿者的帮助下，维基百科诞生了。1999年，著名国际象棋大师Garry Kasparov与“世界队”进行了象棋大战，最终获胜，他对手的每一步棋都是上千人投票选出来的。这局棋被他称为“<a href="http://michaelnielsen.org/blog/?p=267" target="_blank">国际象棋史上最伟大的对局</a>”。
 
 以上故事并非特例，而是自文字发表以来创新活动的最伟大的改变。
 
@@ -101,9 +99,8 @@ Innocentive 是建立科学问题和解决方法市场的例子。当然，它�
 
 作为生活流的组成部分，FriendFeed允许信息简便快捷的来回传播，因此围绕共同兴趣可以形成社区，分享友谊。2008年4月, 南安普顿大学的化学家 <a href="http://blog.openwetware.org/scienceintheopen/">Cameron Neylon</a> 用FriendFeed消息发表了题为 <a href="http://friendfeed.com/e/9875b15c-7932-4714-aaba-2a15950219ec/Request-for-assistance/">request for assistance</a> 的关于建立分子模型的问题。很快 <a href="http://freelancingscience.com/">Pawel Szczesny</a> 回复说他可以帮忙。科学合作就这样展开了。原文和讨论在此：
 
-<a rel="attachment wp-att-949" href="http://azaleasays.com/wp-content/uploads/2010/07/friend_feed_neylon.png2009/05/02/the-future-of-science/friend_feed_neylon/"><img class="aligncenter size-medium wp-image-949" title="friend_feed_neylon" src="http://azaleasays.com/wp-content/uploads/2010/07/friend_feed_neylon.png?w=500" alt="friend_feed_neylon" width="500" height="428" /></a>
 
-FriendFeed 是项好服务，但是它也受到影响其他评论网站如维基百科的那些问题的影响。由于没有衡量贡献的方法，科学家很难重度使用 FriendFeed作为科学合作的媒介。而且，如果没有广泛的用户，使用FriendFeed来进行科学合作仍难以普及。
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/friend_feed_neylon.png)
 <h3>合作经济学</h3>
 当前合作系统的低效导致了多少损失？为了回答这个问题，请想像一个科学家张三。张三研究中遇到了她没想到的问题。她遇到了成百上千的问题，她知道大多数时候自己并不是解决这些问题的最好人选。
 假设某个问题，张三估计自己要花4到5周学习相关技术才能解决。问题已经火烧眉毛，4到5周太久了。张三不知道的是，世界的另一边有个科学家李四，他能在一天内解决张三的问题。这很可能发生，想想Grossmann的例子，他一句建议节省了爱因斯坦可能花上几年的额外工作。
@@ -122,9 +119,9 @@ FriendFeed 是项好服务，但是它也受到影响其他评论网站如维基
 
 理想的合作市场将使这种问题和思想的交流成为可能。它将规范贡献的衡量方法，使参与者能证明自己工作的影响力。贡献会被存档、纪录时间并签名，因此何人何时说过什么都一目了然。 通过与高效的过滤和搜索相结合，一个开放的相互信任的文化将产生，科学家会乐于外包问题，并在自己的优势领域做出贡献。这将会改变科学。
 <h3>脚注</h3>
-[1] <a href="http://www.shirky.com/">Clay Shirky’的</a> <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FHere-Comes-Everybody-Organizing-Organizations%2Fdp%2F1594201536%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1216170022%26sr%3D8-1&amp;tag=michaniels-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325">“Here Comes Everybody”</a><img style="border:medium none!important;margin:0!important;" src="http://www.assoc-amazon.com/e/ir?t=michaniels-20&amp;l=ur2&amp;o=1" border="0" alt="" width="1" height="1" /> 是一本极好的书，充满了对合作新途径的兴趣。
-
-[2] 整合在线评论和其他创造性特点的一个试验是 <a href="http://www.plosone.org/home.action">PLoS ONE</a> 。现在判断它的评论成功与否还为时过早。
+[1] <a href="http://www.shirky.com/">Clay Shirky’的</a> <a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2FHere-Comes-Everybody-Organizing-Organizations%2Fdp%2F1594201536%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1216170022%26sr%3D8-1&amp;tag=michaniels-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=9325">“Here Comes Everybody”</a>
+![](http://www.assoc-amazon.com/e/ir?t=michaniels-20&amp;l=ur2&amp;o=1)
+<a href="http://www.plosone.org/home.action">PLoS ONE</a> 。现在判断它的评论成功与否还为时过早。
 
 [3] 我强烈推荐Peter Suber的 <a href="http://www.earlham.edu/%7Epeters/fos/fosblog.html">Open Access News</a> ，这是关于开放获取所有方面的极好资源。
 

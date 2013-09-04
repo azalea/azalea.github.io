@@ -35,22 +35,15 @@ LUCK，按 Istvan 的话讲，是青睐于有准备滴人的。
 
 下图是 Istvan 的 skill bar：
 
-<a href="http://azaleasays.com/wp-content/uploads/2011/09/my-note-page-2.png"><img class="alignright size-full wp-image-1852" title="skillBar" src="http://azaleasays.com/wp-content/uploads/2011/09/my-note-page-2.png" alt="" width="768" height="520" /></a>
 
-Istvan 说，每个人都可以画这么一张图，他的建议是，增强你最强的技能，这样你就不可替代了，同时也要弥补过于弱的技能。
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/09/my-note-page-2.png)
 
-然后讲到振奋人心的一点，就是不同于其他的科学，生物信息学是最容易重复前人研究结果的。你不需要复杂的仪器，也不需要剧毒的试剂，只需要一台计算机（啊我真是个诗人- - ）。但是现实不是完美的，Istvan 痛斥了生物信息学领域的学术论文的方法部分和实际情况的差异：
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/09/my-note-page-2-1.png)
 
-<a href="http://azaleasays.com/wp-content/uploads/2011/09/my-note-page-2-1.png"><img class="alignright size-full wp-image-1853" title="method" src="http://azaleasays.com/wp-content/uploads/2011/09/my-note-page-2-1.png" alt="" width="768" height="914" /></a>
-
-这就是为什么你按照一篇论文的方法怎么也重复不出来它的结果。
-
-visionary talk 结束之后就是 panel discussion，就是刚才的3位演讲者同时登台回答问题。头一次见到这种场面，还是很欢乐的。
-
-<a href="http://azaleasays.com/wp-content/uploads/2011/09/img_2187.jpg"><img class="alignright size-large wp-image-1854" title="IMG_2187" src="http://azaleasays.com/wp-content/uploads/2011/09/img_2187.jpg?w=1024&h=595" alt="" width="640" height="371" /></a>
-
-说到生物信息学的标准问题。现在有无数种 <a href="http://en.wikipedia.org/wiki/Chip-Sequencing">chip-seq</a> 的 peak calling 方法，不同方法得出的结果也不尽相同。因此需要 "Industrialized" bioinformatics。但是我们专业的同学们就担心起来，如果以后生物信息学成为了生物学研究的必备知识，我们失业了怎么办？
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/09/img_2187.jpg&amp;h=595)
+<a href="http://en.wikipedia.org/wiki/Chip-Sequencing">chip-seq</a> 的 peak calling 方法，不同方法得出的结果也不尽相同。因此需要 "Industrialized" bioinformatics。但是我们专业的同学们就担心起来，如果以后生物信息学成为了生物学研究的必备知识，我们失业了怎么办？
 
 第一天的演讲就在欢乐祥和的气氛中结束了，大家纷纷挥舞着刀叉向晚饭杀去。
 
-<a href="http://azaleasays.com/wp-content/uploads/2011/09/img_2197.jpg"><img class="alignright size-large wp-image-1855" title="dinner_first_day" src="http://azaleasays.com/wp-content/uploads/2011/09/img_2197.jpg?w=1024&h=682" alt="" width="640" height="426" /></a>
+
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/09/img_2197.jpg&amp;h=682)

@@ -919,16 +919,18 @@ sg还怕贴照片？怕被mm fans围攻吧？:D
 : 同期待
 : 造福版上mm吧，贴！！！
 : : 那就是说你不怕了，
-: : 贴你的上来吧</pre>
+: : 贴你的上来吧
+
+
+
+
+<td width="6"/>
+
+<tr><td width="6">
+![](http://bbs.fudan.edu.cn/images/lb.gif)
+</td>
+<td width="100%"/>
+<td width="6">
+![](http://bbs.fudan.edu.cn/images/rb.gif)
 </td>
 </tr>
-</tbody></table>
-</td>
-<td width="6"></td>
-</tr>
-<tr>
-<td width="6"><img src="http://bbs.fudan.edu.cn/images/lb.gif" border="0" alt="" /></td>
-<td width="100%"></td>
-<td width="6"><img src="http://bbs.fudan.edu.cn/images/rb.gif" border="0" alt="" /></td>
-</tr>
-</tbody></table>

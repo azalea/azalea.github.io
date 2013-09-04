@@ -28,11 +28,11 @@ meta:
 inputstr = sys.argv[1]
 inputlist = list(inputstr.decode('utf-8'))
 
-# print repr('&#1161;'.decode('ascii', 'xmlcharrefreplace'))
-# Find the unicode for html character entity &#1161;
-# It turns out to be u'&#1161;'
+# print repr('҉'.decode('ascii', 'xmlcharrefreplace'))
+# Find the unicode for html character entity ҉
+# It turns out to be u'҉'
 
-decoration = u'&#1161;'
+decoration = u'҉'
 encodedString = decoration + decoration.join(inputlist) + decoration
 
 from BeautifulSoup import BeautifulStoneSoup
@@ -46,7 +46,7 @@ azalea@azalea-Ubuntu:~$ python test.py 菊花文是个好东东
 <pre>菊҉花҉文҉是҉个҉好҉东҉东҉</pre>
 原理：
 
-菊花文其实就是在字符中间加入一个<a href="http://www.w3schools.com/html/html_entities.asp">html character entity</a> 即 <a href="http://www.whatsmyip.org/htmlcharacters/?full=yes" target="_blank">&#1161; </a>
+菊花文其实就是在字符中间加入一个<a href="http://www.w3schools.com/html/html_entities.asp">html character entity</a> 即 <a href="http://www.whatsmyip.org/htmlcharacters/?full=yes" target="_blank">҉ </a>
 
 Python做的就是读入正常的中文，每个字符之间插入这个符号，然后<a href="http://channel3b.wordpress.com/2007/07/04/how-to-convert-html-entities-to-real-unicode-in-python/" target="_blank">转换成 "real" unicode</a>输出。最后的转换需要第三方包 <a href="http://www.crummy.com/software/BeautifulSoup/" target="_blank">BeautifulSoup</a>
 

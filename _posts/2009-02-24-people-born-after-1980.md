@@ -15,13 +15,9 @@ meta:
   ratings_average: '1'
   _searchme: '1'
 ---
-<img class="alignnone size-medium wp-image-828" title="millennial" src="http://azaleasays.com/wp-content/uploads/2010/07/millennial.jpg?w=500" alt="millennial" width="500" height="343" />
 
-其实，我本来想写副标题的：
-------关于美国和中国时代特征的调查报告
-（啊，我爱死这副标题了，总算没辱没了我科研人员的称号，通俗地说，就是女博士）
-
-今天上课学到了，美国称1980年-1998年间出生的人为Millennial，年代横跨了国内势不两立的”80后“，”90后“。当国内两代人口诛笔伐应接不暇的时候，美国这一代人已经发明了facebook。题外话，刚才回顾了一年前那<a href="http://www.56.com/u41/v_MzI2NDMwMTQ.html" target="_blank">沸沸扬扬的视频</a>，觉得那90后mm骂80后其实不无道理。
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/millennial.jpg)
+<a href="http://www.56.com/u41/v_MzI2NDMwMTQ.html" target="_blank">沸沸扬扬的视频</a>，觉得那90后mm骂80后其实不无道理。
 
 在<a href="http://www.my1510.cn/article.php?93f2d6b62152b963" target="_blank">一篇博文</a>里读到，余华说，“一个西方人活四百年才能经历这样两个天壤之别的时代，一个中国人只需四十年就经历了”。
 
@@ -58,34 +54,22 @@ Millennial ~ 1980 - 1998 ~直译是千年，大概是因为他们在世纪之交
 如果你再想这篇裹脚布怎么还没完哪，我就告诉你个好消息，马上就完啦，不过在完之前，我要再宣布一重大发现。
 
 对比这几代人的年代的中位数，我们发现：
-<table border="1">
-<tbody>
-<tr>
-<td>美国</td>
+<table border="1"><tbody><tr><td>美国</td>
 <td>中国</td>
 <td>相差</td>
-</tr>
-<tr>
-<td>1922</td>
+</tr><tr><td>1922</td>
 <td>1959</td>
 <td>37</td>
-</tr>
-<tr>
-<td>1955</td>
+</tr><tr><td>1955</td>
 <td>1980</td>
 <td>25</td>
-</tr>
-<tr>
-<td>1972</td>
+</tr><tr><td>1972</td>
 <td>1990</td>
 <td>18</td>
-</tr>
-<tr>
-<td>1989</td>
+</tr><tr><td>1989</td>
 <td>????</td>
 <td>?</td>
-</tr>
-</tbody></table>
+</tr></tbody></table>
 我再一次自豪了！其实，我们从建国后，和美国的差距也不到40年（bs那些鼓吹中国落后西方100年的），而这个差距变得越来越小了。我们80后和90后，继承和发扬了美国“第十代”人的怀疑精神和对社会的不满，希望这种不满能够转化为社会发展的动力，在不久的将来，中国的下一代能够赶超美国。而这种赶超，是建立在几个关键词上的：
 
 希望、抱负、平和、礼貌、公民意识

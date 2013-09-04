@@ -50,6 +50,6 @@ show()
 [/python]
 
 图：
-<a href="http://azaleasays.com/wp-content/uploads/2010/07/lowess.png" title="lowess"><img src="http://azaleasays.com/wp-content/uploads/2010/07/lowess.png" alt="lowess" height="445" width="591" /></a>
 
-此外，<a href="http://biopython.org/DIST/docs/api/Bio.Statistics.lowess-module.html" target="_blank">Biopython的Statistics包也有lowess模块</a>，不会用-,-
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/lowess.png)
+<a href="http://biopython.org/DIST/docs/api/Bio.Statistics.lowess-module.html" target="_blank">Biopython的Statistics包也有lowess模块</a>，不会用-,-

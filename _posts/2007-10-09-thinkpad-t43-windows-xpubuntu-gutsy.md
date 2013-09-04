@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thinkpad T43 Windows XP&Ubuntu Gutsy双系统安装全过程
+title: Thinkpad T43 Windows XP&amp;Ubuntu Gutsy双系统安装全过程
 tags:
 - Thinkpad
 - ubuntu
@@ -12,7 +12,7 @@ meta:
   views: '786'
   _wp_old_slug: thinkpad-t43-windows-xpubuntu-gutsy%e5%8f%8c%e7%b3%bb%e7%bb%9f%e5%ae%89%e8%a3%85%e5%85%a8%e8%bf%87%e7%a8%8b
 ---
-<a href="http://hi.baidu.com/azaleammm/blog/item/914377a70f308296d143580a.html" target="_blank">书接上回</a>说到帮我同学用linux备份了文件，他就用Thinkpad自带的一键恢复功能重装了Windows XP，但他心中念念不忘linux的倩影，于是昨晚，我开始了5小时漫长的双系统安装之路（其实不用这么久的，2个小时足矣，谁知道意外不断，惊喜也不少）</p>
+<a href="http://hi.baidu.com/azaleammm/blog/item/914377a70f308296d143580a.html" target="_blank">书接上回</a>说到帮我同学用linux备份了文件，他就用Thinkpad自带的一键恢复功能重装了Windows XP，但他心中念念不忘linux的倩影，于是昨晚，我开始了5小时漫长的双系统安装之路（其实不用这么久的，2个小时足矣，谁知道意外不断，惊喜也不少）
 首先是<strong>分区</strong>，他的电脑本来是不分区的，这也是为啥上次备份搞得这么辛苦。于是下载了PartitionMagic，把硬盘分成IBM_PRELOAD, IBM_SERVICE, E:，和free space。结果Apply的时候提示竟然说:这个PartitionMagic是Demo版的，只能耍人，不能分区。还好发现我电脑里有PartitionMagic的安装文件，这次是货真价实的，于是分区搞定，在E:分区后保留了10G的free space。
 
 然后就开始<strong>安装</strong>Gutsy Beta版，10G的空间分区还真是头痛，最后swap分了509MB，其他的都给了分区。然后哼哧哼哧地装到70%时被告知，你的光盘有问题，重新刻一张吧，刻的速度不要这么快了。我昏。。于是开始装Alpha版，因为我自己装的是Tribe 5，可以保证安装盘没问题。这次不敢用Thinkpad自带的光驱了，慢死，于是用了USB外接光驱，安装很快，半小时左右。

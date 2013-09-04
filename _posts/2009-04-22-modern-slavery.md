@@ -13,8 +13,8 @@ meta:
   ratings_average: '1'
   views: '396'
 ---
-<a href="http://azaleasays.com/wp-content/uploads/2010/07/modernslavery.png" target="_self"><img class="aligncenter size-medium wp-image-927" title="modernSlavery" src="http://azaleasays.com/wp-content/uploads/2010/07/modernslavery.png?w=499" alt="modernSlavery" width="499" height="386" /></a>
 
-via <a href="http://www.freetheslaves.net/" target="_blank">Free the Slaves</a>
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/modernslavery.png)
+<a href="http://www.freetheslaves.net/" target="_blank">Free the Slaves</a>
 
 Reminds me of coal miners in Shanxi...

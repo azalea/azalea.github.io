@@ -11,7 +11,7 @@ meta:
 ---
 目录
 <a href="#foreword">序</a> <a href="#acmit">acmit/fdgenius</a> <a href="#minister">minister</a> <a href="#laoqian">laoqian</a> <a href="#ruyu">ruyu</a> <a href="#mmhorse">mmhorse</a> <a href="#CYEZ">CYEZ</a> <a href="#sskkyy">sskkyy</a> <a href="#laoyaor">laoyao</a> <a href="#reset">reset</a> <a href="#cactus">cactus</a> <a href="#septentrione">septentrione </a> <a href="#greenhouse">greenhouse</a> <a href="#fiocz">fiocz</a> <a href="#Chailly">Chailly</a> <a href="#janic">janic</a> <a href="#others">loper&amp;monimonipo&amp;kqb...</a> <a href="#lxmwn">lxmwn</a> <a href="#chessking">chessking</a> <a href="#auntyellow">auntyellow&amp;boliwa</a> <a href="#jinhaoqi">jinhaoqi</a> <a href="#yinglite">yinglite/zhonghe</a>
-<p id="foreword">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: 回忆chess版的人和id们--<strong>序</strong>
 发信站: 日月光华 (2005年08月22日18:10:52 星期一), 站内信件
 
@@ -27,7 +27,7 @@ sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 10.100.146.2]
 ※ 修改:·azalea 於 08月22日18:10:54 修改本文·[FROM: 10.100.146.2]
-<p id="acmit">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: 回忆chess版的人和id们--<strong>acmit/fdgenius</strong>
 发信站: 日月光华 (2005年08月22日18:37:28 星期一), 站内信件
 
@@ -70,7 +70,7 @@ ho.
 sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 10.100.146.2]
-<p id="minister">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: 回忆chess版的人和id们--<strong>minister</strong>
 发信站: 日月光华 (2005年08月22日18:47:51 星期一), 站内信件
 
@@ -90,7 +90,7 @@ minister在四国界肯定是如雷贯耳，Chess版上的前辈们应该比我�
 sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 10.100.146.2]
-<p id="laoqian">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: 回忆chess版的人和id们--<strong>laoqian</strong>
 发信站: 日月光华 (2005年08月22日19:19:51 星期一), 站内信件
 
@@ -129,7 +129,7 @@ ian很健谈，又有广东人的幽默，讲起Chess版的陈年旧事，大家
 sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 10.100.146.2]
-<p id="ruyu">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: 回忆chess版的人和id们--<strong>ruyu</strong>
 发信站: 日月光华 (2005年08月23日02:24:23 星期二), 站内信件
 
@@ -149,7 +149,7 @@ n和ruyu一起学五子棋的故事，很有传奇色彩的。
 sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 10.100.146.2]
-<p id="mmhorse">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: 回忆chess版的人和id们--<strong>mmhorse</strong>
 发信站: 日月光华 (2005年08月23日02:47:52 星期二), 站内信件
 
@@ -194,7 +194,7 @@ sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 10.100.146.2]
 ※ 修改:·azalea 於 08月23日04:33:42 修改本文·[FROM: 10.100.146.2]
-<p id="CYEZ">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: 回忆chess版的人和id们--<strong>CYEZ</strong>
 发信站: 日月光华 (2005年08月23日03:17:16 星期二), 站内信件
 
@@ -219,7 +219,7 @@ is the one thing you can see.
 sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 10.100.146.2]
-<p id="sskkyy">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: 回忆chess版的人和id们--<strong>sskkyy</strong>
 发信站: 日月光华 (2005年08月23日03:30:47 星期二), 站内信件
 
@@ -244,7 +244,7 @@ tp上下载了许多秀策的棋，不过我到现在也没开始学。
 sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 10.100.146.2]
-<p id="laoyao">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: 回忆chess版的人和id们--<strong>laoyao</strong>
 发信站: 日月光华 (2005年08月23日03:52:04 星期二), 站内信件
 
@@ -280,7 +280,7 @@ sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 10.100.146.2]
 ※ 修改:·azalea 於 08月23日04:37:02 修改本文·[FROM: 10.100.146.2]
-<p id="reset">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: 回忆chess版的人和id们--<strong>reset</strong>
 发信站: 日月光华 (2005年08月23日04:00:04 星期二), 站内信件
 
@@ -294,7 +294,7 @@ is the one thing you can see.
 sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 10.100.146.2]
-<p id="cactus">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: 回忆chess版的人和id们--<strong>cactus</strong>
 发信站: 日月光华 (2005年08月23日04:12:56 星期二), 站内信件
 
@@ -316,7 +316,7 @@ cactus是Chess版的老老老版主了，不知道这里还有人记得他吗？
 sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 10.100.146.2]
-<p id="septentrione">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: 回忆chess版的人和id们--<strong>septentrione</strong>
 发信站: 日月光华 (2005年08月23日04:18:53 星期二), 站内信件
 
@@ -336,7 +336,7 @@ is the one thing you can see.
 sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 10.100.146.2]
-<p id="greenhouse">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: 回忆chess版的人和id们--<strong>greenhouse</strong>
 发信站: 日月光华 (2005年08月23日04:33:12 星期二), 站内信件
 
@@ -360,7 +360,7 @@ is the one thing you can see.
 sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 10.100.146.2]
-<p id="fiocz">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: 回忆chess版的人和id们--<strong>fiocz</strong>
 发信站: 日月光华 (2005年08月23日04:52:03 星期二), 站内信件
 
@@ -392,7 +392,7 @@ fio对国象的热情比我高很多。我以前贴新闻，后来就懒的贴�
 sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 10.100.146.2]
-<p id="Chailly">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: 回忆chess版的人和id们--<strong>Chailly</strong>
 发信站: 日月光华 (2005年08月23日05:03:31 星期二), 站内信件
 
@@ -415,7 +415,7 @@ sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 10.100.146.2]
 ※ 修改:·azalea 於 08月23日05:03:51 修改本文·[FROM: 10.100.146.2]
-<p id="janic">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: 回忆chess版的人和id们--<strong>janic</strong>
 发信站: 日月光华 (2005年08月23日05:19:57 星期二), 站内信件
 
@@ -443,7 +443,7 @@ iuhua...
 sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 10.100.146.2]
-<p id="others">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: 回忆chess版的人和id们--<strong>loper&amp;monimonipo&amp;kqb...</strong>
 发信站: 日月光华 (2005年08月23日05:20:56 星期二), 站内信件
 
@@ -454,7 +454,7 @@ is the one thing you can see.
 sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 10.100.146.2]
-<p id="lxmwn">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: 回忆chess版的人和id们--<strong>lxmwn</strong>
 发信站: 日月光华 (2005年08月23日05:46:07 星期二), 站内信件
 
@@ -486,7 +486,7 @@ is the one thing you can see.
 sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 10.100.146.2]
-<p id="chessking">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: 回忆chess版的人和id们--<strong>chessking</strong>
 发信站: 日月光华 (2005年08月26日02:20:48 星期五), 站内信件
 
@@ -513,7 +513,7 @@ chessking法语也很牛，崇拜ing~总之他是牛人，可惜很多牛的地�
 sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 10.100.146.2]
-<p id="auntyellow">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: 回忆chess版的人和id们--<strong>auntyellow&amp;boliwa</strong>
 发信站: 日月光华 (2005年08月26日02:22:04 星期五), 站内信件
 
@@ -552,7 +552,7 @@ wa就在旁边开心的看。
 sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 10.100.146.2]
-<p id="jinhaoqi">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: 回忆chess版的人和id们--<strong>jinhaoqi</strong>
 发信站: 日月光华 (2005年08月26日02:23:44 星期五), 站内信件
 
@@ -583,7 +583,7 @@ one夺得国象双人赛冠军。我虽然困惑于送马之举，但那时还�
 sometimes the very thing you are looking for,
 is the one thing you can see.
 ※ 来源:·日月光华 bbs.fudan.edu.cn·[FROM: 10.100.146.2]
-<p id="yinglite">发信人: azalea (an end is another start), 信区: Chess
+发信人: azalea (an end is another start), 信区: Chess
 标  题: 回忆chess版的人和id们--<strong>yinglite/zhonghe</strong>
 发信站: 日月光华 (2005年08月26日02:52:11 星期五), 站内信件
 

@@ -40,4 +40,4 @@ Bruce Levin 讲了 Horizontal Gene Transfer (HGT) 对细菌进化的意义。他
 
 印象比较深刻talks的就是以上。敬请期待下篇：<a href="http://azaleasays.com/2011/03/20/anecdotes-of-nei/" target="_blank">Nei的八卦</a>
 
-&nbsp;
+ 

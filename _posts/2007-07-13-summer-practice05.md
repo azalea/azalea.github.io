@@ -12,7 +12,9 @@ meta:
   _wp_old_slug: '%e9%9a%be%e5%bf%9805%e5%b9%b4%e6%9a%91%e6%9c%9f%e5%ae%9e%e8%b7%b5-%e5%8d%83%e9%87%8c%e8%b5%b0%e7%a7%a6%e5%9c%b0-%e7%94%9f%e5%91%bd%e6%af%8d%e4%ba%b2%e6%b2%b3'
 ---
 毕业了，写写回忆录^^那是大二的下学期，我的乒乓搭档吴菲mm想组织暑期实践，考察陕西境内黄河上游的水文情况并访问水文站，于是拉我入伙。无玩不欢的我欣然答应。以后的几星期，大家聚会讨论了几次，印象最深刻的是去了一次漫画吧，每人20米啊，在当时真是不菲的价格。具体的申请书、考察方案我都没怎么参与，吴菲和其他几人很用心的进行着前期准备，而且设计了很pp的logo（这个ms是初稿，最终方案是把代表黄河的曲线画成母亲脸侧面剪影的形状，可惜我没有终稿的图&gt;&lt;）
-<p><img src="http://lh3.google.com/MaZhaorong/RpcVej0BWKI/AAAAAAAAAFQ/h8k02jPo9dI/s144/LOGO.JPG" class="blogimg" border="0" /></p>
+
+![](http://lh3.google.com/MaZhaorong/RpcVej0BWKI/AAAAAAAAAFQ/h8k02jPo9dI/s144/LOGO.JPG)
+
 我们的项目通过了学校的初审复审，终审答辩我只是在下面听了听，虽然最后学校没有赞助，我和吴菲、何鲁敏、吴松四人还是去了陕西。
 我们原计划8人分成自然、人文2条线路考察，最后只去了4人，因此一起行动。
 最终的路线是：
