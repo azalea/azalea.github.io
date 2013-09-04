@@ -20,7 +20,9 @@ meta:
 自娱自乐，完全没用。其实是<a href="http://www.kangye.org/gae-hello-world-3/#comment-12472" target="_blank">康爷出的练习题</a>的解答。顺便推荐下<a href="http://www.kangye.org/" target="_blank">康爷的博客</a>，有很多关于Google App Engine的东东。
 
 以下是源代码：
-<pre>from google.appengine.ext import webapp
+
+```python
+from google.appengine.ext import webapp
 from google.appengine.ext.webapp.util import run_wsgi_app
 
 def fibonacci(n):
@@ -71,4 +73,5 @@ def main():
     run_wsgi_app(application)
 
 if __name__ == "__main__":
-    main()</pre>
+    main()
+```

@@ -18,6 +18,10 @@ meta:
 
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/photo2.jpg)
 
+用剩下的材料做了一个大眼怪(怪物公司里的那个):
+
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/photo22.jpg)
+
+这里是很早以前Late Night的作品，左边那个是pala的杰作哈
 
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/photo3.jpg)

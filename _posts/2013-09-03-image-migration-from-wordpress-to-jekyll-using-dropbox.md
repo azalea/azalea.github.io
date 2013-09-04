@@ -9,7 +9,7 @@ tags:
   - blog
   
 ---
- 前些日子把 blog 从 Wordpress 转到了 Jekyll，但是遗留问题就是图片都是保存在搭建 Wordpress 时租租用的空间，等空间到期就访问不了了。图片搬家的解决方法主要有：
+ 前些日子把 blog 从 Wordpress 转到了 [Jekyll](http://ztpala.com/2011/09/12/jekyll-and-github-pages/)，但是遗留问题就是图片都是保存在搭建 Wordpress 时租租用的空间，等空间到期就访问不了了。图片搬家的解决方法主要有：
  
  1. 直接放到 Jekyll 下的文件夹，缺点是如果托管到 github，这个 project 里面会有大量图片，别人 fork 或下载很不方便。
  2. 放到 flickr，Google plus 等地，缺点是每张图片的链接都要单独查找。

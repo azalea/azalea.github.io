@@ -30,3 +30,9 @@ Absence of evidence is not evidence of absence.
 
 然后去Wal Mart买了气球，60分50个，超级便宜啊。回家用自行车气筒充好气，黏在墙上，
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/00001.jpg)
+
+还觉得不过瘾，于是挂在飞镖盘上，用飞镖扎爆，老公投了N次才投中，汗。。
+
+然后累死了，开始写这篇文章。
+
+新年快乐！！！

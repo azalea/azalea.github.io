@@ -14,18 +14,15 @@ meta:
   _edit_last: '1'
   aktt_notify_twitter: 'no'
   _wp_old_slug: '1812'
-  _efficient_related_posts: a:10:{i:0;a:4:{s:2:"ID";s:4:"1804";s:10:"post_title";s:32:"找钱问题--动态规划一例";s:7:"matches";s:1:"3";s:9:"permalink";s:91:"http://azaleasays.com/2011/02/16/coin-change-problem-an-application-of-dynamic-programming/";}i:1;a:4:{s:2:"ID";s:4:"1792";s:10:"post_title";s:30:"Cannot
-    find python intepreter ";s:7:"matches";s:1:"1";s:9:"permalink";s:63:"http://azaleasays.com/2011/01/15/cannot-find-python-intepreter/";}i:2;a:4:{s:2:"ID";s:4:"1776";s:10:"post_title";s:42:"python判断字符串是否是回文结构";s:7:"matches";s:1:"1";s:9:"permalink";s:61:"http://azaleasays.com/2010/12/11/python-string-is-palindrome/";}i:3;a:4:{s:2:"ID";s:4:"1762";s:10:"post_title";s:50:"matplotlib绘图实例3：染色体直线示意图";s:7:"matches";s:1:"1";s:9:"permalink";s:74:"http://azaleasays.com/2010/12/02/matplotlib-example-lines-for-chromosomes/";}i:4;a:4:{s:2:"ID";s:4:"1715";s:10:"post_title";s:24:"Python菊花文转换器";s:7:"matches";s:1:"1";s:9:"permalink";s:90:"http://azaleasays.com/2010/10/11/python-converter-for-juhuaren-html-character-entity-1161/";}i:5;a:4:{s:2:"ID";s:4:"1687";s:10:"post_title";s:40:"Python保留list只出现一次的元素";s:7:"matches";s:1:"1";s:9:"permalink";s:76:"http://azaleasays.com/2010/08/30/python-keep-list-elements-that-appear-once/";}i:6;a:4:{s:2:"ID";s:4:"1420";s:10:"post_title";s:30:"用Python漂亮地打印序列";s:7:"matches";s:1:"1";s:9:"permalink";s:72:"http://azaleasays.com/2010/07/15/print-sequence-beatifully-using-python/";}i:7;a:4:{s:2:"ID";s:4:"1407";s:10:"post_title";s:25:"在Python中调用RNAfold";s:7:"matches";s:1:"1";s:9:"permalink";s:55:"http://azaleasays.com/2010/05/19/use-rnafold-in-python/";}i:8;a:4:{s:2:"ID";s:4:"1371";s:10:"post_title";s:36:"matplotlib绘图实例2：color
-    mesh";s:7:"matches";s:1:"1";s:9:"permalink";s:63:"http://azaleasays.com/2010/04/29/matplotlib-example-color-mesh/";}i:9;a:4:{s:2:"ID";s:4:"1374";s:10:"post_title";s:38:"matplotlib绘图实例1：scatter
-    plot";s:7:"matches";s:1:"1";s:9:"permalink";s:65:"http://azaleasays.com/2010/04/28/matplotlib-example-scatter-plot/";}}
-  _relation_threshold: '1'
   original_post_id: '1812'
 ---
 Problem: 
 Given a list of N integers (both positive and negative), find the sub-sequence with the largest sum.
 
 Solution:
-<pre>#!/usr/bin/python
+
+```python
+#!/usr/bin/python
 
 import random
 import time
@@ -104,6 +101,8 @@ time1 = time.time()
 print f3(L)
 time2 = time.time()
 print 'Time used by Method3:', time2-time1</pre>
+```
+
 There is another solution in O(n log2 n) using Divide and Conquer <a href="http://www.fearme.com/misc/alg/node101.html" target="_blank">here</a>.
 
 One related question <a href="http://stackoverflow.com/questions/4487438/maximum-sum-of-non-consecutive-elements" target="_blank">here</a>.

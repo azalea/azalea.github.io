@@ -16,10 +16,64 @@ meta:
 ---
 ClustalW格式是多序列比对程序CLUSTAL W的默认输出格式，大概是这个样子：
 
-
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/clw.jpg)
 
+Aligned FASTA格式是多序列比对程序MUSCLE的默认输出格式，与一般的FASTA格式很相似，只是根据比对结果在序列中填充“-”，使所有序列长度相同，例如：
+
 ![](http://azaleasays.files.wordpress.com/2008/06/afa.jpg)
-<div style="font-family:&quot;" class="source"><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/> <span style="color:rgb(0,136,0);font-style:italic;">#!/usr/bin/python</span><br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/> <span style="color:rgb(0,136,0);font-style:italic;">#Usage: python clw2afa.py input.clw</span><br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/> <span style="color:rgb(0,136,0);font-style:italic;">#Default output is STDOUT, you can redirect using '&gt;'</span><br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/> <span style="color:rgb(0,136,0);font-style:italic;">#You can also import it as a module, i.e. import clw2afa</span><br/><span class="lineno special"/> <br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/> import sys<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/> import re<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/> <br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/> <span style="color:rgb(0,0,128);font-weight:bold;">def</span> clw2afa(filename):<br/><span class="lineno special"/>     pat=re.compile(<span style="color:rgb(0,0,255);">'(S+)s+(S+)'</span>)<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>     f=open(filename)<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>     header=f.readline()<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>     <span style="color:rgb(0,0,128);font-weight:bold;">if</span> <span style="font-weight:bold;">not</span> header.startswith(<span style="color:rgb(0,0,255);">'CLUSTAL'</span>) <span style="font-weight:bold;">and</span> <span style="font-weight:bold;">not</span> header.startswith(<span style="color:rgb(0,0,255);">'MUSCLE'</span>):<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>         sys.exit(<span style="color:rgb(0,0,255);">"clw2afa.py:Wrong input file type."</span>)<br/><span class="lineno special"/>     ln=f.readline()<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>     <span style="color:rgb(0,0,128);font-weight:bold;">while</span> <span style="font-weight:bold;">not</span> ln.strip():<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>         ln=f.readline()<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>     seqdict={}<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>     EOF=False<br/><span class="lineno special"/>     <span style="color:rgb(0,0,128);font-weight:bold;">while</span> ln:<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>         m=pat.search(ln)   <br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>         <span style="color:rgb(0,0,128);font-weight:bold;">if</span> m <span style="font-weight:bold;">and</span> <span style="font-weight:bold;">not</span> <span style="color:rgb(0,0,255);">'*'</span> <span style="font-weight:bold;">in</span> ln: <br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>             seqdict[m.group(<span style="color:rgb(0,0,255);">1</span>)]=m.group(<span style="color:rgb(0,0,255);">2</span>)<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>             ln=f.readline()<br/><span class="lineno special"/>         <span style="color:rgb(0,0,128);font-weight:bold;">elif</span> <span style="font-weight:bold;">not</span> ln:<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>             EOF=True<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>             <span style="color:rgb(0,0,128);font-weight:bold;">break</span><br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>         <span style="color:rgb(0,0,128);font-weight:bold;">else</span>:<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>             <span style="color:rgb(0,0,128);font-weight:bold;">break</span><br/><span class="lineno special"/>     <span style="color:rgb(0,0,128);font-weight:bold;">if</span> <span style="font-weight:bold;">not</span> EOF:<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>         <span style="color:rgb(0,0,128);font-weight:bold;">while</span> True:<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>             ln=f.readline()<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>             <span style="color:rgb(0,0,128);font-weight:bold;">if</span> <span style="font-weight:bold;">not</span> ln:<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>                 <span style="color:rgb(0,0,128);font-weight:bold;">break</span><br/><span class="lineno special"/>             m=pat.search(ln)<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>             <span style="color:rgb(0,0,128);font-weight:bold;">if</span> m <span style="font-weight:bold;">and</span> <span style="font-weight:bold;">not</span> <span style="color:rgb(0,0,255);">'*'</span> <span style="font-weight:bold;">in</span> ln:<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>                 seqdict[m.group(<span style="color:rgb(0,0,255);">1</span>)]+=<span style="color:rgb(0,0,255);">'</span><span style="color:rgb(0,0,255);">n</span><span style="color:rgb(0,0,255);">'</span>+m.group(<span style="color:rgb(0,0,255);">2</span>)<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>     f.close()<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>     output=<span style="color:rgb(0,0,255);">''</span><br/><span class="lineno special"/>     <span style="color:rgb(0,0,128);font-weight:bold;">for</span> k,v <span style="font-weight:bold;">in</span> seqdict.items():<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>         output+=<span style="color:rgb(0,0,255);">'&gt;</span><span style="color:rgb(0,0,255);">%s</span><span style="color:rgb(0,0,255);">n</span><span style="color:rgb(0,0,255);">%s</span><span style="color:rgb(0,0,255);">n</span><span style="color:rgb(0,0,255);">'</span>%(k,v)<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>     <span style="color:rgb(0,0,128);font-weight:bold;">return</span> output<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/> <br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/> <span style="color:rgb(0,0,128);font-weight:bold;">if</span> __name__ == <span style="color:rgb(0,0,255);">"__main__"</span>:<br/><span class="lineno special"/>     import sys<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>     tt=clw2afa(sys.argv[<span style="color:rgb(0,0,255);">1</span>])<br/><span style="color:rgb(0,136,0);font-style:italic;" class="lineno"/>     <span style="color:rgb(0,0,128);font-weight:bold;">print</span> tt<br/></div>
+
+Aligned FASTA格式更便于机器阅读，而ClustalW格式是比较人性化的 ，使用者可以直观地看到相同和不同的区域。
+
+由于MUSCLE程序的profile alignment功能需要aligned FASTA格式的输入，因此我写了以下一段简单的python代码，把ClustalW格式转换成aligned FASTA格式：
+
+```python
+#!/usr/bin/python
+#Usage: python clw2afa.py input.clw
+#Default output is STDOUT, you can redirect using '>'
+#You can also import it as a module, i.e. import clw2afa
+
+import sys
+import re
+
+def clw2afa(filename):
+    pat=re.compile('(S+)s+(S+)')
+    f=open(filename)
+    header=f.readline()
+    if not header.startswith('CLUSTAL') and not header.startswith('MUSCLE'):
+        sys.exit("clw2afa.py:Wrong input file type.")
+    ln=f.readline()
+    while not ln.strip():
+        ln=f.readline()
+    seqdict={}
+    EOF=False
+    while ln:
+        m=pat.search(ln)   
+        if m and not '' in ln: 
+            seqdict[m.group(1)]=m.group(2)
+            ln=f.readline()
+        elif not ln:
+            EOF=True
+            break
+        else:
+            break
+    if not EOF:
+        while True:
+            ln=f.readline()
+            if not ln:
+                break
+            m=pat.search(ln)
+            if m and not '' in ln:
+                seqdict[m.group(1)]+='n'+m.group(2)
+    f.close()
+    output=''
+    for k,v in seqdict.items():
+        output+='>%sn%sn'%(k,v)
+    return output
+
+if name == "main":
+    import sys
+    tt=clw2afa(sys.argv[1])
+    print tt
+```
 
 写得有点混乱，希望大家如果使用的话把BUG报告一下^^

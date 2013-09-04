@@ -158,7 +158,8 @@ File Format：选择 Application
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2013/04/Screen-Shot-2013-04-11-at-5.01.20-AM.png)
 
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2013/04/Screen-Shot-2013-04-11-at-5.09.52-AM-1024x746.png)
-<a href="https://twitter.com/ztpala">@ztpala</a> 同学的翻译和技术指导。
+
+感谢[@ztpala](https://twitter.com/ztpala)同学的翻译和技术指导。
 
 感谢三国杀友 代号86 在百忙之中帮忙找到 msvcp60.dll 文件，以及由始至终给我动力使我得以完成这艰巨任务（我其实是想说 always keeping me motivated）。
 

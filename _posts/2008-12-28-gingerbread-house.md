@@ -16,10 +16,15 @@ meta:
 
 包装
 
-
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/img_01741.jpg)
 
+建筑材料：
+
+毛坯房, 糖霜，彩色软糖和糖豆
+
 ![](http://azaleasays.files.wordpress.com/2008/12/img_0175.jpg)
+
+搞定啦
 
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/img_0177.jpg)
 

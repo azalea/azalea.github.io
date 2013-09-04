@@ -42,6 +42,11 @@ text(1000,0.08,labels='p=0.05',col='blue')</font>
 
 
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/pvalue.jpg)
+
+可见调整后只有一个基因的p value小于0.05，而未调整的有170个基因的p value小于0.05，可以说虽然此方法降低了错误发现率，但是也导致了很高的False negative.
+
+此外可以考虑使用multtest package的mt.rawp2adjp()函数，这个函数可以通过"Bonferroni", "Holm", "Hochberg", "SidakSS", "SidakSD", "BH", "BY"等方法调整p value，不过对我们的数据来说都过于严格了。
+
 <font color="#3366ff">procs&lt;-c("Bonferroni","Holm","Hochberg","SidakSS","SidakSD","BH","BY")
 adjps&lt;-mt.rawp2adjp(rawp,procs)
 plot(sort(adjps$adjp[,1]),ylab='p value')
@@ -51,9 +56,9 @@ points(sort(adjps$adjp[,i]),col=i)
 abline(h=0.05,col='blue')
 text(1000,0.08,labels='p=0.05',col='blue')</font>
 
-
 ![](http://azaleasays.files.wordpress.com/2008/05/adjps.jpg)
-<em>Significance Analysis of Microarrays</em>)分析。具体懒得写了，有兴趣的请看参考资料。。
+
+因此可以考虑不这么严格的SAM (<em>Significance Analysis of Microarrays</em>)分析。具体懒得写了，有兴趣的请看参考资料。。
 
 参考资料：
 课堂讲义：<a href="http://www.stat.psu.edu/%7Echiaro/BioinfoII_08/Diff_Expr.pdf"><span class="GramE">Differential expression</span></a><span class="GramE">.</span><strong> Identifying differentially expressed genes -- notions on multiple testing and p-value adjustments</strong>.

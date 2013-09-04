@@ -16,12 +16,13 @@ meta:
   ratings_average: '0'
 ---
 今日百度出来的。。。
+
 <a href="http://club.163.com/viewElite.m?catalogId=135082&amp;eliteId=135082_100d2c9dca90014" target="_blank">http://club.163.com/viewElite.m?catalogId=135082&amp;eliteId=135082_100d2c9dca90014</a>
 
 此文是高中英语课作业，因为我们英语老师立剑同学对独孤九剑和英语学习的关系有很深的研究，故上课发了盗版的《笑傲江湖》片段，让大家写读后感。。
---------
 
-再论独孤九剑
+
+##再论独孤九剑
 
 马昭荣
 

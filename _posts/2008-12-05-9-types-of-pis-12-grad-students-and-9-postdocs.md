@@ -11,8 +11,6 @@ published: true
 meta:
   _searchme: '1'
   views: '793'
-  tagazine-media: a:7:{s:7:"primary";s:66:"http://azaleasays.files.wordpress.com/2008/12/9typesofpostdocs.jpg";s:6:"images";a:3:{s:61:"http://azaleasays.files.wordpress.com/2008/12/9typesofpis.jpg";a:6:{s:8:"file_url";s:61:"http://azaleasays.files.wordpress.com/2008/12/9typesofpis.jpg";s:5:"width";s:4:"1258";s:6:"height";s:4:"1600";s:4:"type";s:5:"image";s:4:"area";s:7:"2012800";s:9:"file_path";s:0:"";}s:70:"http://azaleasays.files.wordpress.com/2008/12/9typesofgradstudents.jpg";a:6:{s:8:"file_url";s:70:"http://azaleasays.files.wordpress.com/2008/12/9typesofgradstudents.jpg";s:5:"width";s:4:"1074";s:6:"height";s:4:"1599";s:4:"type";s:5:"image";s:4:"area";s:7:"1717326";s:9:"file_path";s:0:"";}s:66:"http://azaleasays.files.wordpress.com/2008/12/9typesofpostdocs.jpg";a:6:{s:8:"file_url";s:66:"http://azaleasays.files.wordpress.com/2008/12/9typesofpostdocs.jpg";s:5:"width";s:4:"1572";s:6:"height";s:4:"1600";s:4:"type";s:5:"image";s:4:"area";s:7:"2515200";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"3";s:6:"author";s:7:"4875032";s:7:"blog_id";s:8:"14888982";s:9:"mod_stamp";s:19:"2010-07-27
-    02:09:11";}
 ---
 图片来源: <a href="http://dentcartoons.blogspot.com/2008/02/nine-types-series.html" target="_blank">Dent Cartoons</a> (不错的blog, 收集关于科学家和科学研究的漫画, 作者是NIH的博士后, 不知道国内能否直接访问, 请用代理...)
 
@@ -20,13 +18,13 @@ meta:
 
 原始来源: <a href="http://www.nature.com/reviews/molcellbio" target="_blank">Nature Reviews Molecular Cell Biology</a> volumn e 9 | May 2008 |
 
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/9typesofpis.jpg)
+
 发现偶老板是 11(+)(-) 22(+) 33(+) 的复合体 (对角线啊!)
 
 大家给自己的老板分分类吧 (ms专业术语叫PI Ontology, just kidding...)
 
 (随便翻译来玩玩, 谁来指点下那些类型名称? 拜倒~)
-
-<!--more-->
 
 <strong>11 Big Talker</strong> 吹牛扯淡高手
 
@@ -36,8 +34,6 @@ meta:
 
 (-) 你其实不知道你做的是啥
 
-
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/9typesofpis.jpg)
 <strong>12 Slave Driver </strong>奴隶主
 
 嘿, 在偶们实验室里, 每周工作60个小时是没啥用滴
@@ -95,18 +91,19 @@ meta:
 (+) 搭她的车很爽!
 
 (-) 你没啥发展空间了
+
 <div class="mceTemp"><dl class="wp-caption alignnone"><dt class="wp-caption-dt"/> </dl></div>
 <strong> 12种研究生</strong>
 
-偶大概是23+32
-<div class="mceTemp"><dl class="wp-caption alignnone"><dt class="wp-caption-dt">
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/9typesofgradstudents.jpg)
-</dt> </dl></div>
+
+偶大概是23+32
+
 <strong> 9种博士后</strong>
+
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/9typesofpostdocs.jpg)
 
 大家看起来都好老啊...
 
 21那个biohazard兄, laf...
 
-
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/9typesofpostdocs.jpg)

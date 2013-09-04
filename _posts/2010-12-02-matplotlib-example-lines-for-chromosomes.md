@@ -13,18 +13,13 @@ meta:
   _searchme: '1'
   aktt_notify_twitter: 'no'
   _edit_last: '1'
-  _efficient_related_posts: a:10:{i:0;a:4:{s:2:"ID";s:4:"1371";s:10:"post_title";s:36:"matplotlib绘图实例2：color
-    mesh";s:7:"matches";s:1:"2";s:9:"permalink";s:63:"http://azaleasays.com/2010/04/29/matplotlib-example-color-mesh/";}i:1;a:4:{s:2:"ID";s:4:"1374";s:10:"post_title";s:38:"matplotlib绘图实例1：scatter
-    plot";s:7:"matches";s:1:"2";s:9:"permalink";s:65:"http://azaleasays.com/2010/04/28/matplotlib-example-scatter-plot/";}i:2;a:4:{s:2:"ID";s:4:"1355";s:10:"post_title";s:22:"matplotlib新手教程";s:7:"matches";s:1:"2";s:9:"permalink";s:59:"http://azaleasays.com/2010/04/27/matplotlib-beginner-guide/";}i:3;a:4:{s:2:"ID";s:3:"367";s:10:"post_title";s:12:"爱的方程";s:7:"matches";s:1:"2";s:9:"permalink";s:48:"http://azaleasays.com/2008/06/18/fomula-of-love/";}i:4;a:4:{s:2:"ID";s:3:"237";s:10:"post_title";s:42:"Python
-    Matplotlib logarithmic scatter plot";s:7:"matches";s:1:"2";s:9:"permalink";s:76:"http://azaleasays.com/2008/03/04/python-matplotlib-logarithmic-scatter-plot/";}i:5;a:4:{s:2:"ID";s:2:"83";s:10:"post_title";s:33:"今天写了第一个python程序";s:7:"matches";s:1:"2";s:9:"permalink";s:54:"http://azaleasays.com/2007/09/13/first-python-program/";}i:6;a:4:{s:2:"ID";s:4:"1812";s:10:"post_title";s:35:"Maximum
-    sum of consecutive integers";s:7:"matches";s:1:"1";s:9:"permalink";s:69:"http://azaleasays.com/2011/02/17/maximum-sum-of-consecutive-integers/";}i:7;a:4:{s:2:"ID";s:4:"1804";s:10:"post_title";s:32:"找钱问题--动态规划一例";s:7:"matches";s:1:"1";s:9:"permalink";s:91:"http://azaleasays.com/2011/02/16/coin-change-problem-an-application-of-dynamic-programming/";}i:8;a:4:{s:2:"ID";s:4:"1792";s:10:"post_title";s:30:"Cannot
-    find python intepreter ";s:7:"matches";s:1:"1";s:9:"permalink";s:63:"http://azaleasays.com/2011/01/15/cannot-find-python-intepreter/";}i:9;a:4:{s:2:"ID";s:4:"1776";s:10:"post_title";s:42:"python判断字符串是否是回文结构";s:7:"matches";s:1:"1";s:9:"permalink";s:61:"http://azaleasays.com/2010/12/11/python-string-is-palindrome/";}}
   _relation_threshold: '1'
   original_post_id: '1762'
   _wp_old_slug: '1762'
 ---
 
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/12/positions.png)
+
 <a href="http://matplotlib.sourceforge.net/examples/api/artist_demo.html" target="_blank">现学现卖</a>，画来玩玩的，用来做slides里的示意图。感觉如果扩展一下加入zoom-in，zoom-out和slider的话，可以做成基因组浏览器（Genome Browser，比如<a href="http://www.broadinstitute.org/igv/" target="_blank">IGV</a>）。
 
 这个画的是2个<em>MIRNA165</em>基因（橙色箭头）和7个<em>MIRNA166</em>基因（红色箭头，有2个位置很近看起来重合）在<em>Arabidopsis thaliana</em>（我们最爱滴模式植物）5条染色体上的位置。

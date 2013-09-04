@@ -16,8 +16,8 @@ meta:
 ---
 Source: <a href="http://mail.python.org/pipermail/python-list/2006-February/369976.html">http://mail.python.org/pipermail/python-list/2006-February/369976.html</a>
 
-[python]
-<pre>from pylab import *
+```python
+from pylab import *
 
 def log_10_product(x, pos):
     """The two args are the value and tick position.
@@ -45,9 +45,7 @@ grid(True)
 xlabel(r"Result", fontsize = 12)
 ylabel(r"Prediction", fontsize = 12)
 
-show()</pre>
-<pre>[/python]</pre>
-<pre>结果如图：</pre>
-<pre>
+show()
+```
+结果如图
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/logarithmic_scatter.png)
-</pre>

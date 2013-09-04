@@ -17,7 +17,10 @@ meta:
 ---
 
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/millennial.jpg)
-<a href="http://www.56.com/u41/v_MzI2NDMwMTQ.html" target="_blank">沸沸扬扬的视频</a>，觉得那90后mm骂80后其实不无道理。
+
+其实，我本来想写副标题的： ------关于美国和中国时代特征的调查报告 （啊，我爱死这副标题了，总算没辱没了我科研人员的称号，通俗地说，就是女博士）
+
+今天上课学到了，美国称1980年-1998年间出生的人为Millennial，年代横跨了国内势不两立的”80后“，”90后“。当国内两代人口诛笔伐应接不暇的时候，美国这一代人已经发明了facebook。题外话，刚才回顾了一年前那<a href="http://www.56.com/u41/v_MzI2NDMwMTQ.html" target="_blank">沸沸扬扬的视频</a>，觉得那90后mm骂80后其实不无道理。
 
 在<a href="http://www.my1510.cn/article.php?93f2d6b62152b963" target="_blank">一篇博文</a>里读到，余华说，“一个西方人活四百年才能经历这样两个天壤之别的时代，一个中国人只需四十年就经历了”。
 
