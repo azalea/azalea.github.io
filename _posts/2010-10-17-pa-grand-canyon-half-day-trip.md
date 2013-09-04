@@ -19,24 +19,7 @@ meta:
   _wp_old_slug: '1727'
 ---
 今天风和日丽，于是我们一行七人一早出发开车去<a href="http://www.dcnr.state.pa.us/stateparks/parks/leonardharrison.aspx" target="_blank">宾州大峡谷</a>。
-我们跋山涉水翻山越岭，终于来到了传说中的大峡谷（宾州的。。），风景很好，上pic:
-
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/10/IMG_0407-1024x768.jpg)
-
-
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/10/IMG_0410-1024x768.jpg)
-
-
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/10/IMG_0438-768x1024.jpg)
-
-
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/10/IMG_0457-768x1024.jpg)
-
-
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/10/IMG_0468-768x1024.jpg)
-
-
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/10/IMG_0493-1024x768.jpg)
+我们跋山涉水翻山越岭，终于来到了传说中的大峡谷（宾州的。。），风景很好，[pic在此](http://www.flickr.com/photos/ztpala/sets/72157629968683603/)
 
 无奈hiking trail实在太短，3个小时闲庭信步就走完了，于是下午3点就告别了大峡谷。
 感谢Jin同学的ride，感谢Wenying夫妇的烤红薯，感谢iphone拍滴照片。

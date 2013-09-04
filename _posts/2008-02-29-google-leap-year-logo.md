@@ -15,4 +15,11 @@ meta:
 ---
 
 ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2008/02/leapyear08.gif)
-<a href="http://www.ztpala.com" target="_blank">pala</a>的指点:)
+
+另外，学几句英语吧
+
+闰年: leap year
+
+2月29号生日的人: leaper, Feb.29er, leapling
+
+感谢[pala](http://ztpala.com/)的指点:)
