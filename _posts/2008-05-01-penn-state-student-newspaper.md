@@ -14,8 +14,7 @@ meta:
 刚才收到一封邮件，是说Penn State Outing Club的一个"历史地点"(<a href="http://digitalnewspapers.libraries.psu.edu/Repository/getimage.dll?path=DCG/1987/10/26/10/Img/Pc0100400.jpg" target="_blank">PSOC CABIN</a>，具体是啥我也不知)被重新发现，然后寻迹而去，竟然发现这个地点的地图保存在学校图书馆的电子版学生报刊中的。
 
 继而发现原来Penn State图书馆保存了the Daily Collegian（即Penn State学生报）自1887年创刊以来的所有报纸，虽然一百多年间这份学生独立创办的报纸数易其名:
-<ul>
-	<li><em>Free Lance </em>(monthly) - April 1887 to  April 1904</li>
+<ul><li><em>Free Lance </em>(monthly) - April 1887 to  April 1904</li>
 	<li><em>State Collegian </em>(weekly) - September 28, 1904 to June 10, 1911</li>
 	<li><em>Penn State Collegian </em>(weekly) - September 28, 1911 to August 2, 1940   (also had <em>Summer Collegian </em>issues for some dates during this time period)</li>
 	<li><em>The Daily Collegian </em> (daily) - September 5, 1940 to present</li>

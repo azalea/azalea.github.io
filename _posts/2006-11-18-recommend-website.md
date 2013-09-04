@@ -10,7 +10,7 @@ meta:
   views: '670'
   _wp_old_slug: '%e6%8e%a8%e8%8d%90%e4%b8%aa%e7%bd%91%e7%ab%99-httphomepagefudaneducnjason'
 ---
-是pala的主页啦</p>
+是pala的主页啦
 
 大家不要赏脸观光啦
 看来不会更新啦

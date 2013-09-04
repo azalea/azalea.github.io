@@ -13,7 +13,7 @@ meta:
   _sg_subscribe-to-comments: baiduask@126.com
 ---
 
-<p class="sysBr500 text" align="left">看狗狗同学的blog看到的，感觉挺好玩的，转过来了<font color="#0000ff" face="宋体">看小关同学的blog看到的，感觉挺好玩的，转过来了</font>
+看狗狗同学的blog看到的，感觉挺好玩的，转过来了<font color="#0000ff" face="宋体">看小关同学的blog看到的，感觉挺好玩的，转过来了</font>
 
 <font face="宋体">=====================================================================</font>
 

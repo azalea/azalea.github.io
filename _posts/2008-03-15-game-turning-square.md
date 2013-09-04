@@ -15,6 +15,5 @@ meta:
 ---
 <a href="http://img2.pconline.com.cn/pconline/0708/28/1091170_28turningsqure.swf" target="_blank">http://img2.pconline.com.cn/pconline/0708/28/1091170_28turningsqure.swf</a>
 
-<a href="http://img2.pconline.com.cn/pconline/0708/28/1091170_28turningsqure.swf" target="_blank"><img src="http://azaleasays.com/wp-content/uploads/2010/07/turningsqure.jpg" align="top" height="239" width="506" /></a>
 
-用方向键控制石块，使它掉进洞里则过关。看似简单，不过有时很tricky。此外还有一些开关和橙色的不稳固的地板，具体大家自己看说明。Enjoy~
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/turningsqure.jpg)

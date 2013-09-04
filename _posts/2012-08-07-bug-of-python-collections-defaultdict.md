@@ -11,7 +11,7 @@ published: true
 meta:
   _edit_last: '1'
 ---
-<script src="https://gist.github.com/3290375.js?file=buggy_defaultdict.py"></script>
+<script src="https://gist.github.com/3290375.js?file=buggy_defaultdict.py"/>
 
 Running the script gives the error:
 <blockquote>Traceback (most recent call last):
@@ -26,4 +26,4 @@ But "for v in G" and "for v in G.keys()" should be the same. Any explanations?
 
 <a href="http://stackoverflow.com/questions/8762819/runtimeerror-dictionary-changed-size-during-iteration-during-iteration-with-i">This thread in SO </a>talks about the same error related to the use of <a href="http://docs.python.org/library/collections.html#collections.defaultdict">collections.defaultdict()</a>.
 
-&nbsp;
+ 

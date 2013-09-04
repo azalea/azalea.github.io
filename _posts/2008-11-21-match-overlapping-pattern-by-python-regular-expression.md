@@ -37,7 +37,7 @@ meta:
 
 使用<strong><code>(?=...)</code></strong> 以下抄自<a href="http://www.python.org/doc/2.5.2/lib/re-syntax.html" target="_blank">这里</a>
 
-<dl> <dd>Matches if <tt class="regexp">...</tt> matches next, but doesn't consume any of the string.  This is called a lookahead assertion.  For example, <tt class="regexp">Isaac (?=Asimov)</tt> will match <code>'Isaac '</code> only if it's followed by <code>'Asimov'</code>. </dd> </dl>大意：仅当...匹配后面的字段时，才认为前面的字段是匹配，而与...匹配的字段不会被“消费”，仍然会被查找。
+<dl><dd>Matches if <tt class="regexp">...</tt> matches next, but doesn't consume any of the string.  This is called a lookahead assertion.  For example, <tt class="regexp">Isaac (?=Asimov)</tt> will match <code>'Isaac '</code> only if it's followed by <code>'Asimov'</code>. </dd> </dl>大意：仅当...匹配后面的字段时，才认为前面的字段是匹配，而与...匹配的字段不会被“消费”，仍然会被查找。
 
 继续上面的例子：
 

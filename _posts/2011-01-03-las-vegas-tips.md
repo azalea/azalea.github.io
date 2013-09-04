@@ -20,7 +20,7 @@ meta:
   original_post_id: '1786'
   _wp_old_slug: '1786'
 ---
-&nbsp;
+ 
 
 去年圣诞期间在拉斯维加斯玩了7天，觉得还是有点发言权的，于是写个azalea版攻略，关键词：穷玩（既要省钱又要玩好）。照片视频请移步<a href="http://ztpala.com/2011/01/01/las-vegas-happy-hour/" target="_blank">pala的博文</a>。
 

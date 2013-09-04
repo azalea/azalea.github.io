@@ -40,12 +40,8 @@ abline(h=0.05,col='blue')
 text(1000,c(0.6,0.7),labels=c('raw p-value','adjusted p-value'),col=c('black','red'))
 text(1000,0.08,labels='p=0.05',col='blue')</font>
 
-<a href="http://azaleasays.com/wp-content/uploads/2010/07/pvalue.jpg"><img src="http://azaleasays.com/wp-content/uploads/2010/07/pvalue.jpg" height="510" width="542" /></a>
 
-可见调整后只有一个基因的p value小于0.05，而未调整的有170个基因的p value小于0.05，可以说虽然此方法降低了错误发现率，但是也导致了很高的False negative.
-
-此外可以考虑使用multtest package的mt.rawp2adjp()函数，这个函数可以通过"Bonferroni", "Holm", "Hochberg", "SidakSS", "SidakSD", "BH", "BY"等方法调整p value，不过对我们的数据来说都过于严格了。
-
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/pvalue.jpg)
 <font color="#3366ff">procs&lt;-c("Bonferroni","Holm","Hochberg","SidakSS","SidakSD","BH","BY")
 adjps&lt;-mt.rawp2adjp(rawp,procs)
 plot(sort(adjps$adjp[,1]),ylab='p value')
@@ -55,18 +51,18 @@ points(sort(adjps$adjp[,i]),col=i)
 abline(h=0.05,col='blue')
 text(1000,0.08,labels='p=0.05',col='blue')</font>
 
-<a href="http://azaleasays.files.wordpress.com/2008/05/adjps.jpg"><img src="http://azaleasays.files.wordpress.com/2008/05/adjps.jpg" height="500" width="536" /></a>
 
-因此可以考虑不这么严格的SAM (<em>Significance Analysis of Microarrays</em>)分析。具体懒得写了，有兴趣的请看参考资料。。
+![](http://azaleasays.files.wordpress.com/2008/05/adjps.jpg)
+<em>Significance Analysis of Microarrays</em>)分析。具体懒得写了，有兴趣的请看参考资料。。
 
 参考资料：
-<p style="margin:0 0 .0001pt;">课堂讲义：<a href="http://www.stat.psu.edu/%7Echiaro/BioinfoII_08/Diff_Expr.pdf"><span class="GramE">Differential expression</span></a><span class="GramE">.</span><strong> Identifying differentially expressed genes -- notions on multiple testing and p-value adjustments</strong>.</p>
-<p style="margin:0 0 .0001pt;">&nbsp;</p>
-<p style="margin:0 0 .0001pt;"><span class="SpellE">Dudoit</span>, S., Yang, Y.H., Speed, T.P., and Callow, M.J. (2002), <a href="http://www.stat.berkeley.edu/users/sandrine/Docs/Papers/sinica.final.pdf">Statistical methods for identifying differentially expressed genes in replicated <span class="SpellE">cDNA</span> microarray experiments</a>,  <span class="SpellE"><em>Statistica</em></span><em> <span class="SpellE">Sinica</span></em> 12(1):111-139.</p>
-<p style="margin:0 0 .0001pt;">&nbsp;</p>
-<p style="margin:0 0 .0001pt;"><span class="SpellE">Dudoit</span> S., Shaffer J.P., <span class="SpellE">Boldrick</span> J.C. (2003). <a href="http://www.stat.berkeley.edu/%7Esandrine/Docs/Papers/StatSci2003Final.pdf">Multiple hypothesis testing in microarray experiments</a>, <em>Statistical Science</em>, 18(1): 71-103.</p>
-<p style="margin:0 0 .0001pt;">&nbsp;</p>
-<p style="margin:0 0 .0001pt;"><span class="GramE"><span class="SpellE">Efron</span></span> B., <span class="SpellE">Tibshirani</span>, R., Storey J.D., and <span class="SpellE">Tusher</span> V. (2001), <a href="http://links.jstor.org/sici?sici=0162-1459%28200112%2996%3A456%3C1151%3AEBAOAM%3E2.0.CO%3B2-W">Empirical <span class="SpellE">Bayes</span> analysis of a microarray experiment</a>, <em>Journal of the American Statistical Association</em> 96:1151-1160.</p>
+课堂讲义：<a href="http://www.stat.psu.edu/%7Echiaro/BioinfoII_08/Diff_Expr.pdf"><span class="GramE">Differential expression</span></a><span class="GramE">.</span><strong> Identifying differentially expressed genes -- notions on multiple testing and p-value adjustments</strong>.
+ 
+<span class="SpellE">Dudoit</span>, S., Yang, Y.H., Speed, T.P., and Callow, M.J. (2002), <a href="http://www.stat.berkeley.edu/users/sandrine/Docs/Papers/sinica.final.pdf">Statistical methods for identifying differentially expressed genes in replicated <span class="SpellE">cDNA</span> microarray experiments</a>,  <span class="SpellE"><em>Statistica</em></span><em> <span class="SpellE">Sinica</span></em> 12(1):111-139.
+ 
+<span class="SpellE">Dudoit</span> S., Shaffer J.P., <span class="SpellE">Boldrick</span> J.C. (2003). <a href="http://www.stat.berkeley.edu/%7Esandrine/Docs/Papers/StatSci2003Final.pdf">Multiple hypothesis testing in microarray experiments</a>, <em>Statistical Science</em>, 18(1): 71-103.
+ 
+<span class="GramE"><span class="SpellE">Efron</span></span> B., <span class="SpellE">Tibshirani</span>, R., Storey J.D., and <span class="SpellE">Tusher</span> V. (2001), <a href="http://links.jstor.org/sici?sici=0162-1459%28200112%2996%3A456%3C1151%3AEBAOAM%3E2.0.CO%3B2-W">Empirical <span class="SpellE">Bayes</span> analysis of a microarray experiment</a>, <em>Journal of the American Statistical Association</em> 96:1151-1160.
 SAM (<em>Significance Analysis of Microarrays</em>)相关：<span class="SpellE">Tusher</span>, V.G., <span class="SpellE">Tibshirani</span>, R., and Chu, G. (2001) <a href="http://www-stat.stanford.edu/%7Etibs/SAM/pnassam.pdf">Significance analysis of microarrays applied to the ionizing radiation response</a>, <em>PNAS</em> 98:5116-5121.
 
 <a href="http://www-stat.stanford.edu/%7Etibs/SAM/">SAM 网站</a>

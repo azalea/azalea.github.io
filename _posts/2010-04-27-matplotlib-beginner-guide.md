@@ -40,13 +40,9 @@ In [1]:</pre>
 
 此时应该弹出图形窗口
 
-<a href="http://azaleasays.com/wp-content/uploads/2010/07/f1.png"><img class="aligncenter size-medium wp-image-1356" title="f1" src="http://azaleasays.com/wp-content/uploads/2010/07/f1.png?w=500" alt="" width="500" height="376" /></a>
 
-就是这么简单！[1,2,4,8,16]是一个python list，plot()函数如果只收到一个参数，就默认为是y值，而x值默认是从0到n。
-
-如果提供2个参数给plot()函数：
-
-In [2]: <span style="color:#0000ff;">x = range(-4,5)</span>
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/f1.png)
+<span style="color:#0000ff;">x = range(-4,5)</span>
 
 In [3]: <span style="color:#0000ff;">y = [elem**2 for elem in x]</span>
 
@@ -70,8 +66,9 @@ In [2]: <span style="color:#0000ff;">y = [elem**2 for elem in x]</span>
 
 In [3]: <span style="color:#0000ff;">plot(x,y,'ro--')</span>
 
-<a href="http://azaleasays.com/wp-content/uploads/2010/07/f2.png"><img class="aligncenter size-medium wp-image-1358" title="f2" src="http://azaleasays.com/wp-content/uploads/2010/07/f2.png?w=500" alt="" width="500" height="376" /></a>
-关于plot()函数的详细用法<a href="http://matplotlib.sourceforge.net/api/axes_api.html#matplotlib.axes.Axes.plot" target="_blank">参考这里</a>
+
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/f2.png)
+<a href="http://matplotlib.sourceforge.net/api/axes_api.html#matplotlib.axes.Axes.plot" target="_blank">参考这里</a>
 
 此外，你可以一句话画出<a href="http://zh.wikipedia.org/zh/%E7%9B%B4%E6%96%B9%E5%9B%BE" target="_blank">直方图</a> (<a href="http://en.wikipedia.org/wiki/Histogram" target="_blank">histogram</a>)：
 
@@ -209,8 +206,10 @@ In [9]: <span style="color:#0000ff;">bar(range(len(Means)), Means, color='r', ye
 
 经过这一番折腾，现在的图形应该长成这样：
 
-<a href="http://azaleasays.files.wordpress.com/2010/04/f3.png"><img class="aligncenter size-medium wp-image-1369" title="f3" src="http://azaleasays.files.wordpress.com/2010/04/f3.png?w=500" alt="" width="500" height="376" /></a>
 
-最后献上一张老图，<a href="http://azaleasays.files.wordpress.com/2010/04/f3.png2008/06/18/fomula-of-love/" target="_blank">代码在此</a>：
-<p style="text-align:center;"><a href="http://azaleasays.files.wordpress.com/2010/04/f3.pngwp-content/uploads/2008/06/love.png"><img class="aligncenter" title="love.png" src="http://azaleasays.files.wordpress.com/2010/04/f3.pngwp-content/uploads/2008/06/love.png" alt="" width="447" height="336" /></a></p>
+![](http://azaleasays.files.wordpress.com/2010/04/f3.png)
+<a href="http://azaleasays.files.wordpress.com/2010/04/f3.png2008/06/18/fomula-of-love/" target="_blank">代码在此</a>：
+
+![](http://azaleasays.files.wordpress.com/2010/04/f3.pngwp-content/uploads/2008/06/love.png)
+
 以上只涉及了matplotlib的万分之一，希望看到这里还有兴趣的筒子们自行去学习<a href="http://matplotlib.sourceforge.net/gallery.html" target="_blank">示例</a>和<a href="http://matplotlib.sourceforge.net/contents.html" target="_blank">文档</a>，画图愉快～

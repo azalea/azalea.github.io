@@ -363,4 +363,4 @@ rm -f $temp_file
 echo “Finished”
 exit 0
 这样,我们就完成了我们这个简单但是实用的一个程序了~~
-<p id="TBPingURL">Trackback: http://tb.blog.csdn.net/TrackBack.aspx?PostId=665998</p>
+Trackback: http://tb.blog.csdn.net/TrackBack.aspx?PostId=665998

@@ -16,11 +16,11 @@ meta:
 ---
 <a href="http://blog.csdn.net/mylxiaoyi/archive/2006/04/14/663660.aspx"> Shell编程(四)---Shell内建命令简介</a>
 
-<p class="postText">		命令
+		命令
 我 们从一个Shell脚本的内部执行两种类型的命令。也就是通常（normal）的命令，这样的命令我们也可以在命令行的方式下来运行，称为处部命令，另一 种就是我们前面所说的内建（built-in）命令，称之为内部命令。内建命令是在Shell的内部来实现的而不能为外部程序所调用。然而大多数的内部命 令也会作为相对独立的单一程序来提供，而这也是POSIX 标准所要求的一部分。通常来说内部命令与外部命令并没有太大的区别，除非是这个内部运行得更为高效。
 然而在这里我们只会讨论一些主要的命令，包括我们编写一下脚本时所需要用到的外部与内部命令。作为一个Linux用户我们会知道一些其他的可以在命令行来运行的命令。我们应该记住除了我们在这里所提到一些内建命令以后我们还可以在脚本中使用我们所知道的一些其他的命令。
 
-<p class="postText"><!--more-->
+<!--more-->
 break
 当 我们要从一个for，while或是until循环中退出时我们可以使用这个命令。我们也可以传递给break另外一个数字参数，而这个数字参数正是我们 要退出的循环次数。因为这样会使得我们的脚本变得难于阅读，所以我们并不推荐大家来使用这样的方式。在默认的情况下，break只会退出单一的层次。如下 面的例子：
 #!/bin/sh
@@ -294,4 +294,4 @@ foo=”Hello World”
 echo $foo
 unset foo
 echo $foo
-<p id="TBPingURL">Trackback: http://tb.blog.csdn.net/TrackBack.aspx?PostId=663660</p>
+Trackback: http://tb.blog.csdn.net/TrackBack.aspx?PostId=663660

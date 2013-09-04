@@ -15,12 +15,12 @@ meta:
 ---
 <a href="http://blog.csdn.net/mylxiaoyi/archive/2006/04/15/664268.aspx"> Shell编程(六)---Here Documents与Dialog</a>
 
-<p class="postText">		Here Documents
+		Here Documents
 从一个Shell脚本传递给一个命令的一个比较特殊的方法就是使用here document.这个文档可以使得执行的命令就像是由文件或是键盘读入的,而事实上,这是由这个脚本读入的.
 一 个here document是以&lt;&lt;开头的,后面所跟的是要在文档的结尾处重复出现的字符序列.&lt;&lt;是Shell的重定向标签,在这样的情 况下,他会强制将命令输入给here document.这个特殊的序列的作用就像是一个标记,来告诉Shell here document要在哪里结束.这个标记充列不可以出现在要传递给命令的行上,所以最好是将他们标记为最不常用的或是难以忘记的内容.
 如下面的这个例子:
 
-<p class="postText"><!--more-->
+<!--more-->
 #!/bin/sh
 cat &lt;&lt;!FUNKY!
 hello
@@ -145,4 +145,4 @@ exit 0
 现在如果我们只需要使用Linux文本界面,从一个Shell脚本编写简单的GUI程序,我们就可以使用这样的方法.
 组合
 现在我们已经看到将Shell做为一门编程语言所具有的主要特征,现在我们可以将我们已经学到的这些内容组合在一起来编写一个简单的程序.
-<p id="TBPingURL">Trackback: http://tb.blog.csdn.net/TrackBack.aspx?PostId=664268</p>
+Trackback: http://tb.blog.csdn.net/TrackBack.aspx?PostId=664268

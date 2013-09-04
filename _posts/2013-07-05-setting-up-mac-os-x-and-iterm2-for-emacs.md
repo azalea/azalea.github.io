@@ -22,7 +22,7 @@ Emacs commands use the `control` key (referred to as `C-`) and the `META` key (r
 
 Emacs interprets `esc` as `META` (`M-`), but `esc` is so inconveniently located. Thus we remap the left `option` key as `esc`.
 
-iTerm2 -> Preferences -> Profiles
+iTerm2 -&gt; Preferences -&gt; Profiles
 
 ![iTerm2 Preferences Profiles](https://dl.dropboxusercontent.com/u/308058/blogimages/2013/07/iterm2_preferences_profiles.png)
 
@@ -31,11 +31,11 @@ iTerm2 -> Preferences -> Profiles
 
 Optional, but it is more convenient to place `META` right next to the `space bar`.
 
-System Preferences -> Accessibility
+System Preferences -&gt; Accessibility
 
 ![System Preferences Accessibility](https://dl.dropboxusercontent.com/u/308058/blogimages/2013/07/system_preferences_accessibility.png)
 
-iTerm2 -> Preferences -> Keys
+iTerm2 -&gt; Preferences -&gt; Keys
 
 ![iTerm2 Preferences Keys](https://dl.dropboxusercontent.com/u/308058/blogimages/2013/07/iterm2_preferences_keys.png)
 
@@ -44,7 +44,7 @@ iTerm2 -> Preferences -> Keys
 
 `caps lock` is rarely used, so we put it into better use as the `control` key. Unfortunately, iTerm2 does not support remapping the `caps lock` key, [yet](https://groups.google.com/forum/#!topic/iterm2-discuss/GrqN0Hew5gY). So we have to change the mapping globally for the entire OS.
 
-System Preferences -> Keyboard
+System Preferences -&gt; Keyboard
 
 ![System Preferences Keyboard](https://dl.dropboxusercontent.com/u/308058/blogimages/2013/07/system_preferences_keyboard.png)
 

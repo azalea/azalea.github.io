@@ -48,4 +48,5 @@ lines(density(norm_log_btw_array[,i]),type='l',col='green')
 }
 text(1.5,c(0.8,1.0),labels=c('BEFORE normalization','AFTER normalization'),col=c('black','green'))</font>
 
-<a href="http://azaleasays.com/wp-content/uploads/2010/07/norm_btw.jpg"><img src="http://azaleasays.com/wp-content/uploads/2010/07/norm_btw.jpg" height="494" width="530" /></a>
+
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/norm_btw.jpg)

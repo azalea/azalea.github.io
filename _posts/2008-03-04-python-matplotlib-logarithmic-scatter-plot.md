@@ -48,4 +48,6 @@ ylabel(r"Prediction", fontsize = 12)
 show()</pre>
 <pre>[/python]</pre>
 <pre>结果如图：</pre>
-<pre><img src="http://azaleasays.com/wp-content/uploads/2010/07/logarithmic_scatter.png" alt="logarithmic_scatter" height="426" width="566" /></pre>
+<pre>
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/logarithmic_scatter.png)
+</pre>

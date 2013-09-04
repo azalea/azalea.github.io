@@ -1,4 +1,5 @@
-yout: post
+---
+layout: post
 title: Mac OS X 下 Wine QQ游戏
 tags:
 - fun

@@ -26,22 +26,6 @@ meta:
 
 原理很简单，就是画出方程 17x^2-16|x|y+17y^2=225  的图像：
 
-<a href="http://azaleasays.com/wp-content/uploads/2010/07/love.png"><img src="http://azaleasays.com/wp-content/uploads/2010/07/love.png" alt="" width="550" height="414" /></a>
 
-以下是代码（基本都是从风雷的技术天地那里抄来的，不过窃以为我的配色比较正常@@）
-
-from pylab import *
-
-def func1(x):
-return ( 16*fabs(x) + sqrt( 15300 - (x**2) * 900 ) ) / 34
-def func2(x):
-return ( 16*fabs(x) - sqrt( 15300 - (x**2) * 900 ) )/ 34
-
-x = arange( -5.0,5.0,0.001 )
-plot(x,func1(x),c='r')
-plot(x,func2(x),c='r')
-show()
-
-以上代码需要matplotlib，Ubuntu可以sudo apt-get install python-matplotlib
-
-另外<a href="http://www.matrix67.com/blog/archives/223">这里</a>还有一个更高级的方程，不过比较丑陋。
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/love.png)
+<a href="http://www.matrix67.com/blog/archives/223">这里</a>还有一个更高级的方程，不过比较丑陋。

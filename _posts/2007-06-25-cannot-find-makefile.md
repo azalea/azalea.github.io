@@ -13,7 +13,7 @@ meta:
 #如果是需要编译的环境，推荐安装"build essential"包
 #sudo apt-get install "build-essential"  --azalea注转载自<a href="http://forum.ubuntu.org.cn/post-338831.html&amp;sid=2085a68b90a7dc927017b62c7ab8ccee" target="_blank">这里</a>
 
-<span class="postdetails"></span><span class="postbody">在用./configure   ,make     , makeinstall        ,方法安装软件是，经常会发生发生各种错误，
+<span class="postdetails"/><span class="postbody">在用./configure   ,make     , makeinstall        ,方法安装软件是，经常会发生发生各种错误，
 而导致无法声称 makefile
 现在我把我安装过程中遇到的问题以及解决办法写下来，希望对大家有点帮助
 以我安装  pidgin-2.0.0为例</span>

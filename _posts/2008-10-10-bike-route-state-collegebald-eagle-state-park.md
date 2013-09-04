@@ -17,4 +17,4 @@ State CollegeBellefonte
 
 BellefonteBald Eagle State Park
 
-<br /><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=105873616766538343239.000458f1c14720f0ae61b&amp;ll=40.965643,-77.715912&amp;spn=0.11329,0.152436&amp;source=embed" style="color:#0000FF;text-align:left;">View Larger Map</a>
+<br/><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=105873616766538343239.000458f1c14720f0ae61b&amp;ll=40.965643,-77.715912&amp;spn=0.11329,0.152436&amp;source=embed" style="color:#0000FF;text-align:left;">View Larger Map</a>

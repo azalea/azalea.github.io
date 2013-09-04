@@ -13,12 +13,12 @@ meta:
   views: '644'
   _wp_old_slug: best-joke-of-the-dayii
 ---
-&lt;!--[CDATA[</p>
-<span></span></p>
-<p class="bz_msg"><strong>Yunge: </strong><span>你是在家里还是到实验室</span></p>
-<span></span>
-<p class="bz_msg"><strong>me: </strong><span>at office</span></p>
-<p class="bz_msg_cont">cannot type Chinese</p>
-<span></span>
-<p class="bz_msg"><strong>Yunge: </strong><span>bunengda</span></p>
-<p class="bz_msg_cont">nanengkanzhongwenma</p>
+&lt;!--[CDATA[
+<span/>
+<strong>Yunge: </strong><span>你是在家里还是到实验室</span>
+<span/>
+<strong>me: </strong><span>at office</span>
+cannot type Chinese
+<span/>
+<strong>Yunge: </strong><span>bunengda</span>
+nanengkanzhongwenma

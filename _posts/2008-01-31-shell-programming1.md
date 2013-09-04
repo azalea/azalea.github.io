@@ -114,4 +114,4 @@ $ /bin/bash first
 $ chmod +x first
 现在我们就可以用下面的命令来运行了:
 $ ./first
-<p id="TBPingURL">Trackback: http://tb.blog.csdn.net/TrackBack.aspx?PostId=661085</p>
+Trackback: http://tb.blog.csdn.net/TrackBack.aspx?PostId=661085

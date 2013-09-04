@@ -15,7 +15,7 @@ meta:
 ---
 <a href="http://blog.csdn.net/mylxiaoyi/archive/2006/04/13/661988.aspx"> Shell编程(三)---控制结构及函数</a>
 
-<p class="postText">		控制结构
+		控制结构
 Shell有一结构控制集合,我们再一次说明他们与其他的程序语言非常相像.
 If
 if语句是相当简单的:他测试一个命令的结果,并且有选择的执行一组语句:
@@ -26,7 +26,7 @@ else
 statements
 fi
 
-<p class="postText"><!--more-->
+<!--more-->
 使用if命令:
 下面的这个例子中显示if的普通用法,他会询问一个问题并依据这个问题来进行回答:
 #!/bin/sh
@@ -366,4 +366,4 @@ $
 工作原理：
 当这个脚本执行时，定义了yes_or_no函数但是却并没有运行这个函数。在if语句中，这个脚本执行了了我们所定义的这个函数，并且在将$1用传递给 原脚本的第一个参数Rick进行替换，在这以后将句子的其他部分作为参数传递给函数。这个函数使用这些参数并将他们存放在位置参数$1,$2等当中，并向 调用者提供一个返回值。依据这个返回值，if结构语句可以执行相应的操作。
 正如我们所看到的，Shell有一个丰富的控制和条件结构语句。我们需要学习一些Shell中内建的命令。这样我们就可以解决一些不会被编译器所看到的真正的程序问题。
-<p id="TBPingURL">Trackback: http://tb.blog.csdn.net/TrackBack.aspx?PostId=661988</p>
+Trackback: http://tb.blog.csdn.net/TrackBack.aspx?PostId=661988

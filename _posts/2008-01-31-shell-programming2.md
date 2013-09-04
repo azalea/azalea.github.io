@@ -17,12 +17,12 @@ meta:
 
 revised by azalea
 
-<p class="postText">		Shell语法
+		Shell语法
 <strong> 变量:</strong>
 在Shell 中,我们在使用变量之前并不需要进行声明.相反我们可以在需要的时候进行简单的使用就可以了.在默认的情况下,所有的变量都是作为字符串进行存储的,虽然 有时我们会用数字为其赋值.Shell以及其他的一些实用的转换程序会将数字字符串转换成相应的值为进行操作.在Linux系统中是要区分大小写的,所以在 Shell看来变量foo与Foo是不同的.
 在Shell中访问变量的值,要在变量前加上一个$.为变量赋值时,可以只使用变量的名字,Shell会在需要的时候进行动态创建.检测变量内容一个简单的办法就是在终端进行输出,这时要在变量前加上一个$.
 
-<p class="postText"><!--more-->
+<!--more-->
 在命令行中我们可以用下面的方法来设置和检测变量的值:
 $ salutation=Hello
 $ echo $salutation
@@ -65,7 +65,7 @@ $myvar now equals Hello World
 工作原理
 我们创建了变理myvar,并赋值为Hi there.变量的内容由命令echo显示出来,从而可以看出$字符扩展对变量内容的影响.从这输出我们可以看出双引号并不会影响变量的替换,而单引号和反斜线却会有这样的影响.我们同时使用一个read命令来从用户得到输入.
 
-<p class="postText"><strong> 环境变量</strong>
+<strong> 环境变量</strong>
 当启动一个Shell脚本时,一些变量会由环境中的值进行初始化.在脚本中这些变量通常为大写字母,从而与用户定义的变量进行区分,而用户定义的变量常用小写字母来表示.创建的变量依赖于我们个人的配置.其中的许多列在手册页中,但是基本的一些列在下面的表中:
 $HOME    当前用户的主目录
 $PATH    用来进行命令查找的由冒号分隔的目录列表
@@ -120,7 +120,7 @@ The script is now complete
 工作原理:
 这个脚本创建了一个名为salutation的变量并显示他的内空,然后显示了各种参数变量,而环境变量$HOME已经存在并且已经有适当的值.
 
-<p class="postText"><strong>函数:</strong>
+<strong>函数:</strong>
 所有程序语言的基本原则是测试条件并在这些测试的基础上进行各种不同的操作.在我们讨论这个话题之前,我们先来看一下在Shell脚本中我们会用到的函数构造以及我们要使用的控制结构.
 一个Shell脚本可以测试由命令行调用的任何命令的返回代码,包括我们自己书写的脚本.这就是我们在每一个Shell脚本最后包含exit代码的重要原因.
 test或[命令:
@@ -180,4 +180,4 @@ else
 echo “/bin/bash is NOT a directory”
 fi
 在测试为真以前,所有的文件测试条件要法度文件存在.这个列表包含了test命令常用的选项,所以我们可查看手册页得到一个完全的信息.如果我们正在使用bash,而其中内嵌了test,我们可以用命令help test得到详细的信息.
-<p id="TBPingURL">Trackback: http://tb.blog.csdn.net/TrackBack.aspx?PostId=661422</p>
+Trackback: http://tb.blog.csdn.net/TrackBack.aspx?PostId=661422

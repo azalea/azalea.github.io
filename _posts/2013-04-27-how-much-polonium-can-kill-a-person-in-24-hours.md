@@ -22,14 +22,12 @@ Person of Interest <a href="http://movie.douban.com/subject/10549251/episode/20/
 
 <a href="http://en.wikipedia.org/wiki/Becquerel#Calculation_of_radioactivity">放射活性和质量的关系</a>：
 
-放射活性 (in Bq) = <img class="alignnone" alt="" src="http://upload.wikimedia.org/math/6/4/0/6403f94bed6502d6b02e59d2add1dc0d.png" width="98" height="49" />
-
-综上：所需钋的质量是 93.6 ng，或者说不到 1 克的千万分之一。
-
-还要考虑的是，以上计算的致死量是几十天内医治无效而死的剂量。剧中一天之内就死，需要更高的剂量。且剧中出现的昏迷症状也表示是大剂量中毒。<a href="http://www.bt.cdc.gov/radiation/arsphysicianfactsheet.asp#table1">此表</a>中显示，如果出现昏迷症状，通常会3天之内死亡，而此时的剂量是2周内死亡的5倍以上。因此，我们再多下毒100倍，基本可以保证1天就死，于是需要约 1 微克。
+放射活性 (in Bq) = 
+![](http://upload.wikimedia.org/math/6/4/0/6403f94bed6502d6b02e59d2add1dc0d.png)
+<a href="http://www.bt.cdc.gov/radiation/arsphysicianfactsheet.asp#table1">此表</a>中显示，如果出现昏迷症状，通常会3天之内死亡，而此时的剂量是2周内死亡的5倍以上。因此，我们再多下毒100倍，基本可以保证1天就死，于是需要约 1 微克。
 
 这重量虽然微乎其微，但是因为钋极其稀有，如果从铀矿提炼 1 微克钋，需要10千克铀矿。当然现代方法是用中子轰击铋原子，但是每年全球钋<a href="http://en.wikipedia.org/wiki/Polonium#Neutron_capture">产量仅为100克</a>，用来杀人着实浪费。
 
 其实下毒有各种方法，比如氰化物，<a href="http://en.wikipedia.org/wiki/Cyanide#Toxicity">口服 200mg</a> 就可以在数分钟内致死。也许编剧是想科普一下毒物谱第一位的大毒物钋吧。
 
-&nbsp;
+ 

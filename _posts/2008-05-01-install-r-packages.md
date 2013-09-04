@@ -16,7 +16,7 @@ meta:
 
 在R的控制台,输入
 
-<font face="·s²Ó©úÅé">   <font color="#3366ff" face="Courier New">install.packages("stepNorm",contriburl="http://www.your.url"</font></font><font color="#3366ff"><span class="st0"></span>, <span class="re5">dependencies</span> = <span class="re1">T<span class="search_hit">R</span>UE</span><span class="br0"></span></font><font face="·s²Ó©úÅé"><font color="#3366ff" face="Courier New">) </font></font>
+<font face="·s²Ó©úÅé">   <font color="#3366ff" face="Courier New">install.packages("stepNorm",contriburl="http://www.your.url"</font></font><font color="#3366ff"><span class="st0"/>, <span class="re5">dependencies</span> = <span class="re1">T<span class="search_hit">R</span>UE</span><span class="br0"/></font><font face="·s²Ó©úÅé"><font color="#3366ff" face="Courier New">) </font></font>
 
 <font face="·s²Ó©úÅé"><font face="Arial">若要指定安装目录 (e.g. "mydir")，则输入</font></font>
 

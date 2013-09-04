@@ -15,8 +15,8 @@ meta:
   ratings_score: '0'
   ratings_average: '0'
 ---
-<a href="http://dl.dropbox.com/u/308058/blog/2010/precision.p" target="_blank"><img class="aligncenter size-medium wp-image-1376" title="expression_precision_scatterplot" src="http://azaleasays.com/wp-content/uploads/2010/07/expression_precision_scatterplot.png?w=500" alt="" width="500" height="285" /></a>
 
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/expression_precision_scatterplot.png)
 <a href="http://dl.dropbox.com/u/308058/blog/2010/precision.p" target="_blank">数据文件</a>
 
 <pre><span style="color:#000000;">from</span> <span style="color:#000000;">matplotlib</span> <span style="color:#000080;font-weight:bold;">import</span> <span style="color:#000000;">rc</span>

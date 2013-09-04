@@ -35,4 +35,5 @@ King说 大家拿到卷子 都在翻index 真有意思  一句话提醒了我 �
 
 最后附上靓照一张。。
 
-<a href="http://tkfiles.storage.msn.com/x1pPHu2K6HCG6qDpzLmP3C2v_B4xBrIoTXVGQa5xXXqHu7u8T8ZchavA92vsOQK6sIcJInGjCHTeolhbf1vDBNnkZOvr9f6KG3CMQXtWttA_98YPphgFTu0UQ" target="_blank"><img src="http://tkfiles.storage.msn.com/x1pPHu2K6HCG6qDpzLmP3C2v_B4xBrIoTXVA5h5rX-g23Kga9PI5PVqaVQ5dq66jeNGv_hVufTKenx72L6jooYuFYvsXoPUgdF1r8FA5wyqwYo" border="0" /></a>
+
+![](http://tkfiles.storage.msn.com/x1pPHu2K6HCG6qDpzLmP3C2v_B4xBrIoTXVA5h5rX-g23Kga9PI5PVqaVQ5dq66jeNGv_hVufTKenx72L6jooYuFYvsXoPUgdF1r8FA5wyqwYo)

@@ -63,8 +63,7 @@ print 'Hello World!'
 <strong>设置</strong>
 
 在WordPress后台的Options里可以设置
-<ol type="i">
-	<li><strong>Show Plain Text Code Option:-</strong> 用户是否可以选择普通文本方式看代码</li>
+<ol type="i"><li><strong>Show Plain Text Code Option:-</strong> 用户是否可以选择普通文本方式看代码</li>
 	<li><strong>Show Plain Text Code In:-</strong> 如何显示普通文本方式的代码</li>
 	<li><strong>Show Language Name:-</strong> 是否显示语言名称</li>
 	<li><strong>Hilite Code in Comments:-</strong> 评论里的代码是否高亮显示</li>

@@ -14,6 +14,5 @@ meta:
   _wp_old_slug: '%e9%9b%aa%e5%90%8eatherton'
   _searchme: '1'
 ---
-<img src="http://azaleasays.com/wp-content/uploads/2010/07/photo.jpg" alt="Atherton" height="363" width="486" />
 
-透过IST building的落地窗 看到所谓车辙
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/photo.jpg)

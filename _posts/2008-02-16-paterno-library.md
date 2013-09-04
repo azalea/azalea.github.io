@@ -14,6 +14,5 @@ meta:
   _wp_old_slug: paterno-library%e7%aa%97%e5%a4%96
   _searchme: '1'
 ---
-<img src="http://azaleasays.com/wp-content/uploads/2010/07/photo1.jpg" alt="librarywindow" height="377" width="503" />
 
-雪地 阳光 树梢 天际
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/photo1.jpg)

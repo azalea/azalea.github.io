@@ -30,8 +30,5 @@ meta:
 
 中午去了Kimchi吃饭，到我的陋室喝了会茶，就向Penn's Cave进发了。由于我们去过一次，轻车熟路，又听了一遍讲解，比上次的好多了，然后大家在gift shop里呆了很久，发现一堆搞笑的木牌：
 
-<a href="http://azaleasays.com/wp-content/uploads/2010/07/img_0101.jpg" title="PennsCaveGiftShop"><img src="http://azaleasays.com/wp-content/uploads/2010/07/img_0101.jpg" alt="PennsCaveGiftShop" height="417" width="553" /></a>
 
-然后去了Boalsburg,发现这个小村还是很多景点的，比如宾州军事博物馆、Memorial Day的3个女人雕塑、还有一个和哥伦布有关的大宅子。
-
-晚上去了Chili's Grill and Bar，汤很好喝，送我老爸他们回旅馆后，一天的导游结束，累得半死。
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/img_0101.jpg)

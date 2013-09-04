@@ -13,8 +13,7 @@ meta:
   views: '673'
 ---
 <a href="http://wiki.python.org/moin/IntegratingPythonWithOtherLanguages#head-7f79d0dd59076e541e10aed20a3a59056ced3d14" target="_blank">Integrating Python With Other Languages</a>这篇文章来自<a href="http://wiki.python.org/moin/" target="_blank">python wiki</a>, 介绍了在python中调用以下语言的方法:
-<ol>
-	<li><a href="http://wiki.python.org/moin/IntegratingPythonWithOtherLanguages#head-0442059f1d1c7f488e96b473583fe395fd295e19">C/C++</a></li>
+<ol><li><a href="http://wiki.python.org/moin/IntegratingPythonWithOtherLanguages#head-0442059f1d1c7f488e96b473583fe395fd295e19">C/C++</a></li>
 	<li><a href="http://wiki.python.org/moin/IntegratingPythonWithOtherLanguages#head-e9030bdce9d16e8b08bf97d6842a5d244409e8cd">Fortran</a></li>
 	<li><a href="http://wiki.python.org/moin/IntegratingPythonWithOtherLanguages#head-2f0646bc2ae89b66c580a1dd2992db2baccb8a16">Lisp</a></li>
 	<li><a href="http://wiki.python.org/moin/IntegratingPythonWithOtherLanguages#head-6fd5ec57fffe2295fa343474a4f5880f4d418d56">Prolog</a></li>

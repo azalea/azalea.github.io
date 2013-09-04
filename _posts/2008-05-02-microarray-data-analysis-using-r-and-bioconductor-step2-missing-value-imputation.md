@@ -69,27 +69,17 @@ OK,这一步就这样搞定啦
 不放心，于是在下面再贴一遍，如果你不求甚解就不用看啦
 
 <!--more-->
-<table border="0" width="100%" summary="page for impute.knn {impute}">
-<tbody>
-<tr>
-<td>impute.knn {impute}</td>
+<table border="0" width="100%" summary="page for impute.knn {impute}"><tbody><tr><td>impute.knn {impute}</td>
 <td align="right">R Documentation</td>
-</tr>
-</tbody></table>
-<h2>A function to impute missing expression data</h2>
+</tr></tbody></table><h2>A function to impute missing expression data</h2>
 <h3>Description</h3>
 A function to impute missing expression data, using nearest neighbor averaging.
 <h3>Usage</h3>
 <pre>impute.knn(data ,k = 10, rowmax = 0.5, colmax = 0.8, maxp = 1500, rng.seed=362436069)</pre>
 <h3>Arguments</h3>
-<table border="0" summary="R argblock">
-<tbody>
-<tr valign="top">
-<td><code>data</code></td>
+<table border="0" summary="R argblock"><tbody><tr valign="top"><td><code>data</code></td>
 <td>An expression matrix with genes in the rows, samples in the columns</td>
-</tr>
-</tbody></table>
-<h3>Details</h3>
+</tr></tbody></table><h3>Details</h3>
 <code>impute.knn</code> uses <em>k</em>-nearest neighbors in the space of genes to impute missing expression values.
 
 For each gene with missing values, we find the <em>k</em> nearest neighbors using a Euclidean metric, confined to the columns for which that gene is NOT missing. Each candidate neighbor might be missing some of the coordinates used to calculate the distance. In this case we average the distance from the non-missing coordinates. Having found the k nearest neighbors for a gene, we impute the missing elements by averaging those (non-missing) elements of its neighbors. This can fail if ALL the neighbors are missing in a particular element. In this case we use the overall column mean for that block of genes.
@@ -98,13 +88,9 @@ Since nearest neighbor imputation costs <em>O(p*log(p))</em> operations per gene
 
 For reproducibility, this function reseeds the random number generator using the seed provided or the default seed (362436069).
 <h3>Value</h3>
-<table border="0" summary="R argblock">
-<tbody>
-<tr valign="top">
-<td><code>data</code></td>
-<td></td>
-</tr>
-</tbody></table>
+<table border="0" summary="R argblock"><tbody><tr valign="top"><td><code>data</code></td>
+<td/>
+</tr></tbody></table>
 {the state of the random number generator, if available, prior to the call to <code>set.seed</code>. Otherwise, it is <code>NULL</code>. If necessary, this can be used in the calling code to undo the side-effect of changing the random number generator sequence.}
 <h3>Author(s)</h3>
 Trevor Hastie, Robert Tibshirani, Balasubramanian Narasimhan, and Gilbert Chu
@@ -160,5 +146,4 @@ khan.imputed &lt;- impute.knn(as.matrix(khan.expr))
 sum(saved.state - khan.imputed$rng.state) # should be zero!
 
 save(khan.imputed, file="khanimputation.Rda")</pre>
-<hr />
-<p align="center">[Package <em>impute</em> version 1.8.0 <a href="http://rss.acs.unt.edu/Rdoc/library/impute/html/00Index.html">Index]</a></p>
+<hr/>[Package <em>impute</em> version 1.8.0 <a href="http://rss.acs.unt.edu/Rdoc/library/impute/html/00Index.html">Index]</a>

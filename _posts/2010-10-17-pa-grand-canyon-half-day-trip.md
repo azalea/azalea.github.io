@@ -18,13 +18,25 @@ meta:
   original_post_id: '1727'
   _wp_old_slug: '1727'
 ---
-<p style="text-align:left;">今天风和日丽，于是我们一行七人一早出发开车去<a href="http://www.dcnr.state.pa.us/stateparks/parks/leonardharrison.aspx" target="_blank">宾州大峡谷</a>。</p>
-<p style="text-align:left;">我们跋山涉水翻山越岭，终于来到了传说中的大峡谷（宾州的。。），风景很好，上pic:</p>
-<p style="text-align:left;"><a href="http://azaleasays.com/wp-content/uploads/2010/10/IMG_0407.jpg"><img class="alignnone size-large wp-image-1729" title="grand-canyon-south" src="http://azaleasays.com/wp-content/uploads/2010/10/IMG_0407-1024x768.jpg" alt="" width="640" height="480" /></a></p>
-<p style="text-align:left;"><a href="http://azaleasays.com/wp-content/uploads/2010/10/IMG_0410.jpg"><img class="alignnone size-large wp-image-1730" title="grand-canyon-north" src="http://azaleasays.com/wp-content/uploads/2010/10/IMG_0410-1024x768.jpg" alt="" width="640" height="480" /></a></p>
-<p style="text-align:left;"><a href="http://azaleasays.com/wp-content/uploads/2010/10/IMG_0438.jpg"><img class="alignnone size-large wp-image-1731" title="turkey path trail" src="http://azaleasays.com/wp-content/uploads/2010/10/IMG_0438-768x1024.jpg" alt="" width="640" height="853" /></a></p>
-<p style="text-align:left;"><a href="http://azaleasays.com/wp-content/uploads/2010/10/IMG_0457.jpg"><img class="alignnone size-large wp-image-1732" title="waterfall of little fourmile run" src="http://azaleasays.com/wp-content/uploads/2010/10/IMG_0457-768x1024.jpg" alt="" width="640" height="853" /></a></p>
-<p style="text-align:left;"><a href="http://azaleasays.com/wp-content/uploads/2010/10/IMG_0468.jpg"><img class="alignnone size-large wp-image-1733" title="fall foliage" src="http://azaleasays.com/wp-content/uploads/2010/10/IMG_0468-768x1024.jpg" alt="" width="640" height="853" /></a></p>
-<p style="text-align:left;"><a href="http://azaleasays.com/wp-content/uploads/2010/10/IMG_0493.jpg"><img class="alignnone size-large wp-image-1728" title="pine creek" src="http://azaleasays.com/wp-content/uploads/2010/10/IMG_0493-1024x768.jpg" alt="" width="640" height="480" /></a></p>
-<p style="text-align:left;">无奈hiking trail实在太短，3个小时闲庭信步就走完了，于是下午3点就告别了大峡谷。</p>
-<p style="text-align:left;">感谢Jin同学的ride，感谢Wenying夫妇的烤红薯，感谢iphone拍滴照片。</p>
+今天风和日丽，于是我们一行七人一早出发开车去<a href="http://www.dcnr.state.pa.us/stateparks/parks/leonardharrison.aspx" target="_blank">宾州大峡谷</a>。
+我们跋山涉水翻山越岭，终于来到了传说中的大峡谷（宾州的。。），风景很好，上pic:
+
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/10/IMG_0407-1024x768.jpg)
+
+
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/10/IMG_0410-1024x768.jpg)
+
+
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/10/IMG_0438-768x1024.jpg)
+
+
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/10/IMG_0457-768x1024.jpg)
+
+
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/10/IMG_0468-768x1024.jpg)
+
+
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/10/IMG_0493-1024x768.jpg)
+
+无奈hiking trail实在太短，3个小时闲庭信步就走完了，于是下午3点就告别了大峡谷。
+感谢Jin同学的ride，感谢Wenying夫妇的烤红薯，感谢iphone拍滴照片。

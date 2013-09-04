@@ -22,10 +22,6 @@ meta:
 
 爬了快1小时终于到了,老公去了乱石岗探路,我也爬了一段,看到一只很可爱的虫,疑似是尺蠖.然后沿link trail N继续上山,山的西侧有个很好的观景点,可以看到Juniata River,US22和铁路,我们甚至看到火车了!
 
-<img src="http://azaleasays.com/wp-content/uploads/2010/07/img_1020.jpg" alt="ThousandSteps" height="379" width="506" />
 
-夕阳西下,遗憾我们没有时间登顶了,留到下次拉.motel22的老爷爷说,link trail夏天会更美.一路遇到了大概4队人马,大家都很友善,一个老爷爷带着他的kid看我下山的丑态.
-
-总之今天我hiking老公飙车都很开心,虽然最后背着夕阳回来,过一个U形弯时吓得我不行,不过真是难忘的一天阿.
-
-照片在<a href="http://picasaweb.google.com/ztpala/ThousandSteps" target="_blank">picasa网络相册</a>,据说被GFW封了,我们近期会换到其他地方的,大家耐心等待 :)
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/img_1020.jpg)
+<a href="http://picasaweb.google.com/ztpala/ThousandSteps" target="_blank">picasa网络相册</a>,据说被GFW封了,我们近期会换到其他地方的,大家耐心等待 :)

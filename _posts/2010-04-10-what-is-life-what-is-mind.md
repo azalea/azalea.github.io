@@ -39,8 +39,11 @@ Holist：哈，简单啊。虽然纸箱没有真正的“老鼠封闭性”，�
 
 想知道更多？强烈推荐这两本书：
 
-<p><a href="http://book.douban.com/subject/1317485/"><img src="http://t.douban.com/mpic/s2905586.jpg" style="float:left;border:0;padding:0 0 20px 20px;" /></a>
-<a href="http://book.douban.com/subject/1291194/"><img src="http://t.douban.com/mpic/s1307886.jpg" style="float:center;border:0;padding:0 0 20px 20px;" /></a></p>
+
+![](http://t.douban.com/mpic/s2905586.jpg)
+
+![](http://t.douban.com/mpic/s1307886.jpg)
+
 
 下载地址：
 <a href="http://dl.dropbox.com/u/308058/book/What_is_Life_Erwin_Schrodinger_1944.pdf" target="_blank">What is Life?</a> (只有第一部分，可惜精彩的是第二部分: Mind and Matter，网上没找到= =）

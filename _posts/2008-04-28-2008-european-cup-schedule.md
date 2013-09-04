@@ -16,8 +16,7 @@ meta:
 ---
 灌水ing..
 
-<img src="http://azaleasays.com/wp-content/uploads/2010/07/ouzhoubei1.jpg" />
 
-<img src="http://azaleasays.com/wp-content/uploads/2010/07/ouzhoubei22.jpg" />
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/ouzhoubei1.jpg)
 
-刚好来得及在复旦看决赛，wkk，最妙就是德国对意大利:D
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/ouzhoubei22.jpg)

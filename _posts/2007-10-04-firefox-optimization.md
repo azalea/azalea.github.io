@@ -11,7 +11,7 @@ meta:
   views: '782'
   _wp_old_slug: '%e6%88%91%e7%9a%84firefox%e5%ae%89%e8%a3%85%e5%85%a8%e8%bf%87%e7%a8%8b-%e8%bd%ac%e8%bd%bd'
 ---
-转载自<a href="http://my.opera.com/hanwei.v/blog/show.dml/389966" target="_blank">这里</a></p>
+转载自<a href="http://my.opera.com/hanwei.v/blog/show.dml/389966" target="_blank">这里</a>
 网络提速
 下面的设置看起来是通用的，只是做了两个补充- 插件的路径可以在about: plugins 中找到，关掉了书签菜单延迟。
 user_pref("network.http.pipelining", true);
@@ -69,8 +69,7 @@ mousewheel.withnokey.numlines 设定了滚动的行数，推荐设置为７
 答：在Firefox的启动路径后加上参数"-p"（不带引号）或是"-profilemanager"（不带引号）即可。如 firefox -p，firefox -profilemanager。
 
 如果是 Windows 系统，也可从开始菜单中选择"开始--&gt;;
-<ul>
-	<li> 运行"</li>
+<ul><li> 运行"</li>
 </ul>
 输入 firefox -p
 如果不行，请输入 Firefox 的完整路径，然后加上参数"-p"（不带引号），如：

@@ -10,11 +10,11 @@ meta:
   views: '562'
   _searchme: '1'
 ---
-<p align="center"><font size="2"><strong>ISA </strong><strong>: Masters' Challenge</strong></font></p>
-<p align="center"><font size="2"><strong>Saturday, June 14, 2008 from 9:30 a.m. - 4:00 p.m.</strong></font></p>
-<p align="center"><font size="2"><strong>Centre Furnace Mansion</strong></font></p>
- <a href="http://azaleasays.com/wp-content/uploads/2010/07/cchstrees.jpg"><img src="http://azaleasays.com/wp-content/uploads/2010/07/cchstrees.jpg" height="374" width="550" /></a>
-
+<font size="2"><strong>ISA </strong><strong>: Masters' Challenge</strong></font>
+<font size="2"><strong>Saturday, June 14, 2008 from 9:30 a.m. - 4:00 p.m.</strong></font>
+<font size="2"><strong>Centre Furnace Mansion</strong></font>
+ 
+![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/cchstrees.jpg)
 <font size="2"> The International Society of Arboriculture Pennsylvania-Delaware Chapter’s top competitors will demonstrate incredible skill and agility by climbing the historic Centre Furnace Sycamore at the region’s Masters’ Challenge.  The competition is slated to start around 9:30 a.m.  All spectators are encouraged to attend this FREE event.</font>
 
 <font size="2">The Masters’ Challenge is an event designed to judge the top climbers’ overall productivity and skill with a rope and saddle in the tree.</font>
