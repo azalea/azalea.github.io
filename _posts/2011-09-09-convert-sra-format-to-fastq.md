@@ -25,7 +25,9 @@ If you are using 64-bit linux, try the <a href="http://trace.ncbi.nlm.nih.gov/Tr
 2. Decompress the downloaded file, and copy the fastq-dump file to system path.
 
 3. Convert SRA to fastq
-fastq-dump &lt;SRA archive file&gt;
+```bash
+fastq-dump <SRA archive file>
+```
 which will create a fastq file with the same name as the SRA archive file.
 
 References:
