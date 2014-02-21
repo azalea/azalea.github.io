@@ -47,3 +47,8 @@ Ctrl+X退出，nano会问你是否要保存，输入Y。
 问五：为什么待办事项文件夹要叫做 Touch To-Do 啊？又臭又长还有空格啊！
 
 答五：哈，终于有人问这个问题了（其实是我自问自答自娱自乐自卖自夸啦），这其实是 [@ztpala](https://twitter.com/ztpala) 同学写的 [iOS app](https://itunes.apple.com/us/app/id731295625?mt=8) 啦，使用这个 app，妈妈再也不用担心你忘记买锅了。
+
+***
+问六：这么牛x的想法是怎么来的？
+
+答六：[请看这里](https://github.com/holman/dotfiles/blob/master/bin/todo)
