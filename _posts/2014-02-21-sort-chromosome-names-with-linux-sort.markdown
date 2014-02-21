@@ -51,9 +51,9 @@ Howver, this is not what we want. We'd like the chromosome names sorted numerica
 
 Then, let's try:
 
-    sort -k 1.4,1 -n -b -s example.txt
+    sort -k 1.4,1 -n -s example.txt
 
-The options are saying that to sort via a key (`-k`) starting at the 4th character in the 1st field and ending at the end of the 1st field (i.e. 1, 2, 3, 10, 21, X, Y), numerically (`-n`), ignoring leading blanks (`-b`), and stably (`-s`).
+The options are saying that to sort via a key (`-k`) starting at the 4th character in the 1st field and ending at the end of the 1st field (i.e. 1, 2, 3, 10, 21, X, Y), numerically (`-n`), and stably (`-s`).
     
 The result, however, is not quite what we want:
 
