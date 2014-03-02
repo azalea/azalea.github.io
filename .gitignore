@@ -1,2 +1,4 @@
-_site/*
+_site/
+_gh_pages
+_drafts/
 *.DS_Store

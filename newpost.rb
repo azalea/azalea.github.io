@@ -7,7 +7,7 @@ end
 
 date_prefix = Time.now.strftime("%Y-%m-%d")
 postname = ARGV[0].strip.downcase.gsub(/ /, '-')
-post = "./_posts/#{date_prefix}-#{postname}.markdown"
+post = "./_posts/#{date_prefix}-#{postname}.md"
 
 header = <<-END
 ---
