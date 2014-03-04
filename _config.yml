@@ -2,9 +2,10 @@ name: azaleasays
 markdown: redcarpet
 redcarpet:
     extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
-permalink: /:year/:month/:day/:title 
+permalink: /:year/:month/:day/:title
 title: azalea says
 timezone: America/New_York
-subscribe: http://azalea.github.io/feed.xml
+subscribe: http://azaleasays.com/atom.xml
 githubEditBaseURL: https://github.com/azalea/azalea.github.io/edit/master/
 disqusShortname: azaleasays
+url: http://azaleasays.com
