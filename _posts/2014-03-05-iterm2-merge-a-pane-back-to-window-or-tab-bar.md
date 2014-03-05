@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iTerm2: merge a pane back to window or tab bar
+title: iTerm2 - merge a pane back to window or tab bar
 categories: 
 tags:
  - iTerm
