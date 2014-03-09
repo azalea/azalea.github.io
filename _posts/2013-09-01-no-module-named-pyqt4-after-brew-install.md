@@ -5,7 +5,7 @@ categories:
 tags:
   - python
   - pyqt
-  
+language: en  
 ---
 I used homebrew to intall PyQt on Mac OS X. `brew install pyqt` ran successfully. `brew list` includes pyqt, but in Python, `import PyQt4` gives the error: `
 ImportError: No module named PyQt4`

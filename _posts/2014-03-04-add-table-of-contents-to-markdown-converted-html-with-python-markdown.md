@@ -5,7 +5,7 @@ categories:
 tags:
  - python
  - markdown
- 
+language: en 
 ---
 So you finished writing a long article with Markdown and want a table of contents? Use [Python-Markdown](https://pythonhosted.org/Markdown/index.html)!
 

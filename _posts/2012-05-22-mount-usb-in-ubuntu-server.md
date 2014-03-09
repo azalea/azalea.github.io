@@ -3,15 +3,7 @@ layout: post
 title: Mount USB in Ubuntu Server
 tags:
 - ubuntu
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  _oembed_1d530d0a3bb78d782ea2f0d89842af7b: '{{unknown}}'
-  _oembed_c48301e14c2b60b8d9a26144975cb6e4: '{{unknown}}'
-  _oembed_1ca42f2a5171fcb1b130ac44fa23bd99: '{{unknown}}'
-  _oembed_5a5dcf3080f205003c800be91df75648: '{{unknown}}'
+language: en
 ---
 By default, USB drive does not automount in Ubuntu Server Edition.
 

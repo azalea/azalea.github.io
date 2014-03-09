@@ -1,0 +1,14 @@
+---
+layout: default
+title: English archive
+permalink: /en/
+---
+<div class="wrapper">
+{% assign post_year1 = "" %}
+{% for post in site.posts %}
+    {% if post.language == "en" %}
+        {% include archive_template.html %}
+    {% endif %}
+{% endfor %}
+</div>
+

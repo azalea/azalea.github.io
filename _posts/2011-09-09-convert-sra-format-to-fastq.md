@@ -5,14 +5,7 @@ tags:
 - bioinformatics
 - format
 - software
-status: publish
-type: post
-published: true
-meta:
-  _searchme: '1'
-  _edit_last: '1'
-  original_post_id: '1844'
-  _wp_old_slug: '1844'
+language: en
 ---
 <a href="http://www.ncbi.nlm.nih.gov/geo/" target="_blank">NCBI GEO</a> uses SRA (Sequence Read Archive) format to store sequencing files. <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM621123" target="_blank">e.g. </a>
 

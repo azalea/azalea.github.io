@@ -6,15 +6,7 @@ tags:
 - dynamic programming
 - programming
 - python
-status: publish
-type: post
-published: true
-meta:
-  _searchme: '1'
-  _edit_last: '1'
-  aktt_notify_twitter: 'no'
-  _wp_old_slug: '1812'
-  original_post_id: '1812'
+language: en
 ---
 Problem: 
 Given a list of N integers (both positive and negative), find the sub-sequence with the largest sum.

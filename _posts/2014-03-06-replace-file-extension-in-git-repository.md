@@ -5,7 +5,7 @@ categories:
 tags:
  - git
  - shell
- 
+language: en
 ---
 
 The following shell script replaces one file extension with another in a git repository.

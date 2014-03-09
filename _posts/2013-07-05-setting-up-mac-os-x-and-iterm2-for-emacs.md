@@ -5,7 +5,7 @@ categories: English
 tags:
   - emacs
   - mac os x
-  
+language: en  
 ---
 I've been taking the [Startup Engineering class on Coursera](https://class.coursera.org/startup-001/class/index), which gives me a reason to give Emacs a second chance. The class covers [setting up Terminal for Emacs in Mac OS X](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4b-developer-environment.pdf). However, I use [iTerm2](http://www.iterm2.com/#/section/home) (a fantastic replacement for Terminal), so I have to do some research myself.
 

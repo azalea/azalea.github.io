@@ -6,7 +6,7 @@ tags:
   - linux
   - sort
   - genomics
-  
+language: en  
 ---
 One common task that comes up regularly when analyzing genomic data is to sort a data file by chromosome names. See the following `example.txt` file:
 

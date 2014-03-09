@@ -4,7 +4,7 @@ title: iTerm2 - merge a pane back to window or tab bar
 categories: 
 tags:
  - iTerm
- 
+language: en 
 ---
 
 You can easily drag a pane or tab out as a separate window in iTerm2. Just left-click the header and drag it outside its original window. However, you cannot simply drag it back.

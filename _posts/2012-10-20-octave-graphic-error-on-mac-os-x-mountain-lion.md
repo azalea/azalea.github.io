@@ -4,13 +4,7 @@ title: Octave graphic error on Mac OS X Mountain Lion
 tags:
 - octave
 - programming
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  _oembed_87e2ca3e9304dcae1c3aa020dc80498a: '{{unknown}}'
-  _oembed_e3bf0f2c77f236d41940ba844f6f40b0: '{{unknown}}'
+language: en
 ---
 Run hist() command in Octave, the error message says:
 

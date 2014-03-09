@@ -5,6 +5,7 @@ categories: English
 tags:
   - linux
   - bioinformatics
+language: en
 ---
 
 So you've sequenced a bunch of reads, mapped them to a reference with a short read aligner, and now you find that some reads map to multiple locations. You hate multi-mappers, so you'd like to discard them and keep only uniquely mapped reads.

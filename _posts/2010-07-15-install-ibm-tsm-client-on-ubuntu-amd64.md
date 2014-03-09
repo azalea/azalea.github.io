@@ -4,15 +4,7 @@ title: Install IBM TSM Client on Ubuntu (amd64)
 tags:
 - TSM
 - ubuntu
-status: publish
-type: post
-published: true
-meta:
-  _searchme: '1'
-  views: '95'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
+language: en
 ---
 <strong>1. Get the RPMs for the client software</strong>
 
