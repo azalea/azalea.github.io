@@ -2,6 +2,7 @@ name: azaleasays
 markdown: redcarpet
 redcarpet:
     extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
+exclude: [ README.md, newpost.rb, CNAME ]
 permalink: /:year/:month/:day/:title
 title: azalea says
 timezone: America/New_York
