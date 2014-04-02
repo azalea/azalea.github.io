@@ -13,17 +13,15 @@ SRA format needs to be converted into fastq to be used as input to Bowtie, Topha
 
 1. Download the SRA toolkit from <a href="http://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=software" target="_blank">http://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=software</a>
 
-If you are using 64-bit linux, try the <a href="http://trace.ncbi.nlm.nih.gov/Traces/sra/static/sratoolkit.2.1.4-centos_linux64.tar.gz">CentOS Linux 64 bit architecture</a> first. It is so much pain to compile from source.
+    If you are using 64-bit linux, try the <a href="http://trace.ncbi.nlm.nih.gov/Traces/sra/static/sratoolkit.2.1.4-centos_linux64.tar.gz">CentOS Linux 64 bit architecture</a> first. It is so much pain to compile from source.
 
 2. Decompress the downloaded file, and copy the fastq-dump file to system path.
 
 3. Convert SRA to fastq
 
+        fastq-dump SRA_archive_file.sra
 
-    fastq-dump <SRA archive file>
-
-
-which will create a fastq file with the same name as the SRA archive file.
+    which will create a fastq file with the same name as the SRA archive file.
 
 References:
 
