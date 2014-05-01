@@ -6,6 +6,8 @@ tags:
 - django
 - logging
 
+language: en
+
 ---
 When using RotatingFileHandler for django logging, the following error occurs:
 

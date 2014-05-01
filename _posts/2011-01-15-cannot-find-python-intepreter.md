@@ -4,6 +4,7 @@ title: Cannot find python intepreter
 tags:
 - programming
 - python
+- special character
 language: en
 ---
 ##Problem:
