@@ -4,7 +4,7 @@ title: OS X sed does not recognize \t as TAB character
 categories: 
 tags:
   - sed
-  - OS X
+  - Mac OS X
 language: en  
 ---
 Say you would like to replace multiple spaces with a tab (`\t`) in file with:
