@@ -15,5 +15,6 @@ tags:
 
 我昨天把 .cpp 文件里两个 table view 的代码对照着看了一个小时，也没看出来区别。今天忽然醒悟过来，Qt Designer 的 Design 页面，有个 pane 叫 Property Editor ...
 
-# 不靠谱程序员
-# Twitter 140字限制去死去死
+&#35; 不靠谱程序员
+
+&#35; Twitter 140字限制去死去死
