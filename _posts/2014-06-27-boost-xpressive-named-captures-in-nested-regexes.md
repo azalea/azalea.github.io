@@ -1,6 +1,6 @@
 ---
 layout: post
-title: boost xpressive: named captures in nested regexes
+title: boost xpressive named captures in nested regexes
 categories: 
 tags:
 - C++
@@ -82,7 +82,7 @@ int main()
 
     return 0;
 }
-
+```
 
 The program now outputs:
 
