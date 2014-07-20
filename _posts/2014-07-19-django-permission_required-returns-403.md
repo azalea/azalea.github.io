@@ -14,11 +14,11 @@ Use it like this:
 ```python
 from django.contrib.auth.decorators import permission_required
 @permission_required('add_user', raise_exception=True)
-def my_add_user_view_function():
+def my_add_user_view_function(request):
     ...
 
 @permission_required('delete_user', raise_exception=True)
-def my_delete_user_view_function():
+def my_delete_user_view_function(request):
         ...
 ```
           
@@ -31,11 +31,11 @@ from functools import partial
 permission_required = partial(permission_required, raise_exception=True)
 # Then just use:
 @permission_required('add_user')
-def my_add_user_view_function('add_user'):
+def my_add_user_view_function(request):
     ...
 
 @permission_required('delete_user')
-def my_add_user_view_function('add_user'):
+def my_add_user_view_function(request):
     ...
 ```
         
