@@ -22,7 +22,7 @@ def my_delete_user_view_function(request):
         ...
 ```
           
-But how can I avoid typing `raise_exception=True` for every view function? Use [functools.partial](https://docs.python.org/2/library/functools.html#functools.partial):
+But how can you avoid typing `raise_exception=True` for every view function? Use [functools.partial](https://docs.python.org/2/library/functools.html#functools.partial):
 
 
 ```python
@@ -39,4 +39,4 @@ def my_add_user_view_function(request):
     ...
 ```
         
-This seems trivial, but it saved me from typing (or pasting) `raise_exception=True` for ~100 times. Don't ask me why I have so many view functions. That's a story for another day ;)
+This seems trivial, but it saved me from typing (or pasting) `raise_exception=True` for ~100 times. Don't ask me why I have so many view functions. That's the story of another day ;)
