@@ -41,7 +41,14 @@ Error : .onLoad failed in loadNamespace() for 'tcltk', details:
 ...
 ```
 
-So I first backed up these files, and then install tcl/tk with Homebrew:
+So first back up these files:
+
+```
+mv /usr/local/lib/libtcl8.6.dylib /usr/local/lib/libtcl8.6.dylib.bak
+...
+```
+
+Then install tcl/tk with Homebrew:
 
 ```
 brew tap homebrew/dupes
