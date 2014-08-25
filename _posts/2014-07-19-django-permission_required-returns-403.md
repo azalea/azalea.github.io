@@ -4,6 +4,7 @@ title: Django permission_required returns 403
 categories: 
 tags:
 - django
+language: en
 
 ---
 
