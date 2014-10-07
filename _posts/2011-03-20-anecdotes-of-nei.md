@@ -31,7 +31,7 @@ meta:
 
 7. Nei每次收到审稿人对论文的审稿意见，都要给审稿人写一封长信，逐条驳斥审稿人的意见。最神奇的是，因为审稿人是匿名的，Nei却每次都能正确的猜到审稿人是谁，然后一封长信寄到。。
 
-8.  Nei在University of Texas at Houston的长期合作人（忘记名字）讲到，他和Nei加起来都经历了170年了。当时他去不去 Houston 是取决于Nei的，Nei去他才去。于是他找到Nei在日本的导师，也是他的好友，强烈把他推荐给Nei，Nei于是去了Houston，然后<a href="http://zh.wikipedia.org/wiki/%E6%A0%B9%E4%BA%95%E6%AD%A3%E5%88%A9" target="_blank">开创了群体遗传学的“休斯顿学派”</a>。 Nei听完惊讶的说，我刚知道，我是你的条件！
+8.  Nei在University of Texas at Houston的长期合作人（忘记名字）讲到，他和Nei加起来都经历了170年了。当时他去不去 Houston 是取决于Nei的，Nei去他才去。于是他找到Nei在日本的导师，也是他的好友，强烈把他推荐给Nei，Nei于是去了Houston，然后开创了群体遗传学的[“休斯顿学派”](http://zh.wikipedia.org/wiki/%E6%A0%B9%E4%BA%95%E6%AD%A3%E5%88%A9)。 Nei听完惊讶的说，我刚知道，我是你的条件！
 
 9. 一个人讲，史前时代，就是还没有NCBI的时候，基因的序列都是印在论文上的，于是他就和他同事把一个基因序列从论文上抄下来，他同事念，他写。他同事刚好念到，"A, G, C, T, T, T"，Nei闯进来说，哪里有tea？原来Nei是个tea lover。然后他和他同事惊呼，我们念到哪儿了？
 
