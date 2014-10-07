@@ -27,7 +27,7 @@ Liang always brings me interesting quiz questions. Here is one:
 
 Since I am so rusty at awk, I had to google around to find the solution:
 
-    gawk -F '\t' '
+    awk -F '\t' '
     $1FS$2FS$3==x{
         printf ",%s,%s", $6, $7
         next
