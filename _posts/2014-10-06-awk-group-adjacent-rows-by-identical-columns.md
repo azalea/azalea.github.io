@@ -5,7 +5,7 @@ categories:
 tags:
 - awk
 
-languange: en
+language: en
 ---
 
 Liang always brings me interesting quiz questions. Here is one:
