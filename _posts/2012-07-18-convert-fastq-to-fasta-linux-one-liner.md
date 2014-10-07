@@ -5,6 +5,7 @@ tags:
 - bioinformatics
 - shell
 - sed
+- awk
 ---
 
     awk 'NR % 4 == 1 || NR % 4 == 2' myfile.fastq | sed -e 's/@/>/' > myfile.fasta
