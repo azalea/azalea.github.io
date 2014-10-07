@@ -46,11 +46,11 @@ meta:
 1. 人类基因组当时有2个独立的小组分别在研究，结果分别发表在2001年的 <a href="http://www.sciencemag.org/content/291/5507/1304.full">Science</a> 和 <a href="http://www.nature.com/nature/journal/v409/n6822/full/409860a0.html">Nature</a> 上。我迟到了木有听到，貌似说到当时2个小组试图合作未果。Steven 说这是论文发表史上的奇迹（额，这个词是我总结的），他们直接和杂志社说，给我们留几十页的版面，而以前发表文章，都是杂志让缩短到几页或把结果扔到补充文件里就乖乖听话的。此外，他们刚投了稿，新闻就宣布人类基因组测序已经完成，审稿人只有2个星期的时间评审，Steven说，他相信审稿人肯定认真读了这几十页的论文，但是问题是他们的评审意见根本不可能是“修回”或“拒绝”。
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/10/cacao_nature_genetics.gif)
+    ![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/10/cacao_nature_genetics.gif)
 
 2. <a href="http://www.nature.com/ng/journal/v43/n2/index.html">今年2月</a>的 Nature Genetics 同时发表了草莓和巧克力的基因组，Steven说，因为他们想在情人节为读者献上 Strawberry chocolate。身为上百作者之一的我怎么都木有发现 - -
 
-   <a href="http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000475">火鸡基因组</a>是在感恩节前发表的（去年9月）。
+    <a href="http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000475">火鸡基因组</a>是在感恩节前发表的（去年9月）。
 
 3. Steven还推广了一下 <a href="http://main.g2.bx.psu.edu/">Galaxy</a> (<a href="http://usegalaxy.org">usegalaxy.org</a>) 说，这个是专为生物学家设计的，可以直接用鼠标操作 Bowtie, Tophat 和 Cufflinks，虽然他不明白为什么生物学家不喜欢用 command line。
 
