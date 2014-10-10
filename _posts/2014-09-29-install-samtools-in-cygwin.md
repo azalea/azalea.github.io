@@ -14,9 +14,11 @@ Start the Cygwin Installer, in the "Select Package" page, search and install gcc
 
 Download and extract [samtools](http://sourceforge.net/projects/samtools/).
 
-Edit Makefile's `DFLAGS` line as:
+Append -Dexpl=exp -Dlogl=log to Makefile's default DFLAGS line, such as:
 
     DFLAGS= -D_FILE_OFFSET_BITS=64 -D_USE_KNETFILE -D_CURSES_LIB=1 -Dexpl=exp -Dlogl=log
+
+Run `make clean` to clean up previous build attempts. 
 
 Run `make`.
 
