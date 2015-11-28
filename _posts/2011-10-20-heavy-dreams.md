@@ -3,16 +3,8 @@ layout: post
 title: 梦想之重
 tags:
 - 动画
-- 杂
 - 电影
-status: publish
-type: post
-published: true
-meta:
-  _searchme: '1'
-  _edit_last: '1'
-  original_post_id: '1879'
-  _wp_old_slug: '1879'
+- 观后感
 ---
 看完了长7小时的日本动画片《三国志》（<a href="http://movie.douban.com/doulist/828471/">豆瓣</a>，<a href="6.cn/playlist/440">在线一塌糊涂版</a>），无限唏嘘。虽然刘备抱着让天下人安居乐业的梦想，多年委曲求全忍辱负重，终于得到天下的三分之一，但是关羽一死，刘备痛不欲生，称帝之后不顾国家的长远基业，也放下了一统天下的梦想，亲征东吴为兄弟报仇。虽然胜算几乎为零，但是我十分理解这种近乎送死的行为，身为一国之君，连结义的誓言都无法遵守，连兄弟的深仇都无以为报，梦想又算什么。一仇不报，何以救天下？失去兄弟，得到天下又如何？
 
