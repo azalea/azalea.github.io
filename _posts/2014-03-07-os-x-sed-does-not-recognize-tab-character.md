@@ -45,7 +45,7 @@ will do exactly what you want.
 
 If you absolutely need the GNU sed without the g-prefix, you can
 
-    brew install gnu-seq --default-names
+    brew install gnu-sed --default-names
 
 [ref](http://apple.stackexchange.com/questions/69223/how-to-replace-mac-os-x-utilities-with-gnu-core-utilities)
 
