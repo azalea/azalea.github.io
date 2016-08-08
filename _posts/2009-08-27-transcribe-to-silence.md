@@ -37,7 +37,7 @@ Pol IV 和 Pol V 和 Pol II 在结构上有很多相似之处，但是他们的�
 Wierzbicki 等人2008年发表在 Cell 杂志上的文章发现了 Pol V 转录后产生的 RNA，因此证实了 Pol V 确实是RNA聚合酶。他们提出了3个Pol IV 和 Pol V导致基因沉默的模型，下图是他们认为最可能的：
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/pol45.png)
+![](/images/2010/07/pol45.png)
 
 首先，Pol IV把DNA转录成很长的RNA（单链的），再由 RDR2 (以RNA为模板的RNA聚合酶）变成双链RNA，再被切成小分子的siRNA，然后结合到AGO4蛋白上。与此同时，Pol V 也把同个位置的DNA转录成RNA，然后AGO4-siRNA复合体就和Pol V 转录产物结合，指引其他染色质修饰蛋白结合到染色质上，把染色质甲基化，而甲基化带来了基因的沉默。
 

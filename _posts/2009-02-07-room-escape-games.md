@@ -20,7 +20,7 @@ meta:
 
 寻找信息和工具, 逃离一个温馨的有很多玩具的房间. <a href="http://gamesuy.blogspot.com/2008/06/switch-walkthrough.html" target="_blank">攻略</a>
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/switch.jpg)
+![](/images/2010/07/switch.jpg)
 
 同个作者的其他作品还有:
 
@@ -31,7 +31,7 @@ meta:
 <strong><a href="http://neutralxe.net/esc/vision.html">VISION</a></strong> 难度: ★★★★☆
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/vision.jpg)
+![](/images/2010/07/vision.jpg)
 
 这个我非常喜欢, 很复杂很有想象力, 尤其是你逃离房间之后, 真是别有洞天.<a href="http://blog.yam.com/kwai84/article/15885444" target="_blank">攻略</a> (<a href="http://www.youtube.com/watch?v=W4M1zhz7D9I" target="_blank">视频版本</a>)
 

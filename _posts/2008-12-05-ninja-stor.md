@@ -23,11 +23,11 @@ meta:
 
 早上7点钟,勤劳滴忍者和PPMM一起打扫房间:
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/cv_scene_cleaning.png)
+![](/images/2010/07/cv_scene_cleaning.png)
 
 9点钟, 他们一起饮茶
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/cv_scene_tea.png)
+![](/images/2010/07/cv_scene_tea.png)
 
 10点钟, 忍者采了一束花送给MM:
 
@@ -35,7 +35,7 @@ meta:
 
 11点钟,忍者和MM互相行礼,准备...
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/cv_scene_bow.png)
+![](/images/2010/07/cv_scene_bow.png)
 
 下午1点,经过2个小时的准备,终于开打,原来忍者MM江湖人称铁扇水上飘公主
 
@@ -43,15 +43,15 @@ meta:
 
 打到3点钟,未分胜负,于是忍者和MM开始边喝茶边用内力凝于茶杯中的水比试六脉神剑
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/cv_scene_tea.png)
+![](/images/2010/07/cv_scene_tea.png)
 
 这一比可就是N盏茶功夫,屋里真气激荡,直到5点,
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/cv_scene_sumo1.png)
+![](/images/2010/07/cv_scene_sumo1.png)
 
 估计是把忍者的岳父岳母给激荡醒了...最严重的是......
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/cv_scene_sumo.png)
+![](/images/2010/07/cv_scene_sumo.png)
 
 连岳母的衣服都给震掉了...
 
@@ -75,7 +75,7 @@ p.s.上面这张是不会在Gmail里出现滴,是个赤裸裸滴彩蛋,因为2�
 
 这打还不要紧,一定要熄了灯打,以练习听风辩器.他们打啊打啊,一直打到凌晨2点钟,又累又饿,眼都花了...
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/cv_scene_monster.png)
+![](/images/2010/07/cv_scene_monster.png)
 
 于是忍者一家,就这样度过了一天,吃得爽,喝得健康,锻炼体魄和陶冶情操兼备,幸福啊...
 
@@ -83,4 +83,4 @@ p.s.上面这张是不会在Gmail里出现滴,是个赤裸裸滴彩蛋,因为2�
 
 临终赠送bonus图片一张,以证明忍者文武双全:
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/composewin_bg.png)
+![](/images/2010/07/composewin_bg.png)

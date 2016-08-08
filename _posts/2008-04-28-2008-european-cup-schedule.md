@@ -17,6 +17,6 @@ meta:
 灌水ing..
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/ouzhoubei1.jpg)
+![](/images/2010/07/ouzhoubei1.jpg)
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/ouzhoubei22.jpg)
+![](/images/2010/07/ouzhoubei22.jpg)

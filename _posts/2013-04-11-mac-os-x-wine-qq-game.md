@@ -162,9 +162,9 @@ File Format：选择 Application
 
 下面你就可以像用其他Mac程序一样使用QQ游戏了。
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2013/04/Screen-Shot-2013-04-11-at-5.01.20-AM.png)
+![](/images/2013/04/Screen-Shot-2013-04-11-at-5.01.20-AM.png)
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2013/04/Screen-Shot-2013-04-11-at-5.09.52-AM-1024x746.png)
+![](/images/2013/04/Screen-Shot-2013-04-11-at-5.09.52-AM-1024x746.png)
 
 ***
 

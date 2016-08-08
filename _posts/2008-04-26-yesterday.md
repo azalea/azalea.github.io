@@ -30,4 +30,4 @@ National DNA Day我<a href="http://azalea.ztpala.com/2008/04/23/bioinformatics-o
 show一下手工作品及冠军奖品:)
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/img_09181.jpg)
+![](/images/2010/07/img_09181.jpg)

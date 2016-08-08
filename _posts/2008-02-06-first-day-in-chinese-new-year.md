@@ -29,7 +29,7 @@ Absence of evidence is not evidence of absence.
 然后和饼去HOSS'S，算是吃了年夜饭。吃得撑死了，不过少了点过年的气氛。bs不给面子的某人和某人！
 
 然后去Wal Mart买了气球，60分50个，超级便宜啊。回家用自行车气筒充好气，黏在墙上，
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/00001.jpg)
+![](/images/2010/07/00001.jpg)
 
 还觉得不过瘾，于是挂在飞镖盘上，用飞镖扎爆，老公投了N次才投中，汗。。
 

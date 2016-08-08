@@ -14,7 +14,7 @@ meta:
   _searchme: '1'
 ---
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/1r8j_bio_r_250.jpg)
+![](/images/2010/07/1r8j_bio_r_250.jpg)
 
 上图是某海洋细菌Synechococcus elongatus的生物钟蛋白质KaiA的分子结构。 可惜这幅图是二维的，如果想从其他角度看这个蛋白质分子，就需要三维结构浏览器啦。
 

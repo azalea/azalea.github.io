@@ -70,4 +70,4 @@ os.s (此时按tab)
 就会出现
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/idle_auto_complete_example.png)
+![](/images/2010/07/idle_auto_complete_example.png)

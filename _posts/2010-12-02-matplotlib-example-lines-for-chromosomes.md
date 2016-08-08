@@ -18,7 +18,7 @@ meta:
   _wp_old_slug: '1762'
 ---
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/12/positions.png)
+![](/images/2010/12/positions.png)
 
 <a href="http://matplotlib.sourceforge.net/examples/api/artist_demo.html" target="_blank">现学现卖</a>，画来玩玩的，用来做slides里的示意图。感觉如果扩展一下加入zoom-in，zoom-out和slider的话，可以做成基因组浏览器（Genome Browser，比如<a href="http://www.broadinstitute.org/igv/" target="_blank">IGV</a>）。
 

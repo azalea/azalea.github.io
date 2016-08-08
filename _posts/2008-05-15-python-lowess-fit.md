@@ -51,6 +51,6 @@ show()
 
 图：
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/lowess.png)
+![](/images/2010/07/lowess.png)
 
 此外，<a href="http://biopython.org/DIST/docs/api/Bio.Statistics.lowess-module.html" target="_blank">Biopython的Statistics包也有lowess模块</a>，不会用-,-

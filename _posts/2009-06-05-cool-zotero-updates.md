@@ -23,13 +23,13 @@ meta:
 <strong>1. 可以自动查找添加pdf文件信息。</strong>把本地的pdf文件拖到Zotero，然后右键选"Retrieve Metadata for PDF"，
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/zotero1.png)
+![](/images/2010/07/zotero1.png)
 
 第一次使用时需要安装一个PDF tool，按提示安装之后就搞定啦。于是Zotero就自动到网上搜索pdf文件的信息，如果pdf是一本书或论文，而且网上有的话，就会自动添加pdf的标题，作者，出版社，等等，超级爽啊~~<a href="http://newgenerationresearcher.blogspot.com/2009/05/zotero-pdf.html" target="_blank">这里</a>有更多关于这个功能的介绍。
 
 <strong>2. 可以在多台电脑上同步Zotero的数据。</strong>你只要到<a href="http://www.zotero.org/" target="_blank">Zotero</a>注册一个账号，然后在Zotero Preferences的Sync选项卡里填上你的账号和密码，
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/zotero2.png)
+![](/images/2010/07/zotero2.png)
 
 然后点右上角的绿色Sync图标就OK了。
 

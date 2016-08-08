@@ -27,10 +27,10 @@ meta:
 随便贴几张照片，更多照片请看：<a href="http://picasaweb.google.com/MaZhaorong/Boston" target="_blank">Boston</a> <a href="http://picasaweb.google.com/MaZhaorong/HarvardUniversity" target="_blank">Harvard</a> <a href="http://picasaweb.google.com/MaZhaorong/MIT" target="_blank">MIT</a> <a href="http://picasaweb.google.com/MaZhaorong/YaleUniversity" target="_blank">Yale</a>
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/img_0160.jpg)
+![](/images/2010/07/img_0160.jpg)
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/tt1.jpg)
+![](/images/2010/07/tt1.jpg)
 
 ![](http://azaleasays.files.wordpress.com/2008/05/img_0153.jpg)
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/img_0361.jpg)
+![](/images/2010/07/img_0361.jpg)

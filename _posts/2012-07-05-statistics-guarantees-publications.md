@@ -60,7 +60,7 @@ Nov 11, 2012 Update: XKCD关于多重比较的犀利图一枚：
 在 Bem 的文章里，他有意或无意滴错误解读了 p-value。文中，H<sub>0 </sub>是人不能预知未来，H<sub>1 </sub>是人可以预知未来。但由于H<sub>1 </sub>为真的先验概率无比的低，首先没有任何物理学和生物学的证据，其次如果H<sub>1 </sub>为真，人就可以靠预知未来在赌场发大财了（详见<a href="http://commonsenseatheism.com/wp-content/uploads/2010/11/Wagenmakers-Why-Psychologists-Must-Change-the-Way-They-Analyze-Their-Data.pdf" target="_blank">Wagenmakers等的估算</a>）。因此假定 p(H<sub>1</sub>) = 10<sup>-20</sup>。那么 p(H<sub>0</sub>) = 1 - 10<sup>-20</sup>。假设一个设计正确的实验得到的数据更可能在 H<sub>1 </sub>为真时出现，比如说是 H<sub>0 </sub>为真时的19倍。那么我们真正想知道的 p(H<sub>1</sub>|D) 可以如下计算
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2012/07/Screen-Shot-2012-07-05-at-1.58.41-AM.png)
+![](/images/2012/07/Screen-Shot-2012-07-05-at-1.58.41-AM.png)
 
 虽然这个后验概率比先验概率 p(H<sub>1</sub>) = 10<sup>-20 </sup>高了不少，但仍然不足以证明人可以预知未来。
 
@@ -72,7 +72,7 @@ Nov 11, 2012 Update: XKCD关于多重比较的犀利图一枚：
 
 我们需要比较的是，
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2012/07/Screen-Shot-2012-07-05-at-2.29.47-AM.png)
+![](/images/2012/07/Screen-Shot-2012-07-05-at-2.29.47-AM.png)
 
 用文字表述就是，
 

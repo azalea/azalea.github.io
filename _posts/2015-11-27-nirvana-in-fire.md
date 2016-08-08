@@ -6,7 +6,7 @@ tags:
 - 电视剧
 - 观后感
 ---
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2015/11/flower.png)
+![](/images/2015/11/flower.png)
 飞流和靖王府的梅花镇楼
 
 ------

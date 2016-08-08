@@ -16,7 +16,7 @@ meta:
 
 包装
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/img_01741.jpg)
+![](/images/2010/07/img_01741.jpg)
 
 建筑材料：
 
@@ -26,6 +26,6 @@ meta:
 
 搞定啦
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/img_0177.jpg)
+![](/images/2010/07/img_0177.jpg)
 
 ![](http://azaleasays.files.wordpress.com/2008/12/img_0178.jpg)

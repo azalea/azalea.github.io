@@ -15,6 +15,6 @@ meta:
   _searchme: '1'
 ---
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/photo.jpg)
+![](/images/2010/07/photo.jpg)
 
 透过IST building的落地窗 看到所谓车辙

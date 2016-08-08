@@ -18,7 +18,7 @@ tags:
 
 你也可以把待办事项文件夹拖到 Dock 上，右键点击，选择“按创建时间排列”和“用列表显示”。这样不用终端也可方便查看。如图：
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2014/02/dock_to_do_list.png)
+![](/images/2014/02/dock_to_do_list.png)
 
 ***
 问二：可是这么新建文件还是好麻烦啊！要先`cd`到待办事项文件夹，再`touch`才可以创建啊。

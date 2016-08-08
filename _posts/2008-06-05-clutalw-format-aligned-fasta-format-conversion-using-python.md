@@ -16,7 +16,7 @@ meta:
 ---
 ClustalW格式是多序列比对程序CLUSTAL W的默认输出格式，大概是这个样子：
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/clw.jpg)
+![](/images/2010/07/clw.jpg)
 
 Aligned FASTA格式是多序列比对程序MUSCLE的默认输出格式，与一般的FASTA格式很相似，只是根据比对结果在序列中填充“-”，使所有序列长度相同，例如：
 

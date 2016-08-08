@@ -28,8 +28,8 @@ meta:
 最后感谢组织者 Jihye, Chai and Nathaniel，感谢所有演讲者，然后大赞一下食物：
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/09/img_2246.jpg)
+![](/images/2011/09/img_2246.jpg)
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/09/img_2248.jpg)
+![](/images/2011/09/img_2248.jpg)
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/09/img_2325.jpg)
+![](/images/2011/09/img_2325.jpg)

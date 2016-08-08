@@ -19,7 +19,7 @@ meta:
 
 没有床，不会用洗衣机，在手洗的帐篷里睡了一夜
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/dscn0070.jpg)
+![](/images/2010/07/dscn0070.jpg)
 <a href="http://picasaweb.google.com/MaZhaorong/ECherryLn" target="_blank">更多...</a>
 
 转天有了床，不久后有了书架，却一直没有桌子，解决方法：把床当椅子，把椅子当桌子
@@ -27,7 +27,7 @@ meta:
 2007.10.29
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/a.jpg)
+![](/images/2010/07/a.jpg)
 
 直到有一天，我们终于有桌子了！
 
@@ -45,7 +45,7 @@ meta:
 2007.12.22
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/dscn0790.jpg)
+![](/images/2010/07/dscn0790.jpg)
 
 <a href="http://picasaweb.google.com/MaZhaorong/NewLookOfOurRoom" target="_blank">更多...</a>
 

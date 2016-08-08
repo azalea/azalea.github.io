@@ -44,7 +44,7 @@ In [1]:
 
 此时应该弹出图形窗口
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/f1.png)
+![](/images/2010/07/f1.png)
 
 
 In [4]: <span style="color:#0000ff;">plot(x,y)</span>
@@ -80,7 +80,7 @@ In [2]: y = [elem**2 for elem in x]
 In [3]: plot(x,y,'ro--')
 ```
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/f2.png)
+![](/images/2010/07/f2.png)
 
 关于plot()函数的详细用法<a href="http://matplotlib.sourceforge.net/api/axes_api.html#matplotlib.axes.Axes.plot" target="_blank">参考这里</a>
 

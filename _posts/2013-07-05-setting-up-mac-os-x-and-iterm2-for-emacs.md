@@ -24,7 +24,7 @@ Emacs interprets `esc` as `META` (`M-`), but `esc` is so inconveniently located.
 
 iTerm2 -&gt; Preferences -&gt; Profiles
 
-![iTerm2 Preferences Profiles](https://dl.dropboxusercontent.com/u/308058/blogimages/2013/07/iterm2_preferences_profiles.png)
+![iTerm2 Preferences Profiles](/images/2013/07/iterm2_preferences_profiles.png)
 
 
 ## Switch left option and left command
@@ -33,11 +33,11 @@ Optional, but it is more convenient to place `META` right next to the `space bar
 
 System Preferences -&gt; Accessibility
 
-![System Preferences Accessibility](https://dl.dropboxusercontent.com/u/308058/blogimages/2013/07/system_preferences_accessibility.png)
+![System Preferences Accessibility](/images/2013/07/system_preferences_accessibility.png)
 
 iTerm2 -&gt; Preferences -&gt; Keys
 
-![iTerm2 Preferences Keys](https://dl.dropboxusercontent.com/u/308058/blogimages/2013/07/iterm2_preferences_keys.png)
+![iTerm2 Preferences Keys](/images/2013/07/iterm2_preferences_keys.png)
 
 
 ## Remap caps lock to control
@@ -46,7 +46,7 @@ iTerm2 -&gt; Preferences -&gt; Keys
 
 System Preferences -&gt; Keyboard
 
-![System Preferences Keyboard](https://dl.dropboxusercontent.com/u/308058/blogimages/2013/07/system_preferences_keyboard.png)
+![System Preferences Keyboard](/images/2013/07/system_preferences_keyboard.png)
 
 ## Acknowledgments
 

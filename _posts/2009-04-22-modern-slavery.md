@@ -14,7 +14,7 @@ meta:
   views: '396'
 ---
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/modernslavery.png)
+![](/images/2010/07/modernslavery.png)
 
 via <a href="http://www.freetheslaves.net/" target="_blank">Free the Slaves</a>
 

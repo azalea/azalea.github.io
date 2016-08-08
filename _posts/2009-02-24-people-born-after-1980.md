@@ -16,7 +16,7 @@ meta:
   _searchme: '1'
 ---
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/millennial.jpg)
+![](/images/2010/07/millennial.jpg)
 
 其实，我本来想写副标题的： ------关于美国和中国时代特征的调查报告 （啊，我爱死这副标题了，总算没辱没了我科研人员的称号，通俗地说，就是女博士）
 

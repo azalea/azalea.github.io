@@ -33,7 +33,7 @@ Jack 的实验室试图通过构建一个<a href="http://genetics.mgh.harvard.ed
 3. 具有生长和分裂的周期。
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/09/screen-shot-2011-09-26-at-11-56-58-pm.png)
+![](/images/2011/09/screen-shot-2011-09-26-at-11-56-58-pm.png)
 
 这个原始细胞同时需要从环境种获得各种能量：
 
@@ -59,7 +59,7 @@ Jack 的实验室首先需要找到一种适合模拟原始细胞的细胞膜的
 Jack 的实验室进一步研究更重要的性质3，即细胞是如何生长并分裂的。他们遇到了很多困难，在起初的实验条件下，形成的囊泡大小不一，甚至互相嵌套，因此很难观察到囊泡到底是如何生长分裂的。他们放宽了实验条件（具体参数没提到），终于得到大小比较均一的囊泡，他们在囊泡溶液中加入<a href="http://zh.wikipedia.org/wiki/%E8%83%B6%E6%9D%9F">胶束</a>（<a href="http://en.wikipedia.org/wiki/Micelle">micelle</a>）后，观察到囊泡自发的伸长和断裂。
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/09/screen-shot-2011-09-27-at-12-33-37-am.png)
+![](/images/2011/09/screen-shot-2011-09-27-at-12-33-37-am.png)
 <a href="http://genetics.mgh.harvard.edu/szostakweb/publications/Szostak_pdfs/Schrum_et_al_CSH_2010.pdf">
 
 (<a href="http://genetics.mgh.harvard.edu/szostakweb/publications/Szostak_pdfs/Schrum_et_al_CSH_2010.pdf">来源</a>）
@@ -78,7 +78,7 @@ Jack 认为，原始的遗传物质很可能与现在的遗传物质不同，是
 演讲的后半部分，Jack 讲到原始细胞膜向现代细胞膜进化的可能原理。实验发现，把脂肪酸双分子层囊泡与混有磷脂的脂肪酸双分子层囊泡放在一起，含有磷脂的囊泡会逐渐吸收不含磷脂的囊泡，从而增长变大，逐渐吃掉相邻的小囊泡。原因是磷脂双分子层更加稳定，单个磷脂分子很难脱离，而脂肪酸双分子层则相反。下图是细胞膜从原始到现代的演化模型，灰色尾巴的是脂肪酸，绿色的是磷脂。随着细胞膜成分种磷脂比例的增加，细胞膜的渗透性降低，这提供了细胞内部新陈代谢演化的选择压力（<a href="http://genetics.mgh.harvard.edu/szostakweb/publications/Szostak_pdfs/Budin_et_al_2011_PNAS.pdf">原始文献</a>）。
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/09/screen-shot-2011-09-27-at-12-58-01-am.png)
+![](/images/2011/09/screen-shot-2011-09-27-at-12-58-01-am.png)
 
 最后，Jack 讲到生命出现的最佳环境（最早是<a href="http://astrobiology.nasa.gov/directory/profile/546/david/deamer/">David Deamer</a> 提出的）：
 

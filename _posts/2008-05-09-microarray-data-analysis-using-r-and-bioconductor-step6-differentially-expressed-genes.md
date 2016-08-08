@@ -41,7 +41,7 @@ text(1000,c(0.6,0.7),labels=c('raw p-value','adjusted p-value'),col=c('black','r
 text(1000,0.08,labels='p=0.05',col='blue')</font>
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/pvalue.jpg)
+![](/images/2010/07/pvalue.jpg)
 
 可见调整后只有一个基因的p value小于0.05，而未调整的有170个基因的p value小于0.05，可以说虽然此方法降低了错误发现率，但是也导致了很高的False negative.
 
