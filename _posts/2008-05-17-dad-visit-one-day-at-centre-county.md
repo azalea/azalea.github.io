@@ -4,7 +4,7 @@ title: 老爸来访及Centre County一日游
 tags:
 - on the road
 - travel
-- 米国
+- 美国
 status: publish
 type: post
 published: true

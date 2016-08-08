@@ -6,7 +6,7 @@ tags:
 - python
 - study
 - 看牙
-- 米国
+- 美国
 - 考试
 status: publish
 type: post

@@ -3,7 +3,7 @@ layout: post
 title: The 380-mile Allegheny Highlands Trail
 tags:
 - cycling
-- 米国
+- 美国
 status: publish
 type: post
 published: true

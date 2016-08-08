@@ -5,7 +5,7 @@ tags:
 - chicago
 - on the road
 - travel
-- 米国
+- 美国
 status: publish
 type: post
 published: true

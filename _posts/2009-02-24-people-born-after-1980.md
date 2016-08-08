@@ -4,7 +4,7 @@ title: 美国的80后？
 tags:
 - 80后
 - gossip
-- 米国
+- 美国
 status: publish
 type: post
 published: true

@@ -7,7 +7,7 @@ tags:
 - spring break
 - travel
 - washington
-- 米国
+- 美国
 status: publish
 type: post
 published: true

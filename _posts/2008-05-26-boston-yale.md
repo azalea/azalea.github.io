@@ -4,7 +4,7 @@ title: 波士顿耶鲁三日游
 tags:
 - on the road
 - travel
-- 米国
+- 美国
 status: publish
 type: post
 published: true
