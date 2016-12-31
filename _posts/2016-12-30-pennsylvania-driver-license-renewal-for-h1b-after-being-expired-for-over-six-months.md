@@ -6,7 +6,7 @@ tags:
   - 驾照
 ---
 
-[PennDot网站上](http://www.dmv.org/pa-pennsylvania/renew-license.php)说：
+[PennDot网站](http://www.dmv.org/pa-pennsylvania/renew-license.php)说：
 
 > Expired Driver's License
 >
