@@ -14,7 +14,7 @@ tags:
 
 > 底片印样记录了得到最终作品的每一步，观看者就仿佛走入相机背后，和摄影师同行同看。
 
-下面是街拍大师 Elliott Erwitte 拍摄的著名照片：
+下面是街拍大师 Elliott Erwitt 拍摄的著名照片：
 
 [![照片](/images/2017/01/NYC15335.jpg)](https://pro.magnumphotos.com/Asset/-2K7O3RYMNVJ.html)
 
@@ -32,7 +32,7 @@ Martine Franck：
 
 > 一方面我不想让别人看到我的底片印样，但同时我又想看别人的底片印样。
 
-Elliot Erwitte：
+Elliot Erwitt：
 
 > 通常我看到自己的底片印样都会沮丧，因为我总是期望很高，但看完之后可能大失所望。
 
