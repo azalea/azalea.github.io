@@ -48,7 +48,7 @@ tags:
 
 上面的例子只是想说，大神的神作，也是经过不断尝试、反复打磨而成。我们不能只看到珍珠的璀璨就望而却步，却无视了泥沙的孕育。
 
-程序员应急宝典 [StackOverflow](http://stackoverflow.com/) 的创始人 Jeff Atwood 的博客 [Coding Horror](https://blog.codinghorror.com/) 与 [Joe on Software](https://www.joelonsoftware.com/) 齐名。而 Jeff 2014年开始写博客时，后者早已业界闻名。Jeff 在文章[《博客终极成功的简单一步》](https://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/》)中写道：
+程序员应急宝典 [StackOverflow](http://stackoverflow.com/) 的创始人 Jeff Atwood 的博客 [Coding Horror](https://blog.codinghorror.com/) 与 [Joe on Software](https://www.joelonsoftware.com/) 齐名。而 Jeff 2004年开始写博客时，后者早已业界闻名。Jeff 在文章[《博客终极成功的简单一步》](https://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/》)中写道：
 
 > 我默默无闻地写这个博客写了一年，但是我一直写，因为我喜欢。……我的计划是每周六篇，然后我就一直猛写，一直发文，一直热情洋溢。并不是所有文章都写得好，但是我每次都花时间写。每次写，我都写得比上次更好一点。
 
@@ -56,7 +56,7 @@ tags:
 
 Jeff 总结道，博客终极成功的秘密就是：
 
-> 做一个合理的写作计划，并按照计划去写。
+> 做一个合理的写作计划，并坚持按照计划去写。
 
 正如 Jeff 的另一篇文章的标题所说：[有强度，没有天才又如何？](https://blog.codinghorror.com/who-needs-talent-when-you-have-intensity/)
 
