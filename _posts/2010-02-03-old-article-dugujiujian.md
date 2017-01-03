@@ -5,26 +5,18 @@ tags:
 - fun
 - 朝花夕拾
 - 武侠
-status: publish
-type: post
-published: true
-meta:
-  _searchme: '1'
-  views: '349'
-  ratings_users: '0'
-  ratings_score: '0'
-  ratings_average: '0'
 ---
+
 今日百度出来的。。。
 
-<a href="http://club.163.com/viewElite.m?catalogId=135082&amp;eliteId=135082_100d2c9dca90014" target="_blank">http://club.163.com/viewElite.m?catalogId=135082&amp;eliteId=135082_100d2c9dca90014</a>
+[此链接已失效](http://club.163.com/viewElite.m?catalogId=135082&amp;eliteId=135082_100d2c9dca90014)
 
-此文是高中英语课作业，因为我们英语老师立剑同学对独孤九剑和英语学习的关系有很深的研究，故上课发了盗版的《笑傲江湖》片段，让大家写读后感。。
+缘起：此文是高中英语课作业，因为我们英语老师立剑同学对独孤九剑和英语学习的关系有很深的研究，故上课发了盗版的《笑傲江湖》片段，让大家写读后感。。
 
+---
 
-##再论独孤九剑
+## 再论独孤九剑
 
-马昭荣
 
 很早我就拜读过金庸的《笑傲江湖》，深为其中讲述的独孤九剑所折服，一招之间便能刺瞎15人的眼睛，真是出神入化。上学期的一节英语选修课上，我第一次听说独孤九剑居然和学习有关，甚至与只动口不动手的英语学习沾亲带故，令我耳目一新，豁然开朗。之后我写了一点文字，表达我对独孤九剑与英语学习的关系的理解。最近，我第三次读了《笑傲江湖》第十回，偶有所得，欣然忘食，一吐为快。
 
