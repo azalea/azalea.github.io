@@ -12,4 +12,4 @@ meta:
   _searchme: '1'
 ---
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/imagephp1.png)
+![](/images/2010/07/imagephp1.png)

@@ -9,20 +9,28 @@ published: true
 meta:
   views: '614'
 ---
-$ sudo apt-get install vpnc
-$ sudo vim /etc/vpnc/example.conf
-IPSec gateway ***
-IPSec ID ***
-IPSec secret ***
-Xauth username ***
+
+    $ sudo apt-get install vpnc
+
+    $ sudo vim /etc/vpnc/example.conf
+
+    IPSec gateway ***
+    IPSec ID ***
+    IPSec secret ***
+    Xauth username ***
+
 gateway就是你要链接的地址 如：mobility.up.psu.edu(wireless) vpn.aset.psu.edu(wired)
+
 ID就是Group name 如:pennstate(wireless) psuconnect(wired)
+
 secret就是Group password 如:pennstate(wireless) psuconnect(wired)
+
 Xauth username 即个人用户名
 
 保存退出
 
-$ sudo vpnc example.conf
+    $ sudo vpnc example.conf
+
 输入密码 等待连接即可
 
 ---

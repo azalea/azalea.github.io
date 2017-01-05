@@ -8,7 +8,7 @@ tags:
 ---
 昨天我才后知后觉的发现，我在 GitHub 上的屈指可数的贡献值
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2014/03/git_contributions_before.png)
+![](/images/2014/03/git_contributions_before.png)
 
 原来是因为我在本地没有[关联邮箱到 GitHub](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile#have-you-linked-your-git-email-to-your-github-account)，而不是[@ztpala](https://twitter.com/ztpala)说的有延迟，都延迟了好几个月了好么！
 
@@ -44,7 +44,7 @@ git 已经为我们准备好了篡改工具，[git filter-branch](http://git-scm
 
 此时查看 `git log`，确认名字和邮箱改好以后，`git push origin master --force`，大功告成！
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2014/03/git_contributions.png)
+![](/images/2014/03/git_contributions.png)
 
 
 

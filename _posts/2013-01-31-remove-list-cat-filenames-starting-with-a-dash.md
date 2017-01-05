@@ -3,25 +3,19 @@ layout: post
 title: Remove / list / cat filenames starting with a dash
 tags:
 - linux
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
+language: en
 ---
-<pre>
-# Don't ask me how come one names a file with a leading dash!
+Don't ask me how come one names a file with a leading dash!
 
-rm -- -weirdfilename
+    rm -- -weirdfilename
 
-# -- means the end of parameters, treats what's following as filename
-# Or:
+-- means the end of parameters, treats what's following as filename
+Or:
 
-rm ./-weirdfilename
+    rm ./-weirdfilename
 
-# Similarly,
+Similarly,
 
-ls -- -*
+  ls -- -*
 
-cat -- -*
-</pre>
+  cat -- -*

@@ -17,7 +17,7 @@ meta:
   _searchme: '1'
 ---
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/1.jpg)
+![](/images/2010/07/1.jpg)
 
 上周购得14磅乐高砖头，今天做完2个presentation，终于有空改行做建筑工人了。 由于<a href="https://friendfeed.com/pala">pala</a>把好砖都拿去<a href="http://ztpala.com/2009/03/20/lego-gmail/">盖Gmail</a>了，于是我用一堆破砖，瞎盖了一楼。
 为了节省建筑材料，楼都是中空的，有的墙壁也是空的，终于明白啥是豆腐渣工程了。

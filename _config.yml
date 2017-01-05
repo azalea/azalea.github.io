@@ -1,8 +1,7 @@
 name: azaleasays
-markdown: redcarpet
-redcarpet:
-    extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
-permalink: /:year/:month/:day/:title
+markdown: kramdown
+exclude: [ README.md, newpost.rb, CNAME ]
+permalink: /:year/:month/:day/:title/
 title: azalea says
 timezone: America/New_York
 subscribe: http://azaleasays.com/atom.xml

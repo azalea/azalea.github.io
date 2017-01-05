@@ -49,7 +49,7 @@ Science 7 May 2010:Vol. 328 no. 5979 pp. 710-722
 通常人类的单倍体图谱是下图左边的结构，非洲人群（A）差异最大。但是有少数的位点，最大的差异并不存在于非洲人之间，而是存在于欧亚人（nA）之间，下图右边：
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/09/haplotype.png)
+![](/images/2011/09/haplotype.png)
 
 同时，与非洲人相比，尼安德特人和欧亚人有更多相同的SNP，这些都表明，尼安德特人很可能和欧亚人有过基因交流。
 

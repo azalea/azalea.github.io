@@ -15,4 +15,4 @@ meta:
 ---
  
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/9th_birthday_res.gif)
+![](/images/2010/07/9th_birthday_res.gif)

@@ -5,7 +5,7 @@ tags:
 - gossip
 - PhD
 - study
-- 米国
+- 美国
 status: publish
 type: post
 published: true

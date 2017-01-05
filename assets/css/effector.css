@@ -31,7 +31,7 @@ a:hover, a:active {
     outline: 0;
 }
 img {
-    max-width: 640px;
+    max-width: 100%;
     height: auto;
     border: 0;
     -ms-interpolation-mode: bicubic;
@@ -39,8 +39,8 @@ img {
 .wrapper p img {
     clear: both;
     display: block;
-    margin-left: -20px;
-    margin-right: -20px;
+    margin-left: 0;
+    margin-right: 0;
 }
 
 body {

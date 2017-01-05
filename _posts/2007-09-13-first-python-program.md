@@ -17,4 +17,4 @@ meta:
 贴一下成果，用python画的图，要多多感谢<a href="http://matplotlib.sourceforge.net/" target="_blank">matplotlib</a> module！
 script就不贴了，写得实在没逻辑。。
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/yeast_heat_shock_plot.png)
+![](/images/2010/07/yeast_heat_shock_plot.png)

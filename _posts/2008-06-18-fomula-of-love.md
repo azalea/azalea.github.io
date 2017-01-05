@@ -26,7 +26,7 @@ meta:
 
 原理很简单，就是画出方程 17x^2-16|x|y+17y^2=225  的图像：
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/love.png)
+![](/images/2010/07/love.png)
 
 以下是代码（基本都是从风雷的技术天地那里抄来的，不过窃以为我的配色比较正常@@）
 

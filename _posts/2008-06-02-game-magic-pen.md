@@ -12,7 +12,7 @@ meta:
   _searchme: '1'
 ---
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/magicpen.jpg)
+![](/images/2010/07/magicpen.jpg)
 <a href="http://www.addictinggames.com/magicpen.html" target="_blank">http://www.addictinggames.com/magicpen.html</a>
 
 画出形状、钉子、铰链，使小红球与小红旗团聚~

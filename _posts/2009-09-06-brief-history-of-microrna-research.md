@@ -28,12 +28,12 @@ Victor Ambros是微RNA (<a href="http://en.wikipedia.org/wiki/MicroRNA" target="
 
 早在1989年，Victor就发现线虫 ( <a href="http://en.wikipedia.org/wiki/C_elegans" target="_blank"><em>C. elegans</em></a>) 中有个基因 lin-4 抑制另一个基因 lin-14，他们知道 lin-14表达一种调控发育的蛋白质，于是他们认为 lin-4 应该也表达一种调控蛋白质，因为基因转录成RNA并翻译成蛋白质是当时认为的公理。1993年，Victor的学生 Rosalind Lee 和 Phonda Feinbaum 克隆出了 lin-4，却发现这个基因非常小，而且这个基因的产物不是蛋白质，而是一个长度只有22个核苷酸的小RNA。它是由单链的RNA分子产生，这个分子的一端折回来形成不完全的互补配对（下图），人称发卡结构，因为长的像<a href="http://www.chineseknotting.org/projects/bbb-hairpin-big.jpg" target="_blank">发卡</a>嘛，现在我们称之为前体微RNA (pre-miRNA)，因为微RNA就是由这个大一点的RNA分子加工产生的（下图中深蓝色或红色的那段）。
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/lin4.png)
+![](/images/2010/07/lin4.png)
 
 
 与此同时，Gary Ruvkun（2008年Lasker奖另外一个得主）的实验室发现 lin-14，就是lin-4抑制表达的那个基因的3'端非翻译区 (3' UTR) 对 lin-4 的功能是很重要的，如果破坏了这段区域，lin-4就不再抑制 lin-14。Gary和Victor继而发现，lin-14 的 3' UTR 与lin-4是部分互补配对的，于是lin-4可以通过碱基间氢键的作用与 lin-14 结合，进而抑制 lin-14 （下图，注意这里 lin-4的序列要从右往左看）。
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/lin4target.png)
+![](/images/2010/07/lin4target.png)
 
 
 于是大家欣喜的认为他们发现了一类新的RNA，于是他们就在线虫的近亲里面寻找 lin-4和lin-14的同源基因，结果非常令人失望，他们啥也没找到。于是Victor觉得，也许lin-4的存在仅仅是线虫偶然进化出来的特例。十几年前，生物学家已经有了很好的模型解释基因调控，就是其他基因表达的蛋白质产物是调控因子，他们并不需要微RNA来解释这一切。于是在2000年以前，对微RNA的研究停滞不前。
@@ -45,7 +45,7 @@ Victor Ambros是微RNA (<a href="http://en.wikipedia.org/wiki/MicroRNA" target="
 
 两种不同的微RNA的存在似乎表明，微RNA可能真的在生物界广泛存在。确实，Gary和同事们很快发现，let-7在许多动物物种内都存在，而且序列完全一样。下图是 lin-4 和 let-7 在不同物种间序列的比较。可以看出线虫的 lin-4和其他物种的 lin-4 （由于差异太大，名字都改成别的了，叫 miR-125） 序列间的差异很大（22个核苷酸里有3个不同），而 let-7的序列，从线虫到果蝇到小鼠到人，都是一样的（除了末尾那个）。
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/lin4let7alignment.png)
+![](/images/2010/07/lin4let7alignment.png)
 
 
 于是 Gary和Victor就着手寻找线虫中的其他微RNA。Victor在文章中回忆说，他们天真的以为只有他们在做微RNA的研究，因为这么多年以来，没有其他人对此感兴趣。一次有关线虫的会议上，他听到传言说<a href="http://web.wi.mit.edu/bartel/pub/" target="_blank"> David Bartel</a>（偶老板的老板耶） 在克隆线虫的微RNA，也没放心上，只想了下:"Bartel？...他根本不是搞线虫的" (言下之意，这是哪里的无名小卒啊）。

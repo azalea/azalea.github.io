@@ -6,7 +6,7 @@ tags:
   - linux
   - sort
   - genomics
-  
+language: en  
 ---
 One common task that comes up regularly when analyzing genomic data is to sort a data file by chromosome names. See the following `example.txt` file:
 
@@ -68,7 +68,7 @@ The result, however, is not quite what we want:
      
 It correctly sorted the chromosome names with numbers, but it placed the chromosomes with letters at the beginning.
 
-I haven't figured out how to precede letters by numbers along this path, but it turns out another option of sort `-V` comes to our rescure:     
+I haven't figured out how to precede letters by numbers along this path, but it turns out another option of sort `-V` comes to our rescue:     
 
 	sort -k1,1 -V -s example.txt
 	

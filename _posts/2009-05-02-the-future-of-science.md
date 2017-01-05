@@ -33,7 +33,7 @@ meta:
 <h3 id="part1">第一部分：迈向更开放的科学文化 科学如何受益于互联网？</h3>
 互联网怎样改变科学研究的方式？可以从两个角度回答。第一，在线工具可以扩展世界共享的科学知识的范围：
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/futurescience1.png)
+![](/images/2010/07/futurescience1.png)
 
 两个成功的例子是：物理学杂志预印本在线分享网站<a href="http://www.arxiv.org/">physics preprint arXiv</a>和生物学在线数据库<a href="http://www.ncbi.nlm.nih.gov/Genbank/">GenBank</a>。更多的在线工具定位比较窄，虽然它们可能有更广阔的应用，比如：实验视频分享网站 <a href="http://www.jove.org/">Journal of Visualized Experiments</a> 和科学家工作笔记分享网站 <a href="http://drexel-coas-elearning.blogspot.com/2006/09/open-notebook-science.html">open notebook science</a>。在不久的将来，更多这类在线工具将会出现，用来分享各种类型的知识:
 
@@ -117,7 +117,7 @@ Innocentive 是建立科学问题和解决方法市场的例子。当然，它�
 
 作为生活流的组成部分，FriendFeed允许信息简便快捷的来回传播，因此围绕共同兴趣可以形成社区，分享友谊。2008年4月, 南安普顿大学的化学家 <a href="http://blog.openwetware.org/scienceintheopen/">Cameron Neylon</a> 用FriendFeed消息发表了题为 <a href="http://friendfeed.com/e/9875b15c-7932-4714-aaba-2a15950219ec/Request-for-assistance/">request for assistance</a> 的关于建立分子模型的问题。很快 <a href="http://freelancingscience.com/">Pawel Szczesny</a> 回复说他可以帮忙。科学合作就这样展开了。原文和讨论在此：
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/friend_feed_neylon.png)
+![](/images/2010/07/friend_feed_neylon.png)
 
 FriendFeed 是项好服务，但是它也受到影响其他评论网站如维基百科的那些问题的影响。由于没有衡量贡献的方法，科学家很难重度使用 FriendFeed作为科学合作的媒介。而且，如果没有广泛的用户，使用FriendFeed来进行科学合作仍难以普及。
 

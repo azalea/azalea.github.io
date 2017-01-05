@@ -14,7 +14,7 @@ meta:
   _wp_old_slug: google%e7%9a%84%e9%97%b0%e5%b9%b4logo
 ---
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2008/02/leapyear08.gif)
+![](/images/2008/02/leapyear08.gif)
 
 另外，学几句英语吧
 

@@ -3,7 +3,7 @@ layout: post
 title: The 380-mile Allegheny Highlands Trail
 tags:
 - cycling
-- 米国
+- 美国
 status: publish
 type: post
 published: true
@@ -18,7 +18,7 @@ meta:
 
 以下是巨小版地图,点击地图可下载稍微大点版的:
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/alleghenyhighlandtrailmap.gif)
+![](/images/2010/07/alleghenyhighlandtrailmap.gif)
 
 这条路线的一些参数：
 

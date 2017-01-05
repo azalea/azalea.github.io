@@ -18,7 +18,7 @@ meta:
 今天下了这个冬天最大的一场雪，积雪大概有30cm厚。
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/img_0912.jpg)
+![](/images/2010/07/img_0912.jpg)
 
 连Atherton St这样的交通要道都被雪覆盖了，呼啸往来的清雪车也无能为力。
 
@@ -27,6 +27,6 @@ meta:
 晚上雪终于停了，于是在家门前堆起了雪人。<a href="http://picasaweb.google.com/MaZhaorong/BirthOfSnowman" target="_blank">这里是作案过程</a>，当当当当，我们的雪人听起音乐来了。
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/img_0936.jpg)
+![](/images/2010/07/img_0936.jpg)
 
 更多照片在<a href="http://picasaweb.google.com/MaZhaorong/HeavySnow" target="_blank">这里</a>

@@ -4,7 +4,7 @@ title: 新年在纽约
 tags:
 - on the road
 - travel
-- 米国
+- 美国
 - 节日
 status: publish
 type: post

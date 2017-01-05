@@ -16,7 +16,7 @@ meta:
   ratings_average: '1'
 ---
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/hotspots_24nt.png)
+![](/images/2010/07/hotspots_24nt.png)
 
 此图的目的是两两比较不同样本的相似性，有点类似于基因芯片的 heatmap，感兴趣其生物学意义的筒子可以看<a href="http://www.plantcell.org/cgi/content/short/tpc.110.073882?keytype=ref&amp;ijkey=ChuzaZwudrANgEF" target="_blank">paper</a>。这个是草图，后来保存成ps格式导入Adobe Illustrator修改了不少地方。
 

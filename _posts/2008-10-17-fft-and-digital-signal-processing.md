@@ -22,7 +22,7 @@ Matlab代码是这样:
 y=exp(-(cos(t).^2)).*(sin(2*t)+2*cos(4*t)+0.4*sin(t).*sin(50*t));</div>
 画出来是酱紫:
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/orisignal.png)
+![](/images/2010/07/orisignal.png)
 
 看起来有点混乱, 于是我想过滤掉一些频率, 减少噪声. 比如我想过滤掉所有高频, 只保留最低的6个频率, 那么就需要借助Matlab的函数<a href="http://www.mathworks.com/access/helpdesk/help/techdoc/index.html?/access/helpdesk/help/techdoc/ref/fft.html" target="_blank">fft</a>和<a href="http://www.mathworks.com/access/helpdesk/help/techdoc/index.html?/access/helpdesk/help/techdoc/ref/ifft.html" target="_blank">ifft</a>了. fft就是快速傅立叶变换, 通过一系列信号值求出所有频率; 而ifft是逆向离散傅立叶变换, 即通过频率求信号值.
 
@@ -42,7 +42,7 @@ hold off
 
 结果如图:
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/filtered.png)
+![](/images/2010/07/filtered.png)
 
 话说是不是平滑一些了?
 

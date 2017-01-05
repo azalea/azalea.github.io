@@ -23,7 +23,7 @@ tags:
 
 于是我们要祭出神器，[Google Ngram Viewer](http://books.google.com/ngrams)。这个神器统计了各个语言书籍里词组的出现频率。搜索 `on one hand,on the one hand,on the other hand`，我们就得到了下图（[原图](http://books.google.com/ngrams/graph?content=on+one+hand%2C+on+the+one+hand%2C+on+the+other+hand&amp;year_start=1800&amp;year_end=2000&amp;corpus=15&amp;smoothing=0&amp;share=)):
 
-![ngram](https://dl.dropboxusercontent.com/u/308058/blogimages/2013/07/ngram_on_the_other_hand.png)
+![ngram](/images/2013/07/ngram_on_the_other_hand.png)
 
 我们可以得到以下结论：
 

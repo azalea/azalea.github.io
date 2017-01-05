@@ -18,7 +18,7 @@ meta:
 
 原始来源: <a href="http://www.nature.com/reviews/molcellbio" target="_blank">Nature Reviews Molecular Cell Biology</a> volumn e 9 | May 2008 |
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/9typesofpis.jpg)
+![](/images/2010/07/9typesofpis.jpg)
 
 发现偶老板是 11(+)(-) 22(+) 33(+) 的复合体 (对角线啊!)
 
@@ -95,13 +95,13 @@ meta:
 <div class="mceTemp"><dl class="wp-caption alignnone"><dt class="wp-caption-dt"/> </dl></div>
 <strong> 12种研究生</strong>
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/9typesofgradstudents.jpg)
+![](/images/2010/07/9typesofgradstudents.jpg)
 
 偶大概是23+32
 
 <strong> 9种博士后</strong>
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/9typesofpostdocs.jpg)
+![](/images/2010/07/9typesofpostdocs.jpg)
 
 大家看起来都好老啊...
 

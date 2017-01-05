@@ -1,4 +1,4 @@
 _site/
 _gh_pages
 _drafts/
-.DS_Store
+*.DS_Store

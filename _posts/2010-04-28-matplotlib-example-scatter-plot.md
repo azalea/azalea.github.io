@@ -16,7 +16,7 @@ meta:
   ratings_average: '0'
 ---
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/expression_precision_scatterplot.png)
+![](/images/2010/07/expression_precision_scatterplot.png)
 <a href="http://dl.dropbox.com/u/308058/blog/2010/precision.p" target="_blank">数据文件</a>
 
 ```python

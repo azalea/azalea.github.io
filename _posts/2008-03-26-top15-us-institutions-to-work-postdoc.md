@@ -5,7 +5,7 @@ tags:
 - postdoc
 - rank，排名
 - study
-- 米国
+- 美国
 status: publish
 type: post
 published: true

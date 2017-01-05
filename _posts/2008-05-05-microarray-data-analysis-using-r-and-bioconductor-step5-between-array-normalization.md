@@ -49,4 +49,4 @@ lines(density(norm_log_btw_array[,i]),type='l',col='green')
 text(1.5,c(0.8,1.0),labels=c('BEFORE normalization','AFTER normalization'),col=c('black','green'))</font>
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/norm_btw.jpg)
+![](/images/2010/07/norm_btw.jpg)

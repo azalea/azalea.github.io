@@ -48,4 +48,4 @@ ylabel(r"Prediction", fontsize = 12)
 show()
 ```
 结果如图
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/logarithmic_scatter.png)
+![](/images/2010/07/logarithmic_scatter.png)

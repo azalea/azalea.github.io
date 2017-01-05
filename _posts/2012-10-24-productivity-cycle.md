@@ -12,7 +12,7 @@ meta:
   _edit_last: '1'
 ---
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2012/10/productivity2.png)
+![](/images/2012/10/productivity2.png)
 
 此图是我的真实写照。记于组会前4小时。
 

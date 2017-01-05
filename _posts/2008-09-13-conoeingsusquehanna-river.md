@@ -24,7 +24,7 @@ Chesapeake Bay Foundation的Sally和Tom给我们讲了什么是canoe，怎样上
 
 Canoe的名字们都很搞笑，比如以下几个：In a Pickle, Peas in a Pod, Scrapping by，都是描述你翻船落水后的样子。。我最喜欢的就是Flipper了，意思就是翻船的人。
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/img_05321.jpg)
+![](/images/2010/07/img_05321.jpg)
 
 ![](http://azaleasays.files.wordpress.com/2008/09/img_0533.jpg)
 
@@ -40,7 +40,7 @@ Canoe的名字们都很搞笑，比如以下几个：In a Pickle, Peas in a Pod,
 
 下午第一项任务是测水质，包括pH，溶解氧，水温，氮含量，磷含量。Sally讲了各项指标的意义以及我们预期指标是啥，然后每组6人分别测一项，我们非常幸运地抢到了异常简单的一项，测pH。一个小盒子里装着测量仪器以及仪器使用说明，最汗的是还有一张纸，上面自问自答写着：什么是pH? 什么是buffer? 汗。。我们取了河中间0.5ml水（淌水过去的，好冷啊。。），加入10滴buffer，混合均匀，放到比色盒里，看看样品颜色和哪个pH下的颜色最接近。。结论是ph=7.5。重要的一点是测量结束要把样品倒入废液缸，这一点很赞，因为buffer毕竟会污染水质，虽然只有10滴，不过正如古语：勿以恶小而为之。最终各组的测量结果：pH=7.5(最佳：接近中性）；溶解氧=11ppm（至少5ppm鱼类才能生存）；水温=74F；氮含量=0.7ppm（最多1ppm）；磷含量=0.03ppm（最多0.1ppm）。结论：此时此地水质不错，every fish has a smiling face  
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/smilingfish1.jpg)
+![](/images/2010/07/smilingfish1.jpg)
 
 下一个景点是<a href="http://www.pgc.state.pa.us/pgc/cwp/view.asp?a=458&amp;q=167814" target="_blank">Wade Island</a>，这是宾州最大的<a href="http://zh.wikipedia.org/wiki/%E5%A4%9C%E9%B9%AD" target="_blank">夜鹭</a>(<a href="http://en.wikipedia.org/wiki/Black-crowned_Night_Heron" target="_blank">Black-crowned Night Heron</a>)和<a href="http://zh.wikipedia.org/wiki/%E5%A4%A7%E7%99%BD%E9%B9%AD" target="_blank">大白鹭</a>（<a href="http://en.wikipedia.org/wiki/Great_Egret" target="_blank">Great Egret</a>）栖息地，但是我们去的时候一只鸟也没见到。据说每年6月初是最佳时节，可以见到上百只鸟，到处都是鸟粪的味道。现在一些鸟已经开始迁徙了。夜鹭和大白鹭的栖息地受到了<a href="http://zh.wikipedia.org/wiki/%E9%B8%95%E9%B6%BF" target="_blank">鸬鹚</a>(<span style="font-size:x-small;font-family:Verdana,Arial,Geneva;">Double-crested <a href="http://en.wikipedia.org/wiki/Cormorants" target="_blank">cormorants</a></span>)的破坏，大家就在附近的岛上放了假鸟，想吸引它们筑巢，好像没有成功。于是大家只能射杀鸬鹚来保护夜鹭和大白鹭，因为后者现存数量很少，是保护动物（也不知道是米国的几级保护动物@@）。这段往事在<a href="http://www.pgc.state.pa.us/pgc/cwp/view.asp?a=458&amp;q=167814" target="_blank">这里</a>有详细描述。
 

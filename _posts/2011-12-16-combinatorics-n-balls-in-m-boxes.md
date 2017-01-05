@@ -70,7 +70,7 @@ N球放M盒，其实有8种情况：
 看起来很复杂，其实很简单：
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2011/12/triangle.jpg)
+![](/images/2011/12/triangle.jpg)
 
 性质1，左右两边都是1，第几行就有几个数，比如第5行就是1XXX1
 

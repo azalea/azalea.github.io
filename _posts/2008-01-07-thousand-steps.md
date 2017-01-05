@@ -23,7 +23,7 @@ meta:
 爬了快1小时终于到了,老公去了乱石岗探路,我也爬了一段,看到一只很可爱的虫,疑似是尺蠖.然后沿link trail N继续上山,山的西侧有个很好的观景点,可以看到Juniata River,US22和铁路,我们甚至看到火车了!
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/img_1020.jpg)
+![](/images/2010/07/img_1020.jpg)
 
 夕阳西下,遗憾我们没有时间登顶了,留到下次拉.motel22的老爷爷说,link trail夏天会更美.一路遇到了大概4队人马,大家都很友善,一个老爷爷带着他的kid看我下山的丑态.
 

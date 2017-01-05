@@ -5,7 +5,7 @@ tags:
 - PSU
 - sailing
 - study
-- 米国
+- 美国
 - 读书
 status: publish
 type: post

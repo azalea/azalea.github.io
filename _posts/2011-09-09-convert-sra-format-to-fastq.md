@@ -5,30 +5,23 @@ tags:
 - bioinformatics
 - format
 - software
-status: publish
-type: post
-published: true
-meta:
-  _searchme: '1'
-  _edit_last: '1'
-  original_post_id: '1844'
-  _wp_old_slug: '1844'
+language: en
 ---
 <a href="http://www.ncbi.nlm.nih.gov/geo/" target="_blank">NCBI GEO</a> uses SRA (Sequence Read Archive) format to store sequencing files. <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM621123" target="_blank">e.g. </a>
 
 SRA format needs to be converted into fastq to be used as input to Bowtie, Tophat etc. Here is how:
 
-1.  Download the SRA toolkit from <a href="http://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=software" target="_blank">http://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=software</a>
+1. Download the SRA toolkit from <a href="http://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=software" target="_blank">http://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=software</a>
 
-If you are using 64-bit linux, try the <a href="http://trace.ncbi.nlm.nih.gov/Traces/sra/static/sratoolkit.2.1.4-centos_linux64.tar.gz">CentOS Linux 64 bit architecture</a> first. It is so much pain to compile from source.
+    If you are using 64-bit linux, try the <a href="http://trace.ncbi.nlm.nih.gov/Traces/sra/static/sratoolkit.2.1.4-centos_linux64.tar.gz">CentOS Linux 64 bit architecture</a> first. It is so much pain to compile from source.
 
 2. Decompress the downloaded file, and copy the fastq-dump file to system path.
 
 3. Convert SRA to fastq
-```bash
-fastq-dump <SRA archive file>
-```
-which will create a fastq file with the same name as the SRA archive file.
+
+        fastq-dump SRA_archive_file.sra
+
+    which will create a fastq file with the same name as the SRA archive file.
 
 References:
 

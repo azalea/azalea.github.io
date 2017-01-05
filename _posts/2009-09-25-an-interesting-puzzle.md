@@ -19,11 +19,11 @@ meta:
 
 >Can you take the clock face below, and cut it into four pieces such that the numerals on each part add up to the same number?
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/clock1.jpg)
+![](/images/2010/07/clock1.jpg)
 
 >So, for example, this solution would not work because the numbers on the four pieces add up to different amounts….
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/clock2.jpg)
+![](/images/2010/07/clock2.jpg)
 
 I like this puzzle! You may think it is easy for several times, only to find yourself such an idiot soon.
 

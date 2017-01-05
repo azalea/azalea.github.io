@@ -5,11 +5,7 @@ tags:
 - defaultdict
 - programming
 - python
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
+language: en
 ---
 <script src="https://gist.github.com/3290375.js?file=buggy_defaultdict.py"/>
 

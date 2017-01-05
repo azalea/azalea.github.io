@@ -39,7 +39,7 @@ meta:
 另外，许田的演讲水平不错，屋子里一直欢声笑语，比如他讲筛选转座子，大家试了各种方法都行不通，他就用下面的图鼓励大家 （原来是张真实照片，这个是 <a href="http://twitter.com/ztpala" target="_blank">@ztpala</a>同学ps的，感谢感谢）：
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/signs.png)
+![](/images/2010/07/signs.png)
 
 恩，最后盛赞下组委会，讲座很好，食物都很好吃。
 

@@ -32,7 +32,7 @@ Intensity-dependent normalization通常比global normalization更好，因为后
 对于我们的数据mediandata，我们可以直观的看到log ratio和信号强度的关系：
 
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/mabefore.jpg)
+![](/images/2010/07/mabefore.jpg)
 
 上图叫做MA-plot(MA图)，纵坐标是M=log(R/G)=log(new/old),横坐标是A=1/2*log(R*G)=1/2*log(new*old)。 其中的蓝色曲线是<a href="http://en.wikipedia.org/wiki/Lowess" target="_blank">lowess回归函数</a>(<a href="http://www.itl.nist.gov/div898/handbook/pmd/section1/pmd144.htm" target="_blank">什么是lowess</a>)。（注：由于原始数据有5行有0值，导致有些M或A=Inf或-Inf，无法进行Lowess回归，因此人工删除了这5行，处理后的中位数数据mediandata在<a href="http://dl.getdropbox.com/u/308058/blog/mediandata.txt" target="_blank">这里下载</a>。当然你也可以用原始数据求出M和A值，自己删除Inf值对应的mediandata中的行。
 
@@ -87,7 +87,7 @@ lines(lowess(MAnormed[,1],MAnormed[,2],f=0.2,iter=2),lwd=2,col='blue')</span>
 
 可以从另一个角度看归一化的效果：
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/density.jpg)
+![](/images/2010/07/density.jpg)
 
 <span style="color:#3366ff;">plot(density(normed[,1]),type='line',col='red',xlab='intensity')
 points(density(normed[,2]),type='line',col='green')

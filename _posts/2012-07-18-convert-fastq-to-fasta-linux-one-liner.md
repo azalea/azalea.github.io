@@ -3,11 +3,11 @@ layout: post
 title: Convert fastq to fasta - Linux one-liner
 tags:
 - bioinformatics
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
+- shell
+- sed
+- awk
 ---
-<blockquote>awk 'NR % 4 == 1 || NR % 4 == 2' myfile.fastq | sed -e 's/@/&gt;/' &gt; myfile.fasta</blockquote>
+
+    awk 'NR % 4 == 1 || NR % 4 == 2' myfile.fastq | sed -e 's/@/>/' > myfile.fasta
+
 我就是来吐槽神awk和sed的

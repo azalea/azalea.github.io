@@ -4,11 +4,7 @@ title: Install Target Finder on Mac
 tags:
 - bioinformatics
 - bioinformatics tool
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
+language: en
 ---
 <a href="http://carringtonlab.org/resources/targetfinder">TargetFinder</a> predicts microRNA targets with a plant-specific scheme. To install it on Mac:
 

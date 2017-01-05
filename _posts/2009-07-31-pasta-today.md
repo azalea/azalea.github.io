@@ -14,7 +14,7 @@ meta:
   _searchme: '1'
 ---
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/img_0170.jpg)
+![](/images/2010/07/img_0170.jpg)
 
 七月第一篇 ^^
 

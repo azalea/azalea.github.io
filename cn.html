@@ -1,0 +1,13 @@
+---
+layout: default
+title: 中文存档
+permalink: /cn/
+---
+<div class="wrapper">
+{% assign post_year1 = "" %}
+{% for post in site.posts %}
+    {% if post.language != "en" %}
+        {% include archive_template.html %}
+    {% endif %}
+{% endfor %}
+</div>

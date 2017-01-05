@@ -14,7 +14,7 @@ meta:
 ---
 转PSU校长群发的新年祝福:
 
-![](https://dl.dropboxusercontent.com/u/308058/blogimages/2010/07/holvidlink825rev.jpg)
+![](/images/2010/07/holvidlink825rev.jpg)
 
 Happy Holidays!
 
