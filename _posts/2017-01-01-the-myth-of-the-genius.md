@@ -68,7 +68,7 @@ Jeff 总结道，博客终极成功的秘密就是：
 
 > 做一个合理的写作计划，并坚持按照计划去写。
 
-正如 Jeff 的另一篇文章的标题所说：[有强度，没有天才又如何？](https://blog.codinghorror.com/who-needs-talent-when-you-have-intensity/)
+正如 Jeff 的另一篇文章的标题所说：[有强度，没有天分又如何？](https://blog.codinghorror.com/who-needs-talent-when-you-have-intensity/)
 
 做任何事都是如此。在大家忙着列新年愿望清单之际，写下这篇文章，就是想说，不用担心自己水平差，即使是大神，也是靠不断尝试、不断努力才创作出神作。就像小学课文[《爱因斯坦小时候》](http://book.ifeng.com/special/yuwenshu60/list/200908/0805_7527_1286734.shtml)里讲的，即使你做的板凳很糟糕，只要比之前做得好就是进步。
 
