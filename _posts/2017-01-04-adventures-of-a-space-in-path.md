@@ -22,7 +22,7 @@ Shell complains:
 
     zsh: ./pip: bad interpreter: "/opt/broken_path_preceding_a_space: no such file or directory"
 
-This is [a known issue of virtualenv][https://github.com/pypa/virtualenv/issues/53], because space in shebang line of *nix system is [interpreted as separate arguments](https://github.com/pypa/virtualenv/issues/53#issuecomment-34074888).
+This is [a known issue of virtualenv](https://github.com/pypa/virtualenv/issues/53), because space in shebang line of *nix system is [interpreted as separate arguments](https://github.com/pypa/virtualenv/issues/53#issuecomment-34074888).
 
 So I fixed shebang line by:
 
