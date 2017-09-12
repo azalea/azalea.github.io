@@ -67,6 +67,7 @@ p a {
     margin-right: auto;
     *zoom: 1;
 }
+
 p {
     margin: 0 0 14px;
     font-family: 'Helvetica Neue', 'Hiragino Sans GB', Helvetica, Arial, sans-serif;
@@ -396,10 +397,10 @@ a.label-inverse:hover {
 .invisible {
     visibility: hidden;
 }
-.sitename {
+.sitename a {
     font-size: 40px;
     font-weight: bold;
-    color:  #333;
+    color:  #555;
 }
 .wrapper  {
     background-color:  #fff;
