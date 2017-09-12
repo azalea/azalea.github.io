@@ -7,7 +7,7 @@ tags:
 - linux
 - 开源
 ---
-先从史前时代说起。黑客文化起源于1960年代的 MIT 人工智能实验室。MIT 的黑客为 DEC 的小型机 PDP-10 写了操作系统 ITS，流行了十几年。ITS 是用汇编语言写的，软件大多是用 LISP，包括著名的 emacs。1969年，ARPAnet，第一个横贯美国的高速计算机网络投入运行，连接了美国各大计算机实验室，如斯坦福大学、CMU、施乐（Xerox）。同年，贝尔实验室的 Ken Thompson 开发了 UNIX 操作系统，Dennis Ritchie 开始写 C 语言。黑客们通过邮件列表和兴趣小组交流，当时的网络语言“黑客行话”([Jargon File](http://www.tuxedo.org/jargon)）后来被编撰成书《黑客字典》。
+先从史前时代说起。黑客文化起源于1960年代的 MIT 人工智能实验室。MIT 的黑客为 DEC 的小型机 PDP-10 写了操作系统 ITS，流行了十几年。ITS 是用汇编语言写的，软件大多是用 LISP，包括著名的 emacs。1969年，ARPAnet，第一个横贯美国的高速计算机网络投入运行，连接了美国各大计算机实验室，如斯坦福大学、CMU、施乐（Xerox）。同年，贝尔实验室的 Ken Thompson 开发了 UNIX 操作系统，Dennis Ritchie 开始写 C 语言。黑客们通过邮件列表和兴趣小组交流，当时的网络语言“黑客行话”([Jargon File](http://catb.org/jargon/html/)）后来被编撰成书《黑客字典》。
 
 到了1980年代，ITS 因为不可移植，随着 PDP-10 的停产而销声匿迹，专有 UNIX 因为互不兼容而四分五裂。物美价廉的个人电脑开始占领市场，然而数千美元的商业 UNIX 实在太贵了。Richard Stallman 创建了自由软件基金会（FSF），用 C 语言写了一个类似于 UNIX 的 GNU 操作系统，不同的是，GNU 是自由软件，用户可以自由地对其运行、复制、传播、研究、改进。遗憾地是，GNU 内核的开发一直停滞不前，直到1991年 Linux 横空出世。
 
