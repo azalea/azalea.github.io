@@ -4,6 +4,7 @@ title: Running Git bash and Windows cmd.exe in ConEmu
 categories: 
 tags:
 - windows
+language: en
 ---
 
 Want to run `Git bash` and `cmd.exe` side by side? You got it.
