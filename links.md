@@ -13,4 +13,4 @@ permalink: /links/
 
 大神
 ----
-* [Lucida](http://nshen.net) //最亮的星，算法大神
+* [Lucida](http://lucida.me/) //最亮的星，算法大神
