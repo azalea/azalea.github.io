@@ -15,6 +15,7 @@ permalink: /links/
 大神
 ----
 * [Lucida](http://lucida.me)
+* [胡江堂](http://jiangtanghu.com/cn)
 * [小土刀](https://wdxtub.com)
 * [谢益辉](https://yihui.name)
 * [寱语](http://www.kzeng.info)
