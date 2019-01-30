@@ -14,8 +14,10 @@ permalink: /links/
 
 大神
 ----
-* [Lucida](http://lucida.me)
+* [海德沙龙](http://headsalon.org)
 * [胡江堂](http://jiangtanghu.com/cn)
+* [Lucida](http://lucida.me)
+* [万事屋](https://tcya.xyz)
 * [小土刀](https://wdxtub.com)
 * [谢益辉](https://yihui.name)
 * [寱语](http://www.kzeng.info)
