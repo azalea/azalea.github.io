@@ -23,3 +23,4 @@ permalink: /links/
 * [寱语](http://www.kzeng.info)
 * [于淼](https://yufree.cn)
 * [张列弛](https://www.liechi.org/cn)
+* [卮言日出](https://shadowquark.github.io/)
