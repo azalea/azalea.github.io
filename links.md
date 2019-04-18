@@ -25,3 +25,8 @@ permalink: /links/
 * [于淼](https://yufree.cn)
 * [张列弛](https://www.liechi.org/cn)
 * [卮言日出](https://shadowquark.github.io/)
+
+English
+-------
+* [Blog Inventic.eu](https://blog.inventic.eu/) # Windows programming
+* [Heng Li's blog](http://lh3.github.io/) # Bioinformatics software
