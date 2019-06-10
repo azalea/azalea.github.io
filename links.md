@@ -9,6 +9,7 @@ permalink: /links/
 
 友人
 ----
+* [fivestone](http://blog.fivest.one)
 * [N神的研究所](http://nshen.net)
 * [桑弧蓬矢射四方](http://iphyer.github.io)
 
