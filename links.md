@@ -15,6 +15,8 @@ permalink: /links/
 
 大神
 ----
+* [cdxy.me - Footprints on Cyber Security.](https://www.cdxy.me/)
+* [timqian](https://blog.t9t.io/)
 * [海德沙龙](http://headsalon.org)
 * [胡江堂](http://jiangtanghu.com/cn)
 * [Lucida](http://lucida.me)
