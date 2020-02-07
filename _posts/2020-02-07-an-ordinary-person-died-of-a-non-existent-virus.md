@@ -28,5 +28,5 @@ tags:
 [^13]: [李文亮医生-葱师微博](/images/2020/02/20200206_weibo_congshi.png)
 [^14]: [李文亮母亲接受电话采访-每日经济新闻](/images/2020/02/20200207_liwenliang_mother.jpg)
 [^15]: [普通人李文亮-人物杂志](https://mp.weixin.qq.com/s/I1J3wCbfbMP7AecP1_Ie2A)
-[^16]: [魔幻现实：李文亮医生死后的3个小时](https://api.gzqwkj.com/collection/share/content?data=0000AO7Y&from=groupmessage&isappinstalled=0)
+[^16]: [魔幻现实：李文亮医生死后的3个小时](/images/2020/02/202002062136_mohuanxianshi.png)
 [^17]: [抢救时间线-小海-豆瓣](/images/2020/02/20200207_douban_xiaohai.jpg)
