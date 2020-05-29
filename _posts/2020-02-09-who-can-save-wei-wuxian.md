@@ -141,7 +141,7 @@ p.s. 下文中链接都是剧中对应情节，在 Youtube 上，可自行翻墙
 [^1]: [此推全文](https://twitter.com/IreneFu13/status/1225790766225616896)
 [^2]: [你真的看懂《皇帝的新装》了吗？](https://m.bilibili.com/video/av27732823)
 [^3]: [红眼睛与蓝眼睛](https://www.douban.com/note/722016460/)
-[^4]: [我们能做什么？](https://www.douban.com/note/745786657/)
+[^4]: [我们能做什么？截图版](/images/2020/02/what_we_can_do.jpg) [(已404的原始链接)](https://www.douban.com/note/745786657/)
 [^5]: 魔道祖师八恨：
     > 一、不能护金光瑶于少年  
     > 二、不能遇薛洋于断指前  
