@@ -22,5 +22,5 @@ git config --global core.editor emacsclient
 ```
 ------
 
-Alternative approach tried but failed: set git editor as emacsclient with alternate editor `runemacs`, as suggested on [EmacsWiki](https://www.emacswiki.org/emacs/EmacsMsWindowsIntegration#toc5). I had the issue of either not passing COMMIT_EDITMSG argument to `runemacs`, or passing `#*'` as a buffer (which needs to be closed). i.e. not sure how to correctly pass argument such as COMMIT_EDITMSG to the alternate editor.
+Alternative approach tried but failed: set git editor as emacsclient with alternate editor `runemacs`, as suggested on [EmacsWiki](https://www.emacswiki.org/emacs/EmacsMsWindowsIntegration#toc5). I had the issue of either not passing COMMIT_EDITMSG argument to `runemacs`, or passing `#*` as a buffer (which needs to be closed). i.e. not sure how to correctly pass argument such as COMMIT_EDITMSG to the alternate editor.
 
