@@ -35,7 +35,7 @@ p.s. 前一稿刚看完大结局过于哀伤写得草草，其实越回味越觉
 
 [^1]: [《山河令》编剧小初：周子舒是有两千个图层的灰、温客行有种天真的残忍](https://weibo.com/ttarticle/p/show?id=2309634610089976725607)
 [^2]: [也谈《山河令》中的女性意识-微博@借月望君暂相伴](https://weibo.com/5953825924/K73FJx9Nn)
-[^3]: [“《休战》事件”与“一星运动”始末 by 日益斋](https://www.douban.com/note/798366309/)
+[^3]: [“《休战》事件”与“一星运动”始末 by 日益斋](https://www.douban.com/note/798366309/) [Internet Archive的快照](https://web.archive.org/web/20210331232051/https://www.douban.com/note/798366309/)
 [^4]: [从武侠角度评价山河令——请从绝处读侠气 by 独不见](https://www.douban.com/group/topic/217876986/)
 [^5]: [都给我学！ 阿絮护夫话退叶白衣 教科书级战略话术逐句分析 长文预警](https://www.douban.com/group/topic/215881457/)
 [^6]: [为什么说编剧小初是个平平无奇的过审小天才-微博@爱吐槽的栗小姐](https://m.weibo.cn/status/4618310639948054)
