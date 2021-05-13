@@ -47,7 +47,7 @@ Then the data is ordered as follows:
     chrX	Other
     chrY	Information
     
-Howver, this is not what we want. We'd like the chromosome names sorted numerically when possible. That means, chr10 should come after chr3. 
+However, this is not what we want. We'd like the chromosome names sorted numerically when possible. That means, chr10 should come after chr3. 
 
 Then, let's try:
 
