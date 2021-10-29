@@ -3,6 +3,8 @@ layout: post
 title: 友情链接
 permalink: /links/
 ---
+欢迎独立博客博主编辑本页面（直接点文末`EDIT`即可），稀有物种应抱团取暖。
+
 家属
 ----
 * [如是我聞](http://ztpala.com)
@@ -28,6 +30,11 @@ permalink: /links/
 * [于淼](https://yufree.cn)
 * [张列弛](https://www.liechi.org/cn)
 * [卮言日出](https://shadowquark.github.io/)
+
+豆瓣友邻
+------
+* [怀空随想录](https://zy.blogatlarge.com/)
+
 
 English
 -------
