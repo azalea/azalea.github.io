@@ -10,13 +10,13 @@ tags: everyday TIL
 
 上书“踏步行走请勿拥挤”，不解其意，问特别君：
 
-![chat](/images/2023/08/chat.jpg)
+![chat](/images/2023/08/chat.png)
 
 我心满意足地走了，然后看到牌子上的英文：
 
 ![sign](/images/2023/08/sign_w_english.jpg)
 
-越想越不对劲，于是搜索了“踏步 方言”（搜索小能手正是在下）：
+越想越不对劲，于是搜索了[“踏步 方言”](https://cidian.odict.net/zh-tw/860487279/857087933/)（搜索小能手正是在下）：
 
 ![tabu](/images/2023/08/tabu.jpg)
 
