@@ -1,8 +1,7 @@
 ---
 layout: post
 title: 我与棋(一)--光华BBS旧文备份
-tags:
-- 朝花夕拾
+tags: 朝花夕拾 围棋
 ---
 
 发信人: azalea (..), 信区: Chess
